@@ -20,7 +20,7 @@
 - Beating Enemies for the first time
 - Beating Nights
 - Achievements
-- Non-Achievement Challenges
+- Challenges
 
 ## Options
 - Hard Achievements
