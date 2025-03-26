@@ -25,3 +25,4 @@
 ## Options
 - Hard Achievements
 - Non-Achievement Challenges
+- Fishsanity
