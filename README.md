@@ -1,4 +1,4 @@
-# One-More-Night
+# Archipelago Manual - One More Night
 
 ## Goals
 - Beat TitN Ending
