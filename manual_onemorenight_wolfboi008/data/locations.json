@@ -1,0 +1,1714 @@
+[
+  {
+    "name": "Beat a Night with Balloon Boy Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Balloon Boy|"
+  },
+  {
+    "name": "Beat a Night with Balloon Girl Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Balloon Girl|"
+  },
+  {
+    "name": "Beat a Night with Bad Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Bad|"
+  },
+  {
+    "name": "Beat a Night with Ball Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Ball|"
+  },
+  {
+    "name": "Beat a Night with Barry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Barry| OR |Barry's Top Hat|"
+  },
+  {
+    "name": "Beat a Night with Funsy Barry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Funsy Barry|"
+  },
+  {
+    "name": "Beat a Night with New Barry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|New Barry|"
+  },
+  {
+    "name": "Beat a Night with Old Barry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Old Barry|"
+  },
+  {
+    "name": "Beat a Night with Bunny Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Bunny|"
+  },
+  {
+    "name": "Beat a Night with New Bunny Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|New Bunny|"
+  },
+  {
+    "name": "Beat a Night with Old Bunny Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Old Bunny|"
+  },
+  {
+    "name": "Beat a Night with Chicken Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Chicken|"
+  },
+  {
+    "name": "Beat a Night with New Chicken Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|New Chicken|"
+  },
+  {
+    "name": "Beat a Night with Old Chicken Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Old Chicken|"
+  },
+  {
+    "name": "Beat a Night with Destroyman III Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Destroyman III|"
+  },
+  {
+    "name": "Beat a Night with Dry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Dry| OR |Dry's Calculator|"
+  },
+  {
+    "name": "Beat a Night with FMNoob Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|FMNoob|"
+  },
+  {
+    "name": "Beat a Night with Figure Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Figure| OR |Figure's Glowstick|"
+  },
+  {
+    "name": "Beat a Night with Fox Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Fox|"
+  },
+  {
+    "name": "Beat a Night with Old Fox Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Old Fox|"
+  },
+  {
+    "name": "Beat a Night with Fran Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Fran|"
+  },
+  {
+    "name": "Beat a Night with Glitch Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Glitch|"
+  },
+  {
+    "name": "Beat a Night with Hesitation Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Hesitation|"
+  },
+  {
+    "name": "Beat a Night with Isra Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Isra| OR |Isra's Chicken|"
+  },
+  {
+    "name": "Beat a Night with Jan Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Jan|"
+  },
+  {
+    "name": "Beat a Night with Jaws Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Jaws|"
+  },
+  {
+    "name": "Beat a Night with Jordi 'Jumpscare' Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
+  },
+  {
+    "name": "Beat a Night with Kono Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Kono|"
+  },
+  {
+    "name": "Beat a Night with Mango Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Mango|"
+  },
+  {
+    "name": "Beat a Night with MikePike Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|MikePike|"
+  },
+  {
+    "name": "Beat a Night with (???)/My Shadow Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|(???)/My Shadow| OR |My own Shadow|"
+  },
+  {
+    "name": "Beat a Night with Noob Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Noob|"
+  },
+  {
+    "name": "Beat a Night with Pillar Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Pillar|"
+  },
+  {
+    "name": "Beat a Night with Pot0s Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Pot0s|"
+  },
+  {
+    "name": "Beat a Night with Puppet Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Puppet|"
+  },
+  {
+    "name": "Beat a Night with Raptor Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Raptor|"
+  },
+  {
+    "name": "Beat a Night with Roxie Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Roxie| OR |Fumo Sticker|"
+  },
+  {
+    "name": "Beat a Night with Rush Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Rush|"
+  },
+  {
+    "name": "Beat a Night with Screech Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Screech|"
+  },
+  {
+    "name": "Beat a Night with Strings Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Strings|"
+  },
+  {
+    "name": "Beat a Night with Ventilation Errors Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Ventilation Errors|"
+  },
+  {
+    "name": "Beat a Night with Void Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Void|"
+  },
+  {
+    "name": "Beat a Night with Wormcave Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Wormcave|"
+  },
+  {
+    "name": "Beat a Night with ZGuesto Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|ZGuesto|"
+  },
+  {
+    "name": "Beat a Night with Zuffy Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Zuffy|"
+  },
+  {
+    "name": "Night 1",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night 2",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:1|"
+  },
+  {
+    "name": "Night 3",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:2|"
+  },
+  {
+    "name": "Night 4",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:3|"
+  },
+  {
+    "name": "Night 5",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Night 6",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Night 7",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:6|"
+  },
+  {
+    "name": "Night 8",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:7|"
+  },
+  {
+    "name": "Night 9",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:8|"
+  },
+  {
+    "name": "Night 10",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Night 11",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:10|"
+  },
+  {
+    "name": "Night 12",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:11|"
+  },
+  {
+    "name": "Night 13",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "Night 14",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:13|"
+  },
+  {
+    "name": "Night 15",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:14|"
+  },
+  {
+    "name": "Night 16",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:15|"
+  },
+  {
+    "name": "Night 17",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:16|"
+  },
+  {
+    "name": "Night 18",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:17|"
+  },
+  {
+    "name": "Night 19",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:18|"
+  },
+  {
+    "name": "Night 20/TitN Ending",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Night 21/BiD Ending",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:20|"
+  },
+  {
+    "name": "[TitN] Trapped in the Nightmare",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:19|",
+    "victory": true
+  },
+  {
+    "name": "[BiD] Burning it Down",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|",
+    "victory": true
+  },
+  {
+    "name": "Empty-Handed",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:19| OR (|Progressive Night:20| AND |Gasoline| AND |Lighter|)"
+  },
+  {
+    "name": "No time to think",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:19| OR (|Progressive Night:20| AND |Gasoline| AND |Lighter|)"
+  },
+  {
+    "name": "That's my blood",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "(|Calm| AND ((|Four-Leaf Clover| AND |Progressive Night:1|) OR |My Heart Locket|)) OR ((|Guilty| OR |Devastated| OR |Scorched|) AND (|Four-Leaf Clover| OR |My Heart Locket|) AND |Progressive Night:9|)"
+  },
+  {
+    "name": "Bloodshed",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Calm| AND |Four-Leaf Clover| AND |Progressive Night:9|"
+  },
+  {
+    "name": "Let there be light!",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "Gone Outside",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "Overcharged",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:18| OR (|Progressive Night:16| AND |Spare Batteries|)"
+  },
+  {
+    "name": "Hard Worker",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:19| OR (|Progressive Night:20| AND |Gasoline| AND |Lighter|)"
+  },
+  {
+    "name": "The rich get richer",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Faster than you",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "I called for help.",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:19| AND |Guilty|"
+  },
+  {
+    "name": "Never Tired",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "Taking a stroll",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:12|"
+  },
+  {
+    "name": "Unfortunate",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "(|Four-Leaf Clover| AND |Progressive Night:7|) OR ({YamlEnabled(hardachievements)} AND |Progressive Night:12|}"
+  },
+  {
+    "name": "Beginner Fisher",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Fishsanity Achievements"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Fishing Around",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Fishsanity Achievements"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Master of the Fishing Rod",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Fishsanity Achievements"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Seen the Fish",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Fishsanity Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Did you shake it?",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Bloxy Cola|"
+  },
+  {
+    "name": "The Paint Brush",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Strongest Hammer",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Speed Coil",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Not a Charity",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Nightmare Begins",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Visible Hope",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Halfway Point",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Still not over",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:14|"
+  },
+  {
+    "name": "The End of a Nightmare",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Are you ready for Barry?",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:9| AND |Barry's Top Hat|"
+  },
+  {
+    "name": "Self-Embodiment of Perfection",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges"
+    ],
+    "requires": "{canReachLocation(Math Exam)}"
+  },
+  {
+    "name": "Fighting the Thoughts",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges"
+    ],
+    "requires": "{canReachLocation(Unforgiven)}"
+  },
+  {
+    "name": "All Figured Out",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:9| AND |Figure's Glowstick|"
+  },
+  {
+    "name": "Chicken%",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:9| OR |Isra's Chicken|"
+  },
+  {
+    "name": "No Power Needed",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges"
+    ],
+    "requires": "{canReachLocation(Lights Out)}"
+  },
+  {
+    "name": "Music of the Past",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "{canReachLocation(Lost Music Box)}"
+  },
+  {
+    "name": "Not Today, girl!",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:9| AND |Fumo Sticker|"
+  },
+  {
+    "name": "Quick Thinker",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "{canReachLocation(Constant QTE)}"
+  },
+  {
+    "name": "Unmasked",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Boop!",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Emptyness",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "(|Calm| AND (|Call of the Darkness| AND |Progressive Night:9|) OR |Progressive Night:15|) OR ((|Guilty| OR |Devastated| OR |Scorched|) AND |Progressive Night:9|)"
+  },
+  {
+    "name": "Empty Victory",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:19| OR (|Progressive Night:20| AND |Gasoline| AND |Lighter|)"
+  },
+  {
+    "name": "Shiny Things make me Happy",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I'm Prepared",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Main Items:1|"
+  },
+  {
+    "name": "Another Memory",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Starter Items:1|"
+  },
+  {
+    "name": "No Power, No Problem",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Welcome",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloudy With a Chance of BALLs",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|Ball| AND |Fox| AND |Jan| AND |Jordi 'Jumpscare'| AND |Kono| AND |(???)/My Shadow| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
+  },
+  {
+    "name": "Camera Duty",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|Bad| AND |Barry| AND |Destroyman III| AND |FMNoob| AND |Figure| AND |Fox| AND |Old Fox| AND |Isra| AND |MikePike| AND |Noob| AND |Puppet| AND |Raptor| AND |Wormcave| AND |ZGuesto| AND |Zuffy|"
+  },
+  {
+    "name": "Everyone is Here",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|@Threats:45|"
+  },
+  {
+    "name": "Lights Out",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges"
+    ],
+    "requires": "|Ball| AND |Old Barry| AND |Old Bunny| AND |Old Chicken| AND |Dry| AND |Jan| AND |Kono| AND |Mango| AND |Pot0s| AND |Ventilation Errors|"
+  },
+  {
+    "name": "Lost Music Box",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet| AND |Rush|"
+  },
+  {
+    "name": "Math Exam",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges"
+    ],
+    "requires": "|Dry| AND |Jordi 'Jumpscare'| AND |Kono| AND |Puppet| AND |Roxie|"
+  },
+  {
+    "name": "Office Duty",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|Balloon Boy| AND |Balloon Girl| AND |Ball| AND |Funsy Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Dry| AND |Fran| AND |Jan| AND |Jaws| AND |Jordi 'Jumpscare'| AND |Kono| AND |Mango| AND |(???)/My Shadow| AND |Pillar| AND |Pot0s| AND |Roxie| AND |Rush| AND |Screech| AND |Strings| AND |Ventilation Errors| AND |Void|"
+  },
+  {
+    "name": "Constant QTE",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "|Ball| AND |Old Barry| AND |Fran| AND |Jordi 'Jumpscare'| AND |Rush|"
+  },
+  {
+    "name": "Unforgiven",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges"
+    ],
+    "requires": "|Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Fox| AND |Old Fox| AND |(???)/My Shadow| AND |Puppet| AND |Ventilation Errors|"
+  },
+  {
+    "name": "Weezer",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|Dry| AND |Jan| AND |Kono| AND |Mango|"
+  },
+  {
+    "name": "Black Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Blue Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Cyan Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Green Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Magenta Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Orange Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Purple Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Red Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "White Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Yellow Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Colored Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Bad Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Ball Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Barry Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Bunny Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Chicken Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Destroyman III",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Dry Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "FMNoob Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Fox Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Fran Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Isra Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Jan Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Jordi 'Fish'",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Kono Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Mango Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "MikePike Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Pillar Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Pot0s Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Puppet Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Raptor Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Roxie Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Wormcave Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "ZGuesto Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Zuffy Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Fish Emoji",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Ticket",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Note in a bottle",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Paintbrush Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "The Ferryman",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Void Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Bad Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Bad|"
+  },
+  {
+    "name": "Ball Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ball|"
+  },
+  {
+    "name": "Barry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Barry| OR |Barry's Top Hat|"
+  },
+  {
+    "name": "Funsy Barry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Funsy Barry|"
+  },
+  {
+    "name": "New Barry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|New Barry|"
+  },
+  {
+    "name": "Old Barry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Old Barry|"
+  },
+  {
+    "name": "Bunny Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Bunny|"
+  },
+  {
+    "name": "Old Bunny Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Old Bunny|"
+  },
+  {
+    "name": "Chicken Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Chicken|"
+  },
+  {
+    "name": "New Chicken Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|New Chicken|"
+  },
+  {
+    "name": "Old Chicken Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Old Chicken|"
+  },
+  {
+    "name": "Dry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Dry| OR |Dry's Calculator|"
+  },
+  {
+    "name": "FMNoob Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|FMNoob|"
+  },
+  {
+    "name": "Figure Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Figure| OR |Figure's Glowstick|"
+  },
+  {
+    "name": "Fox Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Fox|"
+  },
+  {
+    "name": "Old Fox Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Old Fox|"
+  },
+  {
+    "name": "Fran Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Fran|"
+  },
+  {
+    "name": "Glitch Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Glitch|"
+  },
+  {
+    "name": "Hesitation Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Hesitation|"
+  },
+  {
+    "name": "Isra Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Isra| OR |Isra's Chicken|"
+  },
+  {
+    "name": "Jan Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jan|"
+  },
+  {
+    "name": "Jaws Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jaws|"
+  },
+  {
+    "name": "Jordi 'Jumpscare' Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
+  },
+  {
+    "name": "Kono Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Kono|"
+  },
+  {
+    "name": "Mango Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mango|"
+  },
+  {
+    "name": "MikePike Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|MikePike|"
+  },
+  {
+    "name": "(???)/My Shadow Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|(???)/My Shadow| OR |My own Shadow|"
+  },
+  {
+    "name": "Noob Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Noob|"
+  },
+  {
+    "name": "Pot0s Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Pot0s|"
+  },
+  {
+    "name": "Puppet Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Puppet|"
+  },
+  {
+    "name": "Raptor Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Raptor|"
+  },
+  {
+    "name": "Roxie Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Roxie| OR |Fumo Sticker|"
+  },
+  {
+    "name": "Rush Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Rush|"
+  },
+  {
+    "name": "Screech Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Screech|"
+  },
+  {
+    "name": "Strings Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Strings|"
+  },
+  {
+    "name": "Void Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Void|"
+  },
+  {
+    "name": "Wormcave Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Wormcave|"
+  },
+  {
+    "name": "ZGuesto Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|ZGuesto|"
+  },
+  {
+    "name": "Zuffy Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Zuffy|"
+  },
+  {
+    "name": "Myself Jumpscare",
+    "region": "Roguelike Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Scorched Myself Jumpscare",
+    "region": "Roguelike Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  }
+]

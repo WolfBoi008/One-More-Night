@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "Choose your victory condition. You can currently choose from the following:\n- TiTN: Complete Trapped in the Nightmare, the base Night 20 with no items that alter the run or ending in any way.\n- BiD: Complete Burning it Down, the alternate ending. This requires you to have the Gasoline and Lighter items and grab them from the Maintence room in-game before Night 5. This will trigger something...different. And possibly harder, for more than one reason. Good luck.",
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    }
+}

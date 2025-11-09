@@ -1,0 +1,14 @@
+{
+  "Lobby": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Roguelike Mode": {
+    "connects_to": [],
+    "requires": "|@Difficulties:1|"
+  },
+  "Sandbox Mode": {
+    "connects_to": [],
+    "requires": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "OneMoreNight",
+  "creator": "WolfBoi008",
+  "filler_item_name": "Coins",
+  "death_link": true,
+  "starting_items": []
+}

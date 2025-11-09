@@ -1,0 +1,33 @@
+{
+    "Achievement Challenges": {
+        "yaml_option": ["achievement_challenges"]
+    },
+    "Non-Achievement Challenges": {
+        "yaml_option": ["nonachievementchallenges"]
+    },
+    "Hard Achievements": {
+        "yaml_option": ["hardachievements"]
+    },
+    "Fishsanity": {
+        "yaml_option": ["fishsanity"]
+    },
+    "Fishsanity Achievements": {
+        "yaml_option": ["fishsanity_achievements"],
+        "hidden": true
+    },
+    "Jumpscaresanity": {
+        "yaml_option": ["jumpscaresanity"]
+    },
+    "Colored Fish": {
+        "yaml_option": ["colored_fish"],
+        "hidden": true
+    },
+    "Character Fish": {
+        "yaml_option": ["character_fish"],
+        "hidden": true
+    },
+    "Rare Fish": {
+        "yaml_option": ["rare_fish"],
+        "hidden": true
+    }
+}
