@@ -1,4 +1,15 @@
 {
+    "Placeholder": {
+        "yaml_option": ["placeholder"],
+        "hidden": true
+    },
+    "Fragments": {
+        "yaml_option": ["fragments"]
+    },
+    "Co-Op": {
+        "yaml_option": ["coop"],
+        "hidden": true
+    },
     "Achievement Challenges": {
         "yaml_option": ["achievement_challenges"]
     },
@@ -7,6 +18,9 @@
     },
     "Hard Achievements": {
         "yaml_option": ["hardachievements"]
+    },
+    "Memories": {
+        "yaml_option": ["memorysanity"]
     },
     "Fishsanity": {
         "yaml_option": ["fishsanity"]

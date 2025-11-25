@@ -64,6 +64,38 @@
     "requires": "|Old Barry|"
   },
   {
+    "name": "Beat a Night with Yellow Barry Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Yellow Barry|"
+  },
+  {
+    "name": "Beat a Night with Bomb Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Bomb|"
+  },
+  {
+    "name": "Beat a Night with Broken Cat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Broken Cat|"
+  },
+  {
+    "name": "Beat a Night with Broken Chimp Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Broken Chimp|"
+  },
+  {
     "name": "Beat a Night with Bunny Active",
     "region": "Sandbox Mode",
     "category": [
@@ -86,6 +118,14 @@
       "Enemy-Specific"
     ],
     "requires": "|Old Bunny|"
+  },
+  {
+    "name": "Beat a Night with Chains Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Chains|"
   },
   {
     "name": "Beat a Night with Chicken Active",
@@ -128,14 +168,6 @@
     "requires": "|Dry| OR |Dry's Calculator|"
   },
   {
-    "name": "Beat a Night with FMNoob Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific"
-    ],
-    "requires": "|FMNoob|"
-  },
-  {
     "name": "Beat a Night with Figure Active",
     "region": "Sandbox Mode",
     "category": [
@@ -150,6 +182,14 @@
       "Enemy-Specific"
     ],
     "requires": "|Fox|"
+  },
+  {
+    "name": "Beat a Night with Funsy Fox Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Funsy Fox|"
   },
   {
     "name": "Beat a Night with Old Fox Active",
@@ -213,7 +253,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
   },
   {
     "name": "Beat a Night with Kono Active",
@@ -277,7 +317,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Puppet|"
+    "requires": "|Puppet| OR |Handheld Music Box|"
   },
   {
     "name": "Beat a Night with Raptor Active",
@@ -320,6 +360,14 @@
     "requires": "|Strings|"
   },
   {
+    "name": "Beat a Night with Toxicity Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Toxicity|"
+  },
+  {
     "name": "Beat a Night with Ventilation Errors Active",
     "region": "Sandbox Mode",
     "category": [
@@ -358,6 +406,462 @@
       "Enemy-Specific"
     ],
     "requires": "|Zuffy|"
+  },
+  {
+    "name": "Beat a Night with Heat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Scorched| OR |Heat|"
+  },
+  {
+    "name": "Beat a Night with Divine Punishment Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Divine Punishment| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:4| AND |Note Piece:4|)"
+  },
+  {
+    "name": "Beat a Night with Golden Gun Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "Beat a Night with Stratosfear Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "Beat a Night with White Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "View Heat Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Heat Memory|"
+  },
+  {
+    "name": "View Balloon Boy Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Balloon Boy Memory|"
+  },
+  {
+    "name": "View Balloon Girl Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Balloon Girl Memory|"
+  },
+  {
+    "name": "View Bad Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Bad Memory|"
+  },
+  {
+    "name": "View Ball Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Ball Memory|"
+  },
+  {
+    "name": "View Barry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Barry Memory|"
+  },
+  {
+    "name": "View Funsy Barry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Funsy Barry Memory|"
+  },
+  {
+    "name": "View New Barry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|New Barry Memory|"
+  },
+  {
+    "name": "View Old Barry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Old Barry Memory|"
+  },
+  {
+    "name": "View Yellow Barry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Yellow Barry Memory|"
+  },
+  {
+    "name": "View Bomb Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Bomb Memory|"
+  },
+  {
+    "name": "View Broken Cat Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Broken Cat Memory|"
+  },
+  {
+    "name": "View Broken Chimp Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Broken Chimp Memory|"
+  },
+  {
+    "name": "View Bunny Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Bunny Memory|"
+  },
+  {
+    "name": "View New Bunny Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|New Bunny Memory|"
+  },
+  {
+    "name": "View Old Bunny Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Old Bunny Memory|"
+  },
+  {
+    "name": "View Chains Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Chains Memory|"
+  },
+  {
+    "name": "View Chicken Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Chicken Memory|"
+  },
+  {
+    "name": "View New Chicken Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|New Chicken Memory|"
+  },
+  {
+    "name": "View Old Chicken Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Old Chicken Memory|"
+  },
+  {
+    "name": "View Destroyman III Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Destroyman III Memory|"
+  },
+  {
+    "name": "View Dry Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Dry Memory|"
+  },
+  {
+    "name": "View Figure Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Figure Memory|"
+  },
+  {
+    "name": "View Fox Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Fox Memory|"
+  },
+  {
+    "name": "View Funsy Fox Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Funsy Fox Memory|"
+  },
+  {
+    "name": "View Old Fox Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Old Fox Memory|"
+  },
+  {
+    "name": "View Fran Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Fran Memory|"
+  },
+  {
+    "name": "View Glitch Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Glitch Memory|"
+  },
+  {
+    "name": "View Hesitation Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Hesitation Memory|"
+  },
+  {
+    "name": "View Isra Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Isra Memory|"
+  },
+  {
+    "name": "View Jan Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Jan Memory|"
+  },
+  {
+    "name": "View Jaws Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Jaws Memory|"
+  },
+  {
+    "name": "View Jordi 'Jumpscare' Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Jordi 'Jumpscare' Memory|"
+  },
+  {
+    "name": "View Kono Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Kono Memory|"
+  },
+  {
+    "name": "View Mango Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Mango Memory|"
+  },
+  {
+    "name": "View MikePike Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|MikePike Memory|"
+  },
+  {
+    "name": "View (???)/My Shadow Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|(???)/My Shadow Memory|"
+  },
+  {
+    "name": "View Noob Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Noob Memory|"
+  },
+  {
+    "name": "View Pillar Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Pillar Memory|"
+  },
+  {
+    "name": "View Pot0s Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Pot0s Memory|"
+  },
+  {
+    "name": "View Puppet Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Puppet Memory|"
+  },
+  {
+    "name": "View Raptor Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Raptor Memory|"
+  },
+  {
+    "name": "View Roxie Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Roxie Memory|"
+  },
+  {
+    "name": "View Rush Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Rush Memory|"
+  },
+  {
+    "name": "View Screech Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Screech Memory|"
+  },
+  {
+    "name": "View Strings Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Strings Memory|"
+  },
+  {
+    "name": "View Toxicity Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Toxicity Memory|"
+  },
+  {
+    "name": "View Ventilation Errors Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Ventilation Errors Memory|"
+  },
+  {
+    "name": "View Void Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Void Memory|"
+  },
+  {
+    "name": "View Wormcave Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Wormcave Memory|"
+  },
+  {
+    "name": "View ZGuesto Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|ZGuesto Memory|"
+  },
+  {
+    "name": "View Zuffy Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Zuffy Memory|"
   },
   {
     "name": "Night 1",
@@ -520,12 +1024,28 @@
     "requires": "|Progressive Night:19|"
   },
   {
-    "name": "Night 21/BiD Ending",
+    "name": "BiD Ending",
     "region": "Roguelike Mode",
     "category": [
       "Nights"
     ],
-    "requires": "|Progressive Night:20|"
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  },
+  {
+    "name": "PtWP Ending",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|"
+  },
+  {
+    "name": "FS Ending",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
     "name": "[TitN] Trapped in the Nightmare",
@@ -541,6 +1061,30 @@
       "Goal"
     ],
     "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|",
+    "victory": true
+  },
+  {
+    "name": "[PtWP] Paint the World Purple",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|",
+    "victory": true
+  },
+  {
+    "name": "[FS] False Savior",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|",
+    "victory": true
+  },
+  {
+    "name": "Collect Memory Fragments",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Memory Fragment:20|",
     "victory": true
   },
   {
@@ -567,7 +1111,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|Calm| AND ((|Four-Leaf Clover| AND |Progressive Night:1|) OR |My Heart Locket|)) OR ((|Guilty| OR |Devastated| OR |Scorched|) AND (|Four-Leaf Clover| OR |My Heart Locket|) AND |Progressive Night:9|)"
+    "requires": "(|Calm| AND ((|Four-Leaf Clover| AND |Progressive Night:12|) OR |My Heart Locket|)) OR ((|Guilty| OR |Devastated| OR |Scorched|) AND (|Four-Leaf Clover| OR |My Heart Locket|) AND |Progressive Night:9|)"
   },
   {
     "name": "Bloodshed",
@@ -620,12 +1164,22 @@
     "requires": "|Progressive Night:9|"
   },
   {
-    "name": "Faster than you",
+    "name": "Burning with you",
     "region": "Roguelike Mode",
     "category": [
-      "Achievements"
+      "Achievements",
+      "Hard Achievements"
     ],
-    "requires": "|Progressive Night:12|"
+    "requires": "|Scorched| AND |Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  },
+  {
+    "name": "Soaked with Guilt",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Soaked| AND |Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|"
   },
   {
     "name": "I called for help.",
@@ -644,20 +1198,12 @@
     "requires": "|Progressive Night:12|"
   },
   {
-    "name": "Taking a stroll",
-    "region": "Roguelike Mode",
-    "category": [
-      "Achievements"
-    ],
-    "requires": "|Progressive Night:12|"
-  },
-  {
     "name": "Unfortunate",
     "region": "Roguelike Mode",
     "category": [
       "Achievements"
     ],
-    "requires": "(|Four-Leaf Clover| AND |Progressive Night:7|) OR ({YamlEnabled(hardachievements)} AND |Progressive Night:12|}"
+    "requires": "(|Calm| AND |Four-Leaf Clover| AND |Progressive Night:12|) OR (|Four-Leaf Clover| AND |Progressive Night:7|) OR ({YamlEnabled(hardachievements)} AND |Progressive Night:12|)"
   },
   {
     "name": "Beginner Fisher",
@@ -705,6 +1251,15 @@
     "requires": "|Bloxy Cola|"
   },
   {
+    "name": "THEY HAVE TO DO SOMETHING",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Speed Coil|"
+  },
+  {
     "name": "The Paint Brush",
     "region": "Lobby",
     "category": [
@@ -736,6 +1291,60 @@
       "Achievements"
     ],
     "requires": []
+  },
+  {
+    "name": "Brings back Memories",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:1|"
+  },
+  {
+    "name": "Urban Myth",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:5|"
+  },
+  {
+    "name": "Urban Legend",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:15|"
+  },
+  {
+    "name": "Urban Plague",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:30|"
+  },
+  {
+    "name": "Urban Nightmare",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:45|"
+  },
+  {
+    "name": "Star of the Endless Void",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Memories"
+    ],
+    "requires": "|@Memories:53|"
   },
   {
     "name": "The Nightmare Begins",
@@ -830,6 +1439,15 @@
     "requires": "{canReachLocation(Lights Out)}"
   },
   {
+    "name": "Minesweeper (Achievement)",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges"
+    ],
+    "requires": "{canReachLocation(Minesweeper (Challenge))}"
+  },
+  {
     "name": "Music of the Past",
     "region": "Sandbox Mode",
     "category": [
@@ -916,12 +1534,38 @@
     "requires": "|@Starter Items:1|"
   },
   {
+    "name": "The power of Friendship",
+    "region": "Lobby",
+    "category": [
+      "Achievements",
+      "Co-Op"
+    ],
+    "requires": "|Ally in Purgatory:1|"
+  },
+  {
+    "name": "Green Runner",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Guilty| AND |Progressive Night:19|"
+  },
+  {
     "name": "No Power, No Problem",
     "region": "Roguelike Mode",
     "category": [
       "Achievements"
     ],
     "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Stardust Crusaders",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "((|Four-Leaf Clover| OR |Telltale Heart|) AND |Progressive Night:16|) OR (|Tarot Cloth| AND |Progressive Night:12|) OR |Progressive Night:18|"
   },
   {
     "name": "Welcome",
@@ -939,15 +1583,6 @@
       "Non-Achievement Challenges"
     ],
     "requires": "|Ball| AND |Fox| AND |Jan| AND |Jordi 'Jumpscare'| AND |Kono| AND |(???)/My Shadow| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
-  },
-  {
-    "name": "Camera Duty",
-    "region": "Sandbox Mode",
-    "category": [
-      "Challenges",
-      "Non-Achievement Challenges"
-    ],
-    "requires": "|Bad| AND |Barry| AND |Destroyman III| AND |FMNoob| AND |Figure| AND |Fox| AND |Old Fox| AND |Isra| AND |MikePike| AND |Noob| AND |Puppet| AND |Raptor| AND |Wormcave| AND |ZGuesto| AND |Zuffy|"
   },
   {
     "name": "Everyone is Here",
@@ -987,13 +1622,13 @@
     "requires": "|Dry| AND |Jordi 'Jumpscare'| AND |Kono| AND |Puppet| AND |Roxie|"
   },
   {
-    "name": "Office Duty",
+    "name": "Minesweeper (Challenge)",
     "region": "Sandbox Mode",
     "category": [
       "Challenges",
-      "Non-Achievement Challenges"
+      "Achievement Challenges"
     ],
-    "requires": "|Balloon Boy| AND |Balloon Girl| AND |Ball| AND |Funsy Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Dry| AND |Fran| AND |Jan| AND |Jaws| AND |Jordi 'Jumpscare'| AND |Kono| AND |Mango| AND |(???)/My Shadow| AND |Pillar| AND |Pot0s| AND |Roxie| AND |Rush| AND |Screech| AND |Strings| AND |Ventilation Errors| AND |Void|"
+    "requires": "|Ball| AND |Bomb| AND |Chains| AND |New Chicken| AND |Destroyman III| AND |Hesitation| AND |Ventilation Errors|"
   },
   {
     "name": "Constant QTE",
@@ -1013,15 +1648,6 @@
       "Achievement Challenges"
     ],
     "requires": "|Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Fox| AND |Old Fox| AND |(???)/My Shadow| AND |Puppet| AND |Ventilation Errors|"
-  },
-  {
-    "name": "Weezer",
-    "region": "Sandbox Mode",
-    "category": [
-      "Challenges",
-      "Non-Achievement Challenges"
-    ],
-    "requires": "|Dry| AND |Jan| AND |Kono| AND |Mango|"
   },
   {
     "name": "Black Fish",
@@ -1114,6 +1740,24 @@
     "requires": "|Fishing Rod|"
   },
   {
+    "name": "Fish Emoji",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Ticket",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
     "name": "Bad Fish",
     "region": "Lobby",
     "category": [
@@ -1132,7 +1776,43 @@
     "requires": "|Fishing Rod|"
   },
   {
+    "name": "Balloon Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
     "name": "Barry Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Bomb Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Broken Cat Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Character Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Broken Chimp Fish",
     "region": "Lobby",
     "category": [
       "Fishsanity",
@@ -1330,20 +2010,38 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "Fish Emoji",
+    "name": "Skeledude Fish",
     "region": "Lobby",
     "category": [
       "Fishsanity",
-      "Character Fish"
+      "Rare Fish"
     ],
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "Ticket",
+    "name": "Void Fish",
     "region": "Lobby",
     "category": [
       "Fishsanity",
-      "Character Fish"
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "The Ferryman",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
+    ],
+    "requires": "|Fishing Rod|"
+  },
+  {
+    "name": "Motif Fish",
+    "region": "Lobby",
+    "category": [
+      "Fishsanity",
+      "Rare Fish"
     ],
     "requires": "|Fishing Rod|"
   },
@@ -1366,7 +2064,7 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "The Ferryman",
+    "name": "Yellow Barry Fish",
     "region": "Lobby",
     "category": [
       "Fishsanity",
@@ -1375,7 +2073,7 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "Void Fish",
+    "name": "Chains",
     "region": "Lobby",
     "category": [
       "Fishsanity",
@@ -1392,7 +2090,7 @@
     "requires": "|Bad|"
   },
   {
-    "name": "Ball Jumpscare",
+    "name": "Ball 'Jumpscare'",
     "region": "Sandbox Mode",
     "category": [
       "Jumpscaresanity"
@@ -1432,6 +2130,38 @@
     "requires": "|Old Barry|"
   },
   {
+    "name": "Yellow Barry Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Yellow Barry|"
+  },
+  {
+    "name": "Bomb Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Bomb|"
+  },
+  {
+    "name": "Broken Cat Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Broken Cat|"
+  },
+  {
+    "name": "Broken Chimp Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Broken Chimp|"
+  },
+  {
     "name": "Bunny Jumpscare",
     "region": "Sandbox Mode",
     "category": [
@@ -1446,6 +2176,14 @@
       "Jumpscaresanity"
     ],
     "requires": "|Old Bunny|"
+  },
+  {
+    "name": "Chains Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Chains|"
   },
   {
     "name": "Chicken Jumpscare",
@@ -1480,14 +2218,6 @@
     "requires": "|Dry| OR |Dry's Calculator|"
   },
   {
-    "name": "FMNoob Jumpscare",
-    "region": "Sandbox Mode",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|FMNoob|"
-  },
-  {
     "name": "Figure Jumpscare",
     "region": "Sandbox Mode",
     "category": [
@@ -1502,6 +2232,14 @@
       "Jumpscaresanity"
     ],
     "requires": "|Fox|"
+  },
+  {
+    "name": "Funsy Fox Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Funsy Fox|"
   },
   {
     "name": "Old Fox Jumpscare",
@@ -1565,7 +2303,7 @@
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
   },
   {
     "name": "Kono Jumpscare",
@@ -1621,7 +2359,7 @@
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Puppet|"
+    "requires": "|Puppet| OR |Handheld Music Box|"
   },
   {
     "name": "Raptor Jumpscare",
@@ -1664,6 +2402,14 @@
     "requires": "|Strings|"
   },
   {
+    "name": "Toxicity Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toxicity|"
+  },
+  {
     "name": "Void Jumpscare",
     "region": "Sandbox Mode",
     "category": [
@@ -1694,6 +2440,38 @@
       "Jumpscaresanity"
     ],
     "requires": "|Zuffy|"
+  },
+  {
+    "name": "Heat 'Jumpscare'",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Scorched| OR |Heat|"
+  },
+  {
+    "name": "Golden Gun Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "Stratosfear Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "White Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "Myself Jumpscare",
