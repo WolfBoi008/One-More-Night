@@ -44,11 +44,11 @@ class StartingDifficulty(Choice):
     Calm: Less aggression and some more choices and health. However, you have less resources, so it's easier to get
     overwhelmed.
     Devastated: Threats are more aggressive, but you get some extra resources to support you.
-    Scorched: The temperature is worse than ever, almost unbearable. You have a brand new Threat to deal with, but
-    other Threats are slightly less agressive and you start with some spare power and an extra Lifeblood heart.
-    Soaked: Threats are less aggressive, one of your three hearts becomes a Lifeblood heart, and you only have to
-    pick one starting Threat instead of three. However, Jordi, Divine Punishment, and all of the J-Choices are
-    added from the moment you begin. A rough challenge mostly focusing on the office. Good luck.
+    Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less agressive
+    and you start with some spare power and an extra Glass Life (once it is lost, it's gone for good).
+    Soaked: Threats are less aggressive, one of your three hearts becomes Glass, and you only have to pick one 
+    starting Threat instead of three. However, Jordi, Divine Punishment, and all of the J-Choices are added from
+    the moment you begin. A rough challenge mostly focusing on the office. Good luck.
     
     If you're wondering "Where's Fooled"? It's a Trap. Sorry.
     """
@@ -112,6 +112,7 @@ class Memorysanity(Toggle):
     """
     Enable Checks for viewing the many Memories about the game's various Threats.
     Also enables the Achievements associated with the Memories.
+    For your conveinence, know that the exact logic to unlock a Memory is to have the Memory's associated Threat.
     (59 Checks)
     """
     display_name: "Memorysanity"
@@ -139,10 +140,17 @@ class Fishsanity(Choice):
 class Jumpscaresanity(DefaultOnToggle):
     """
     Enable Checks for being jumpscared by each of the game's Threats.
-    This includes Myself on Nights 20 and 21.
+    This includes Myself on Night 20 and Scorched Myself on BiD Night 21.
     (51 Checks)
     """
     display_name: "Jumpscaresanity"
+
+class FlashlightSkins(DefaultOnToggle):
+    """
+    Enable Flashlight Skins as items.
+    Note that these are all Filler, so enabling this is completely optional.
+    """
+    display_name: "Flashlight Skins"
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
@@ -154,6 +162,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["memorysanity"] = Memorysanity
     options["fishsanity"] = Fishsanity
     options["jumpscaresanity"] = Jumpscaresanity
+    options["flashlight_skins"] = FlashlightSkins
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

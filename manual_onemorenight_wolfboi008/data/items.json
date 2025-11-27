@@ -461,7 +461,7 @@
     "count": 1,
     "name": "Heat",
     "category": [
-      "Threats"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -469,7 +469,7 @@
     "count": 1,
     "name": "Divine Punishment",
     "category": [
-      "Threats"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -477,7 +477,7 @@
     "count": 1,
     "name": "Golden Gun",
     "category": [
-      "Threats"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -485,7 +485,7 @@
     "count": 1,
     "name": "Stratosfear",
     "category": [
-      "Threats"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -493,431 +493,7 @@
     "count": 1,
     "name": "White",
     "category": [
-      "Threats"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Heat Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Balloon Boy Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Balloon Girl Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bad Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ball Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Barry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Funsy Barry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "New Barry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Old Barry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Yellow Barry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bomb Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Broken Cat Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Broken Chimp Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bunny Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "New Bunny Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Old Bunny Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Chains Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Chicken Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "New Chicken Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Old Chicken Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Destroyman III Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dry Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "FMNoob Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Figure Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fox Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Funsy Fox Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Old Fox Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fran Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Glitch Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hesitation Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Isra Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jan Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jaws Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jordi 'Jumpscare' Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Kono Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mango Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "MikePike Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "(???)/My Shadow Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Noob Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Pillar Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Pot0s Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Puppet Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Raptor Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Roxie Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Rush Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Screech Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Strings Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Toxicity Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ventilation Errors Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Void Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Wormcave Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "ZGuesto Memory",
-    "category": [
-      "Memories"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Zuffy Memory",
-    "category": [
-      "Memories"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -1349,19 +925,17 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Minor Unlock 4",
+    "name": "Flower Pot",
     "category": [
-      "Minor Unlocks",
-      "Placeholder"
+      "Minor Unlocks"
     ],
     "useful": true
   },
   {
     "count": 1,
-    "name": "Placeholder Minor Unlock 5",
+    "name": "Supply and Demand",
     "category": [
-      "Minor Unlocks",
-      "Placeholder"
+      "Minor Unlocks"
     ],
     "useful": true
   },
@@ -1810,6 +1384,39 @@
     "name": "Ocarina",
     "category": [
       "Filler Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Barry",
+    "description": "Wait, I thought you were removed???",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ZGuesto's Paper Bag",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cracked Mask",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TIX",
+    "category": [
+      "Misc. Filler Items"
     ],
     "filler": true
   }

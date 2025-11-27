@@ -29,9 +29,6 @@
         "yaml_option": ["fishsanity_achievements"],
         "hidden": true
     },
-    "Jumpscaresanity": {
-        "yaml_option": ["jumpscaresanity"]
-    },
     "Colored Fish": {
         "yaml_option": ["colored_fish"],
         "hidden": true
@@ -43,5 +40,12 @@
     "Rare Fish": {
         "yaml_option": ["rare_fish"],
         "hidden": true
+    },
+    "Jumpscaresanity": {
+        "yaml_option": ["jumpscaresanity"]
+    },
+    "Flashlight Skins": {
+        "yaml_option": ["flashlight_skins"]
     }
+    
 }

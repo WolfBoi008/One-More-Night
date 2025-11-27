@@ -35,7 +35,8 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    return False
+    filler_items = ["Coins", "Cracked Mask", "TIX"]
+    return world.random.choice(filler_items)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
@@ -56,12 +57,12 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     if world.options.fishsanity.value == 2:
         world.options.rare_fish.value = False
     if world.options.fishsanity.value == 0 or world.options.fishsanity.value == 1:
-        if world.options.jumpscaresanity.value == False:
-            if world.options.achievement_challenges.value == False or world.options.hardachievements.value == False:
-                raise OptionError(f"{world.player_name} has too many Options disabled. Please enable Fishsanity (Colors and Characters or All), Jumpscaresanity, Hard Achievements, or Achievement Challenges in your YAML to minimize the chance of generation failing. This is a known issue and will be addressed in a future release.")
+        if world.options.jumpscaresanity.value == False and world.options.memorysanity.value == False:
+            raise OptionError(f"{world.player_name} has too many Options disabled. Please enable Fishsanity (Colors and Characters or All), Jumpscaresanity, and/or Memorysanity in your YAML to minimize the chance of generation failing. This is a known issue and will be addressed in a future release.")
     if goal_name == "Collect Memory Fragments":
-        if world.options.fishsanity.value == 0 or world.options.fishsanity.value == 1 or world.options.jumpscaresanity.value == False:
-            raise OptionError(f"{world.player_name}'s YAML is likely to fail generation with Collect Memory Fragments as the Goal. It's VERY recommended to enable either Fishsanity (Colors and Characters or All), or Jumpscaresanity in your YAML to hopefully minimize the chance of generation failing. If you did this and it still failed, please let me know. This is a known issue and will be addressed in a future release.")
+        if world.options.fishsanity.value == 0 or world.options.fishsanity.value == 1:
+            if world.options.jumpscaresanity.value == False and world.options.memorysanity.value == False:
+                raise OptionError(f"{world.player_name}'s YAML is likely to fail generation with Collect Memory Fragments as the Goal. It's VERY recommended to enable either Fishsanity (Colors and Characters or All), Jumpscaresanity, or Memorysanity in your YAML to hopefully minimize the chance of generation failing. If you did this and it still failed, please let me know. This is a known issue and will be addressed in a future release.")
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.

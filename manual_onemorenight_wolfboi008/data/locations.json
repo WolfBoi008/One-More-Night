@@ -453,7 +453,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Heat Memory|"
+    "requires": "|Heat|"
   },
   {
     "name": "View Balloon Boy Memory",
@@ -461,7 +461,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Balloon Boy Memory|"
+    "requires": "|Balloon Boy|"
   },
   {
     "name": "View Balloon Girl Memory",
@@ -469,7 +469,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Balloon Girl Memory|"
+    "requires": "|Balloon Girl|"
   },
   {
     "name": "View Bad Memory",
@@ -477,7 +477,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Bad Memory|"
+    "requires": "|Bad|"
   },
   {
     "name": "View Ball Memory",
@@ -485,7 +485,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Ball Memory|"
+    "requires": "|Ball|"
   },
   {
     "name": "View Barry Memory",
@@ -493,7 +493,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Barry Memory|"
+    "requires": "|Barry|"
   },
   {
     "name": "View Funsy Barry Memory",
@@ -501,7 +501,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Funsy Barry Memory|"
+    "requires": "|Funsy Barry|"
   },
   {
     "name": "View New Barry Memory",
@@ -509,7 +509,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|New Barry Memory|"
+    "requires": "|New Barry|"
   },
   {
     "name": "View Old Barry Memory",
@@ -517,7 +517,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Old Barry Memory|"
+    "requires": "|Old Barry|"
   },
   {
     "name": "View Yellow Barry Memory",
@@ -525,7 +525,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Yellow Barry Memory|"
+    "requires": "|Yellow Barry|"
   },
   {
     "name": "View Bomb Memory",
@@ -533,7 +533,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Bomb Memory|"
+    "requires": "|Bomb|"
   },
   {
     "name": "View Broken Cat Memory",
@@ -541,7 +541,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Broken Cat Memory|"
+    "requires": "|Broken Cat|"
   },
   {
     "name": "View Broken Chimp Memory",
@@ -549,7 +549,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Broken Chimp Memory|"
+    "requires": "|Broken Chimp|"
   },
   {
     "name": "View Bunny Memory",
@@ -557,7 +557,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Bunny Memory|"
+    "requires": "|Bunny|"
   },
   {
     "name": "View New Bunny Memory",
@@ -565,7 +565,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|New Bunny Memory|"
+    "requires": "|New Bunny|"
   },
   {
     "name": "View Old Bunny Memory",
@@ -573,7 +573,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Old Bunny Memory|"
+    "requires": "|Old Bunny|"
   },
   {
     "name": "View Chains Memory",
@@ -581,7 +581,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Chains Memory|"
+    "requires": "|Chains|"
   },
   {
     "name": "View Chicken Memory",
@@ -589,7 +589,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Chicken Memory|"
+    "requires": "|Chicken|"
   },
   {
     "name": "View New Chicken Memory",
@@ -597,7 +597,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|New Chicken Memory|"
+    "requires": "|New Chicken|"
   },
   {
     "name": "View Old Chicken Memory",
@@ -605,7 +605,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Old Chicken Memory|"
+    "requires": "|Old Chicken|"
   },
   {
     "name": "View Destroyman III Memory",
@@ -613,7 +613,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Destroyman III Memory|"
+    "requires": "|Destroyman III|"
   },
   {
     "name": "View Dry Memory",
@@ -621,7 +621,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Dry Memory|"
+    "requires": "|Dry|"
   },
   {
     "name": "View Figure Memory",
@@ -629,7 +629,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Figure Memory|"
+    "requires": "|Figure|"
   },
   {
     "name": "View Fox Memory",
@@ -637,7 +637,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Fox Memory|"
+    "requires": "|Fox|"
   },
   {
     "name": "View Funsy Fox Memory",
@@ -645,7 +645,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Funsy Fox Memory|"
+    "requires": "|Funsy Fox|"
   },
   {
     "name": "View Old Fox Memory",
@@ -653,7 +653,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Old Fox Memory|"
+    "requires": "|Old Fox|"
   },
   {
     "name": "View Fran Memory",
@@ -661,7 +661,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Fran Memory|"
+    "requires": "|Fran|"
   },
   {
     "name": "View Glitch Memory",
@@ -669,7 +669,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Glitch Memory|"
+    "requires": "|Glitch|"
   },
   {
     "name": "View Hesitation Memory",
@@ -677,7 +677,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Hesitation Memory|"
+    "requires": "|Hesitation|"
   },
   {
     "name": "View Isra Memory",
@@ -685,7 +685,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Isra Memory|"
+    "requires": "|Isra|"
   },
   {
     "name": "View Jan Memory",
@@ -693,7 +693,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Jan Memory|"
+    "requires": "|Jan|"
   },
   {
     "name": "View Jaws Memory",
@@ -701,7 +701,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Jaws Memory|"
+    "requires": "|Jaws|"
   },
   {
     "name": "View Jordi 'Jumpscare' Memory",
@@ -709,7 +709,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Jordi 'Jumpscare' Memory|"
+    "requires": "|Jordi 'Jumpscare'|"
   },
   {
     "name": "View Kono Memory",
@@ -717,7 +717,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Kono Memory|"
+    "requires": "|Kono|"
   },
   {
     "name": "View Mango Memory",
@@ -725,7 +725,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Mango Memory|"
+    "requires": "|Mango|"
   },
   {
     "name": "View MikePike Memory",
@@ -733,7 +733,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|MikePike Memory|"
+    "requires": "|MikePike|"
   },
   {
     "name": "View (???)/My Shadow Memory",
@@ -741,7 +741,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|(???)/My Shadow Memory|"
+    "requires": "|(???)/My Shadow|"
   },
   {
     "name": "View Noob Memory",
@@ -749,7 +749,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Noob Memory|"
+    "requires": "|Noob|"
   },
   {
     "name": "View Pillar Memory",
@@ -757,7 +757,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Pillar Memory|"
+    "requires": "|Pillar|"
   },
   {
     "name": "View Pot0s Memory",
@@ -765,7 +765,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Pot0s Memory|"
+    "requires": "|Pot0s|"
   },
   {
     "name": "View Puppet Memory",
@@ -773,7 +773,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Puppet Memory|"
+    "requires": "|Puppet|"
   },
   {
     "name": "View Raptor Memory",
@@ -781,7 +781,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Raptor Memory|"
+    "requires": "|Raptor|"
   },
   {
     "name": "View Roxie Memory",
@@ -789,7 +789,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Roxie Memory|"
+    "requires": "|Roxie|"
   },
   {
     "name": "View Rush Memory",
@@ -797,7 +797,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Rush Memory|"
+    "requires": "|Rush|"
   },
   {
     "name": "View Screech Memory",
@@ -805,7 +805,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Screech Memory|"
+    "requires": "|Screech|"
   },
   {
     "name": "View Strings Memory",
@@ -813,7 +813,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Strings Memory|"
+    "requires": "|Strings|"
   },
   {
     "name": "View Toxicity Memory",
@@ -821,7 +821,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Toxicity Memory|"
+    "requires": "|Toxicity|"
   },
   {
     "name": "View Ventilation Errors Memory",
@@ -829,7 +829,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Ventilation Errors Memory|"
+    "requires": "|Ventilation Errors|"
   },
   {
     "name": "View Void Memory",
@@ -837,7 +837,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Void Memory|"
+    "requires": "|Void|"
   },
   {
     "name": "View Wormcave Memory",
@@ -845,7 +845,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Wormcave Memory|"
+    "requires": "|Wormcave|"
   },
   {
     "name": "View ZGuesto Memory",
@@ -853,7 +853,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|ZGuesto Memory|"
+    "requires": "|ZGuesto|"
   },
   {
     "name": "View Zuffy Memory",
@@ -861,7 +861,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Zuffy Memory|"
+    "requires": "|Zuffy|"
   },
   {
     "name": "Night 1",
@@ -1299,7 +1299,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:1|"
+    "requires": "|@Threats:1|"
   },
   {
     "name": "Urban Myth",
@@ -1308,7 +1308,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:5|"
+    "requires": "|@Threats:5|"
   },
   {
     "name": "Urban Legend",
@@ -1317,7 +1317,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:15|"
+    "requires": "|@Threats:15|"
   },
   {
     "name": "Urban Plague",
@@ -1326,7 +1326,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:30|"
+    "requires": "|@Threats:30|"
   },
   {
     "name": "Urban Nightmare",
@@ -1335,7 +1335,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:45|"
+    "requires": "|@Threats:45|"
   },
   {
     "name": "Star of the Endless Void",
@@ -1344,7 +1344,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Memories:53|"
+    "requires": "|@Threats:51| AND |Heat|"
   },
   {
     "name": "The Nightmare Begins",
@@ -1591,7 +1591,7 @@
       "Challenges",
       "Non-Achievement Challenges"
     ],
-    "requires": "|@Threats:45|"
+    "requires": "|@Threats:51|"
   },
   {
     "name": "Lights Out",
