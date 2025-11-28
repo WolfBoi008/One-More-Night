@@ -34,3 +34,4 @@
 - Jumpscaresanity
 - Fishsanity
 - Memorysanity
+- Flashlight Skins
