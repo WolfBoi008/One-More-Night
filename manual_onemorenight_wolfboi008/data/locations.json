@@ -317,7 +317,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Puppet| OR |Handheld Music Box|"
+    "requires": "|Puppet (Threat)| OR |Handheld Music Box|"
   },
   {
     "name": "Beat a Night with Raptor Active",
@@ -773,7 +773,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Puppet|"
+    "requires": "|Puppet (Threat)|"
   },
   {
     "name": "View Raptor Memory",
@@ -1182,6 +1182,15 @@
     "requires": "|Soaked| AND |Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|"
   },
   {
+    "name": "Pulled by Strings",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Puppet (Difficulty)| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+  },
+  {
     "name": "I called for help.",
     "region": "Roguelike Mode",
     "category": [
@@ -1582,7 +1591,7 @@
       "Challenges",
       "Non-Achievement Challenges"
     ],
-    "requires": "|Ball| AND |Fox| AND |Jan| AND |Jordi 'Jumpscare'| AND |Kono| AND |(???)/My Shadow| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
+    "requires": "|Ball| AND |Fox| AND |Jan| AND |Jordi 'Jumpscare'| AND |Kono| AND |(???)/My Shadow| AND |Pillar| AND |Puppet (Threat)| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
   },
   {
     "name": "Everyone is Here",
@@ -1610,7 +1619,7 @@
       "Achievement Challenges",
       "Hard Achievements"
     ],
-    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet| AND |Rush|"
+    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet (Threat)| AND |Rush|"
   },
   {
     "name": "Math Exam",
@@ -1619,7 +1628,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Dry| AND |Jordi 'Jumpscare'| AND |Kono| AND |Puppet| AND |Roxie|"
+    "requires": "|Dry| AND |Jordi 'Jumpscare'| AND |Kono| AND |Puppet (Threat)| AND |Roxie|"
   },
   {
     "name": "Minesweeper (Challenge)",
@@ -1647,7 +1656,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Fox| AND |Old Fox| AND |(???)/My Shadow| AND |Puppet| AND |Ventilation Errors|"
+    "requires": "|Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Fox| AND |Old Fox| AND |(???)/My Shadow| AND |Puppet (Threat)| AND |Ventilation Errors|"
   },
   {
     "name": "Black Fish",
@@ -2359,7 +2368,7 @@
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Puppet| OR |Handheld Music Box|"
+    "requires": "|Puppet (Threat)| OR |Handheld Music Box|"
   },
   {
     "name": "Raptor Jumpscare",

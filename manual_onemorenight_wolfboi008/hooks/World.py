@@ -100,6 +100,10 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         starting_items = ["Scorched"]
     if world.options.startingdifficulty.value == 4:
         starting_items = ["Soaked"]
+    if world.options.startingdifficulty.value == 5:
+        starting_items = ["Puppet (Difficulty)"]
+    if world.options.startingdifficulty.value == 6:
+        starting_items = ["Lost"]
     for itemName in starting_items:
         item = next(i for i in item_pool if i.name == itemName)
         multiworld.push_precollected(item)

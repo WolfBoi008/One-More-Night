@@ -41,10 +41,17 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Difficulty 1",
+    "name": "Puppet (Difficulty)",
     "category": [
-      "Difficulties",
-      "Placeholder"
+      "Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost",
+    "category": [
+      "Difficulties"
     ],
     "progression": true
   },
@@ -363,7 +370,7 @@
   },
   {
     "count": 1,
-    "name": "Puppet",
+    "name": "Puppet (Threat)",
     "category": [
       "Threats"
     ],
@@ -892,10 +899,9 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Starter Item 1",
+    "name": "Giftbox",
     "category": [
-      "Starter Items",
-      "Placeholder"
+      "Starter Items"
     ],
     "progression": true
   },

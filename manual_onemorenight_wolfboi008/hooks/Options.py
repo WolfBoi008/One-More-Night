@@ -41,14 +41,28 @@ class StartingDifficulty(Choice):
     
     Guilty: The base Difficulty. What you normally play on if you have never beaten TiTN (Trapped in the
     Nightmare), so probably the most familiar to you out of all of them.
+
     Calm: Less aggression and some more choices and health. However, you have less resources, so it's easier to get
     overwhelmed.
+
     Devastated: Threats are more aggressive, but you get some extra resources to support you.
+
     Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less agressive
     and you start with some spare power and an extra Glass Life (once it is lost, it's gone for good).
+
     Soaked: Threats are less aggressive, one of your three hearts becomes Glass, and you only have to pick one 
-    starting Threat instead of three. However, Jordi, Divine Punishment, and all of the J-Choices are added from
-    the moment you begin. A rough challenge mostly focusing on the office. Good luck.
+    starting Threat. However, Jordi, Divine Punishment, and all of the J-Choices are added from the moment you
+    begin. A rough challenge mostly focusing on the office. Good luck.
+
+    Puppet: Threats are less aggressive, one of your three hearts become Glass, nights are a little shorter, and you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active from the beginning. This is sort of like Soaked, except more focused on the cameras. Definitely not easy. Best of luck.
+
+    Lost: Your red hearts are replaced with a white heart and an Armor heart. However, if you die, the heart will
+    be instantly healed instead of having to survive three nights. On top of this, Shadow Deals are free, too. To
+    counter this, Threats are overall more difficult and aggressive, you consume more power, you get less money,
+    and half of the Threats you can pick from are hidden until you select them, meaning you either have to take
+    the Threat you can clearly see or gamble on a maybe better (or worse) one. May the odds be ever in your favor.
+    NOTE: Lost is currently in Early Access. If it is removed or changed before it's official addition, let me know
+    and I can fix it up.
     
     If you're wondering "Where's Fooled"? It's a Trap. Sorry.
     """
@@ -57,6 +71,8 @@ class StartingDifficulty(Choice):
     option_devastated = 2
     option_scorched = 3
     option_soaked = 4
+    option_puppet = 5
+    option_lost = 6
     default = 1
     display_name: "Starting Difficulty"
 
@@ -77,6 +93,7 @@ class HardAchievements(Toggle):
     - Hard Worker (Beat the game with no Quickly Outs and 3 Overtimes. Forces nights to be 15 seconds longer unless you happen to circumvent some of the time with The Moon Tarot Card or Pocket Watch Starter Item.)
     - Burning with you (Beat the BiD Route on Scorched Difficulty.)
     - Soaked with Guilt (Beat the PtWP Route on Soaked Difficulty.)
+    - Pulled by Strings (Beat the FS Route on Puppet Difficulty.)
     - Seen the Fish (Catch all 40 types of fish and complete the Fishing Book.)
     - THEY HAVE TO DO SOMETHING: Hit all 37 buttons in the Lobby. There are two in particular that are annoying to do. Speed Coil is expected for one of them, but still unsure of a consistent way to get the second one. You should probably exclude this if you turn this on for other Achievements you don't mind doing, honestly.
     - Strongest Hammer (Hit an almost Perfect score on the Hammer arcade game. Not easy to get consistently, so it's considered a Hard Achievement.)
