@@ -19,9 +19,6 @@
     "Hard Achievements": {
         "yaml_option": ["hardachievements"]
     },
-    "Memories": {
-        "yaml_option": ["memorysanity"]
-    },
     "Fishsanity": {
         "yaml_option": ["fishsanity"]
     },

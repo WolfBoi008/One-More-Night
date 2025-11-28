@@ -2488,5 +2488,13 @@
       "Jumpscaresanity"
     ],
     "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  },
+  {
+    "name": "False Savior Jumpscare",
+    "region": "Roguelike Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   }
 ]

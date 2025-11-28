@@ -108,15 +108,6 @@ class NonAchievementChallenges(Toggle):
     """
     display_name: "Non-Achievement Challenges"
 
-class Memorysanity(Toggle):
-    """
-    Enable Checks for viewing the many Memories about the game's various Threats.
-    Also enables the Achievements associated with the Memories.
-    For your conveinence, know that the exact logic to unlock a Memory is to have the Memory's associated Threat.
-    (59 Checks)
-    """
-    display_name: "Memorysanity"
-
 class Fishsanity(Choice):
     """
     Enable Checks for catching fish with the Fishing Rod. Please read the below informaation for details:
@@ -140,10 +131,18 @@ class Fishsanity(Choice):
 class Jumpscaresanity(DefaultOnToggle):
     """
     Enable Checks for being jumpscared by each of the game's Threats.
-    This includes Myself on Night 20 and Scorched Myself on BiD Night 21.
-    (51 Checks)
+    This includes Myself on Night 20, Scorched Myself on BiD Night 21, and False Savior on FS Night 21.
+    (52 Checks)
     """
     display_name: "Jumpscaresanity"
+
+class BellLogic(Toggle):
+    """
+    Enabling this Option will make it so the Pocket Bell Main Item to be considered for logic in places such as
+    the "I'm Prepared" Achievement. If this is disabled, the Pocket Bell will be a Filler Item, meaning there's a chance it may not even show up in the Manual.
+    (which honestly might be for the better)
+    """
+    display_name: "Bell Logic"
 
 class FlashlightSkins(DefaultOnToggle):
     """
@@ -159,9 +158,9 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["hardachievements"] = HardAchievements
     options["achievement_challenges"] = AchievementChallenges
     options["nonachievementchallenges"] = NonAchievementChallenges
-    options["memorysanity"] = Memorysanity
     options["fishsanity"] = Fishsanity
     options["jumpscaresanity"] = Jumpscaresanity
+    options["bell_logic"] = BellLogic
     options["flashlight_skins"] = FlashlightSkins
     return options
 
