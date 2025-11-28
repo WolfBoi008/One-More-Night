@@ -26,6 +26,7 @@
 - Beating Enemies for the first time
 - Beating Nights
 - Achievements
+- Memories
 
 ## Options
 - Hard Achievements
@@ -33,5 +34,5 @@
 - Non-Achievement Challenges
 - Jumpscaresanity
 - Fishsanity
-- Memorysanity
 - Flashlight Skins
+- Bell Logic
