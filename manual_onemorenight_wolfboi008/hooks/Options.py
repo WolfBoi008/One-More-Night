@@ -54,7 +54,10 @@ class StartingDifficulty(Choice):
     starting Threat. However, Jordi, Divine Punishment, and all of the J-Choices are added from the moment you
     begin. A rough challenge mostly focusing on the office. Good luck.
 
-    Puppet: Threats are less aggressive, one of your three hearts become Glass, nights are a little shorter, and you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active from the beginning. This is sort of like Soaked, except more focused on the cameras. Definitely not easy. Best of luck.
+    Puppet: Threats are less aggressive, one of your three hearts become Glass, nights are a little shorter, and
+    you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active
+    from the beginning. This is sort of like Soaked, except more focused on the cameras. Definitely not easy. Best
+    of luck.
 
     Lost: Your red hearts are replaced with a white heart and an Armor heart. However, if you die, the heart will
     be instantly healed instead of having to survive three nights. On top of this, Shadow Deals are free, too. To
@@ -90,23 +93,34 @@ class HardAchievements(Toggle):
     - Empty-Handed (Beat the game itemless.)
     - No time to think (Beat the game in under 35 minutes.)
     - Bloodshed (Die 10 times in a run.)
-    - Hard Worker (Beat the game with no Quickly Outs and 3 Overtimes. Forces nights to be 15 seconds longer unless you happen to circumvent some of the time with The Moon Tarot Card or Pocket Watch Starter Item.)
+    - Hard Worker (Beat the game with no Quickly Outs and 3 Overtimes. Forces nights to be 15 seconds longer unless
+    you happen to circumvent some of the time with The Moon Tarot Card or Pocket Watch Starter Item.)
     - Burning with you (Beat the BiD Route on Scorched Difficulty.)
     - Soaked with Guilt (Beat the PtWP Route on Soaked Difficulty.)
     - Pulled by Strings (Beat the FS Route on Puppet Difficulty.)
     - Seen the Fish (Catch all 40 types of fish and complete the Fishing Book.)
-    - THEY HAVE TO DO SOMETHING: Hit all 37 buttons in the Lobby. There are two in particular that are annoying to do. Speed Coil is expected for one of them, but still unsure of a consistent way to get the second one. You should probably exclude this if you turn this on for other Achievements you don't mind doing, honestly.
-    - Strongest Hammer (Hit an almost Perfect score on the Hammer arcade game. Not easy to get consistently, so it's considered a Hard Achievement.)
+    - THEY HAVE TO DO SOMETHING: Hit all 37 buttons in the Lobby. There are two in particular that are annoying to
+    do. Speed Coil is expected for one of them, but still unsure of a consistent way to get the second one. You
+    should probably exclude this if you turn this on for other Achievements you don't mind doing, honestly.
+    - Strongest Hammer (Hit an almost Perfect score on the Hammer arcade game. Not easy to get consistently, so it's
+    considered a Hard Achievement.)
     - Are you ready for Barry? (Survive Night 10 or later without letting Barry go past the Dining Area.)
-    - Music of the Past (Complete the Lost Music Box Challenge. Also disables the Check for the mentioned Challenge.)
+    - Music of the Past (Complete the Lost Music Box Challenge. Also disables the Check for the mentioned
+    Challenge.)
     - Quick Thinker (Complete the Constant QTE Challenge. Also disables the Check for the mentioned Challenge.)
-    - Unmasked (Have Old Barry, Old Bunny, and Old Chicken active at the same time, then have your mask break but still survive the night. Considered a Hard Achievement because it can be a pain to setup without dying in the process.)
+    - Unmasked (Have Old Barry, Old Bunny, and Old Chicken active at the same time, then have your mask break but
+    still survive the night. Considered a Hard Achievement because it can be a pain to setup without dying in the
+    process.)
     - Empty Victory (Beat the game while having 0 Max HP.)
-    - Green Runner (Beat the game on Guilty while using as little power as possible. The exact numbers are less than 225% + 50% extra per additional player. For example, 275% with 2 players, 325% with 3 players, etc.)
-    In addition, the Unfortunate (Make the Wheel of Fortune explode) Achievement wiil have its logic shifted, depending on if this Option is enabled or disabled.
-    - Enabled: Requires access to Night 13 or later (to account for if the player takes a bit to find the Wheel of Fortune, if at all. Ironically requires some luck to get.)
+    - Green Runner (Beat the game on Guilty while using as little power as possible. The exact numbers are less than
+    225% + 50% extra per additional player. For example, 275% with 2 players, 325% with 3 players, etc.)
+    In addition, the Unfortunate (Make the Wheel of Fortune explode) Achievement wiil have its logic shifted,
+    depending on if this Option is enabled or disabled.
+    - Enabled: Requires access to Night 13 or later (to account for if the player takes a bit to find the Wheel of
+    Fortune, if at all. Ironically requires some luck to get.)
     - Disabled: Requires the Lucky Clover Starter Item and access to Night 8 or later.
-    Overall, it's recommended to disable this Option if you don't feel confident in your skills (and maybe luck, too).
+    Overall, it's recommended to disable this Option if you don't feel confident in your skills (and maybe luck,
+    too).
     (17 Checks)
     """
     display_name: "Hard Achievements"
@@ -136,7 +150,8 @@ class Fishsanity(Choice):
     Note that this also includes the Ticket and Fish Emoji...because yes.
     
     True Fishsanity: EVERY fish is a Check.
-    CAUTION: This includes the 8 rarest fish in the game, each of which having a <2% chance of appearing. Be aware that completing your Checks may take a while with this enabled.
+    CAUTION: This includes the 8 rarest fish in the game, each of which having a <2% chance of appearing. Be aware
+    that completing your Checks may take a while with this enabled.
     (52 Checks)
     """
     option_disabled = 0
@@ -156,7 +171,8 @@ class Jumpscaresanity(DefaultOnToggle):
 class BellLogic(Toggle):
     """
     Enabling this Option will make it so the Pocket Bell Main Item to be considered for logic in places such as
-    the "I'm Prepared" Achievement. If this is disabled, the Pocket Bell will be a Filler Item, meaning there's a chance it may not even show up in the Manual.
+    the "I'm Prepared" Achievement. If this is disabled, the Pocket Bell will be a Filler Item, meaning there's a
+    chance it may not even show up in the Manual.
     (which honestly might be for the better)
     """
     display_name: "Bell Logic"

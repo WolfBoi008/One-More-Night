@@ -317,7 +317,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Puppet (Threat)| OR |Handheld Music Box|"
+    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
   },
   {
     "name": "Beat a Night with Raptor Active",
@@ -709,7 +709,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Jordi 'Jumpscare'|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
   },
   {
     "name": "View Kono Memory",
@@ -773,7 +773,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Puppet (Threat)|"
+    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
   },
   {
     "name": "View Raptor Memory",
@@ -2368,7 +2368,7 @@
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Puppet (Threat)| OR |Handheld Music Box|"
+    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
   },
   {
     "name": "Raptor Jumpscare",
