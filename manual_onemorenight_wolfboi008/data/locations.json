@@ -453,7 +453,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Heat|"
+    "requires": "|Scorched| OR |Heat|"
   },
   {
     "name": "View Balloon Boy Memory",
@@ -493,7 +493,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Barry|"
+    "requires": "|Barry| OR |Barry's Top Hat|"
   },
   {
     "name": "View Funsy Barry Memory",
@@ -621,7 +621,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Dry|"
+    "requires": "|Dry| OR |Dry's Calculator|"
   },
   {
     "name": "View Figure Memory",
@@ -629,7 +629,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Figure|"
+    "requires": "|Figure| OR |Figure's Glowstick|"
   },
   {
     "name": "View Fox Memory",
@@ -685,7 +685,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Isra|"
+    "requires": "|Isra| OR |Isra's Chicken|"
   },
   {
     "name": "View Jan Memory",
@@ -741,7 +741,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|(???)/My Shadow|"
+    "requires": "|(???)/My Shadow| OR |My own Shadow|"
   },
   {
     "name": "View Noob Memory",

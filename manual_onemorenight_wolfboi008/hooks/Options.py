@@ -83,6 +83,7 @@ class SoloMode(DefaultOnToggle):
     """
     Enable Solo Mode, a setting that disables some Checks and makes some Items Useful instead of Progression.
     Recommended to enable if you plan on playing on your own instead of with friends.
+    (1 Check)
     """
     display_name:"Solo Mode"
 

@@ -949,7 +949,8 @@
     "count": 3,
     "name": "Ally in Purgatory",
     "category": [
-      "Assistance"
+      "Assistance",
+      "Co-Op"
     ],
     "progression": true
   },
