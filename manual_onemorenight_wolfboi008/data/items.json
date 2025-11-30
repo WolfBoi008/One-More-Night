@@ -33,6 +33,30 @@
   },
   {
     "count": 1,
+    "name": "Soaked",
+    "category": [
+      "Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Puppet (Difficulty)",
+    "category": [
+      "Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost",
+    "category": [
+      "Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Balloon Boy",
     "category": [
       "Threats"
@@ -97,6 +121,39 @@
   },
   {
     "count": 1,
+    "name": "Yellow Barry",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb",
+    "description": "Insert pipe bomb in your mailbox joke here",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Cat",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Chimp",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Bunny",
     "category": [
       "Threats"
@@ -114,6 +171,14 @@
   {
     "count": 1,
     "name": "Old Bunny",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chains",
     "category": [
       "Threats"
     ],
@@ -161,14 +226,6 @@
   },
   {
     "count": 1,
-    "name": "FMNoob",
-    "category": [
-      "Threats"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Figure",
     "category": [
       "Threats"
@@ -185,6 +242,14 @@
   },
   {
     "count": 1,
+    "name": "Funsy Fox",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Old Fox",
     "category": [
       "Threats"
@@ -194,6 +259,14 @@
   {
     "count": 1,
     "name": "Fran",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glitch",
     "category": [
       "Threats"
     ],
@@ -297,7 +370,7 @@
   },
   {
     "count": 1,
-    "name": "Puppet",
+    "name": "Puppet (Threat)",
     "category": [
       "Threats"
     ],
@@ -345,6 +418,14 @@
   },
   {
     "count": 1,
+    "name": "Toxicity",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Ventilation Errors",
     "category": [
       "Threats"
@@ -369,14 +450,6 @@
   },
   {
     "count": 1,
-    "name": "Glitch",
-    "category": [
-      "Threats"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "ZGuesto",
     "category": [
       "Threats"
@@ -388,6 +461,46 @@
     "name": "Zuffy",
     "category": [
       "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heat",
+    "category": [
+      "Route-Specific Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Divine Punishment",
+    "category": [
+      "Route-Specific Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Gun",
+    "category": [
+      "Route-Specific Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stratosfear",
+    "category": [
+      "Route-Specific Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "White",
+    "category": [
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -408,6 +521,22 @@
     "progression": true
   },
   {
+    "count": 4,
+    "name": "Note Piece",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Mask Fragment",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
     "count": "20",
     "name": "Progressive Night",
     "category": [
@@ -417,7 +546,7 @@
   },
   {
     "count": "0",
-    "name": "Force Doors for 15 Seconds",
+    "name": "Force Doors for 10 Seconds",
     "category": [
       "Traps"
     ],
@@ -425,7 +554,7 @@
   },
   {
     "count": "0",
-    "name": "No Doors for 15 Seconds",
+    "name": "No Doors for 10 Seconds",
     "category": [
       "Traps"
     ],
@@ -433,7 +562,7 @@
   },
   {
     "count": "0",
-    "name": "Force Flashlight for 15 Seconds",
+    "name": "Force Flashlight for 10 Seconds",
     "category": [
       "Traps"
     ],
@@ -441,7 +570,7 @@
   },
   {
     "count": "0",
-    "name": "No Flashlight for 15 Seconds",
+    "name": "No Flashlight for 10 Seconds",
     "category": [
       "Traps"
     ],
@@ -449,7 +578,7 @@
   },
   {
     "count": "0",
-    "name": "Force Cameras for 15 Seconds",
+    "name": "Force Cameras for 10 Seconds",
     "category": [
       "Traps"
     ],
@@ -457,7 +586,15 @@
   },
   {
     "count": "0",
-    "name": "No Cameras for 15 Seconds",
+    "name": "No Cameras for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Next Run, Fooled Difficulty",
     "category": [
       "Traps"
     ],
@@ -469,7 +606,7 @@
     "category": [
       "Pre-Run Shop"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -505,7 +642,7 @@
   },
   {
     "count": 1,
-    "name": "Music Box",
+    "name": "Handheld Music Box",
     "category": [
       "Main Items"
     ],
@@ -586,6 +723,14 @@
   },
   {
     "count": 1,
+    "name": "Empowered Paint Brush",
+    "category": [
+      "Main Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Spare Batteries",
     "category": [
       "Starter Items"
@@ -614,7 +759,7 @@
     "category": [
       "Starter Items"
     ],
-    "progression": true
+    "useful": true
   },
   {
     "count": 1,
@@ -622,7 +767,7 @@
     "category": [
       "Starter Items"
     ],
-    "progression": true
+    "useful": true
   },
   {
     "count": 1,
@@ -753,12 +898,60 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Giftbox",
+    "category": [
+      "Starter Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Deal",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tough as Nails",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Glitched Card",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flower Pot",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Supply and Demand",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
     "count": 3,
     "name": "Ally in Purgatory",
     "category": [
       "Assistance"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -773,6 +966,14 @@
     "name": "Bloxy Cola",
     "category": [
       "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 20,
+    "name": "Memory Fragment",
+    "category": [
+      "Fragments"
     ],
     "progression": true
   },
@@ -1010,6 +1211,174 @@
   },
   {
     "count": 1,
+    "name": "Neon Blue",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Cyan",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Green",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Magenta",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Red",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon White",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Yellow",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Star",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "White Star",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Star",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Neon RGB",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Enclosed Flashlight",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Guiding Flashlight",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spiral Flashlight",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Curious Flashlight",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Candle",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Bulb",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magnifying Glass",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sparks",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Graceful Flashlight",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flashbang",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Snowball",
     "category": [
       "Filler Key Items"
@@ -1021,6 +1390,39 @@
     "name": "Ocarina",
     "category": [
       "Filler Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Barry",
+    "description": "Wait, I thought you were removed???",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ZGuesto's Paper Bag",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cracked Mask",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TIX",
+    "category": [
+      "Misc. Filler Items"
     ],
     "filler": true
   }

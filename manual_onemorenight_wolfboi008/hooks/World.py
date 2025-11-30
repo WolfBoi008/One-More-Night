@@ -1,6 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
 from Options import OptionError
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
@@ -35,10 +35,17 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    return False
+    filler_items = ["Coins", "Cracked Mask", "TIX"]
+    return world.random.choice(filler_items)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
+    world.options.placeholder.value = False
+    goal_name = world.victory_names[world.options.goal]
+    if goal_name != "Collect Memory Fragments":
+        world.options.fragments.value = False
+    if world.options.solo_mode.value == True:
+        world.options.coop.value = False
     if world.options.fishsanity.value == 0:
         world.options.fishsanity_achievements.value = False
         world.options.colored_fish.value = False
@@ -49,8 +56,6 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
         world.options.rare_fish.value = False
     if world.options.fishsanity.value == 2:
         world.options.rare_fish.value = False
-    if world.options.fishsanity.value == 0 and world.options.jumpscaresanity.value == False:
-        raise OptionError(f"{world.player_name} has too many Options disabled. Please enable either Fishsanity or Jumpscaresanity in your YAML to make sure generation doesn't have a chance to fail. This is a rare known issue and will be addressed in a future release.")
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
@@ -93,6 +98,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         starting_items = ["Devastated"]
     if world.options.startingdifficulty.value == 3:
         starting_items = ["Scorched"]
+    if world.options.startingdifficulty.value == 4:
+        starting_items = ["Soaked"]
+    if world.options.startingdifficulty.value == 5:
+        starting_items = ["Puppet (Difficulty)"]
+    if world.options.startingdifficulty.value == 6:
+        starting_items = ["Lost"]
     for itemName in starting_items:
         item = next(i for i in item_pool if i.name == itemName)
         multiworld.push_precollected(item)
@@ -123,6 +134,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    for item in item_pool:
+        if world.options.bell_logic.value == False and item.name == "Pocket Bell":
+            item.classification = ItemClassification.filler
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
