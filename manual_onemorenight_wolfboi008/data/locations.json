@@ -1866,15 +1866,6 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "FMNoob Fish",
-    "region": "Lobby",
-    "category": [
-      "Fishsanity",
-      "Character Fish"
-    ],
-    "requires": "|Fishing Rod|"
-  },
-  {
     "name": "Fox Fish",
     "region": "Lobby",
     "category": [

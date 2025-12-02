@@ -47,7 +47,7 @@ class StartingDifficulty(Choice):
 
     Devastated: Threats are more aggressive, but you get some extra resources to support you.
 
-    Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less agressive
+    Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less aggressive
     and you start with some spare power and an extra Glass Life (once it is lost, it's gone for good).
 
     Soaked: Threats are less aggressive, one of your three hearts becomes Glass, and you only have to pick one 
@@ -56,14 +56,14 @@ class StartingDifficulty(Choice):
 
     Puppet: Threats are less aggressive, one of your three hearts become Glass, nights are a little shorter, and
     you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active
-    from the beginning. This is sort of like Soaked, except more focused on the cameras. Definitely not easy. Best
-    of luck.
+    from the beginning. This is sort of like Soaked, except more focused on the cameras. Best of luck.
 
     Lost: Your red hearts are replaced with a white heart and an Armor heart. However, if you die, the heart will
-    be instantly healed instead of having to survive three nights. On top of this, Shadow Deals are free, too. To
-    counter this, Threats are overall more difficult and aggressive, you consume more power, you get less money,
-    and half of the Threats you can pick from are hidden until you select them, meaning you either have to take
-    the Threat you can clearly see or gamble on a maybe better (or worse) one. May the odds be ever in your favor.
+    be instantly healed upon successfully surviving a night instead of having to survive three. On top of this,
+    Shadow Deals are free, too. To counter this, Threats are overall more difficult and aggressive, you consume
+    more power, you get less money, and half of the Threats you can pick from are hidden until you select them,
+    meaning you either have to take the Threat you can clearly see or gamble on a maybe better (or worse) one. May
+    the odds be ever in your favor.
     NOTE: Lost is currently in Early Access. If it is removed or changed before it's official addition, let me know
     and I can fix it up.
     
@@ -147,13 +147,13 @@ class Fishsanity(Choice):
     Colors Only: The 10 colored fish are the only ones with Checks on them.
     They all have an equal 2.6% chance to be fished up.
     
-    Colors and Characters: The 10 colored fish and 34 character fish are Checks, totaling to 44 Checks.
+    Colors and Characters: The 10 colored fish and 29 character fish are Checks, totaling to 39 Checks.
     Note that this also includes the Ticket and Fish Emoji...because yes.
     
     True Fishsanity: EVERY fish is a Check.
     CAUTION: This includes the 8 rarest fish in the game, each of which having a <2% chance of appearing. Be aware
     that completing your Checks may take a while with this enabled.
-    (52 Checks)
+    (47 Checks)
     """
     option_disabled = 0
     option_colors_only = 1
