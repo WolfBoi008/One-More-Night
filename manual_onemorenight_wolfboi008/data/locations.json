@@ -1064,6 +1064,15 @@
     "victory": true
   },
   {
+    "name": "Engulfed in Flames",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Scorched| AND |Progressive Night:20| AND |Gasoline| AND |Lighter|",
+    "victory": true
+  },
+  {
     "name": "[PtWP] Paint the World Purple",
     "category": [
       "Goal"
@@ -1072,11 +1081,29 @@
     "victory": true
   },
   {
+    "name": "Bathed in Belief",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Soaked| AND |Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|",
+    "victory": true
+  },
+  {
     "name": "[FS] False Savior",
     "category": [
       "Goal"
     ],
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|",
+    "victory": true
+  },
+  {
+    "name": "All Strung Up",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Puppet (Difficulty)| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|",
     "victory": true
   },
   {

@@ -142,7 +142,7 @@ class NonAchievementChallenges(Toggle):
 
 class Fishsanity(Choice):
     """
-    Enable Checks for catching fish with the Fishing Rod. Please read the below informaation for details:
+    Enable Checks for catching fish with the Fishing Rod. Please read the below information for details:
 
     Colors Only: The 10 colored fish are the only ones with Checks on them.
     They all have an equal 2.6% chance to be fished up.
