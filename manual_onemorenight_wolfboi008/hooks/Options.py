@@ -57,15 +57,6 @@ class StartingDifficulty(Choice):
     Puppet: Threats are less aggressive, one of your three hearts become Glass, nights are a little shorter, and
     you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active
     from the beginning. This is sort of like Soaked, except more focused on the cameras. Best of luck.
-
-    Lost: Your red hearts are replaced with a white heart and an Armor heart. However, if you die, the heart will
-    be instantly healed upon successfully surviving a night instead of having to survive three. On top of this,
-    Shadow Deals are free, too. To counter this, Threats are overall more difficult and aggressive, you consume
-    more power, you get less money, and half of the Threats you can pick from are hidden until you select them,
-    meaning you either have to take the Threat you can clearly see or gamble on a maybe better (or worse) one. May
-    the odds be ever in your favor.
-    NOTE: Lost is currently in Early Access. If it is removed or changed before it's official addition, let me know
-    and I can fix it up.
     
     If you're wondering "Where's Fooled"? It's a Trap. Sorry.
     """
@@ -75,7 +66,6 @@ class StartingDifficulty(Choice):
     option_scorched = 3
     option_soaked = 4
     option_puppet = 5
-    option_lost = 6
     default = 1
     display_name: "Starting Difficulty"
 
@@ -108,6 +98,7 @@ class HardAchievements(Toggle):
     - Are you ready for Barry? (Survive Night 10 or later without letting Barry go past the Dining Area.)
     - Music of the Past (Complete the Lost Music Box Challenge. Also disables the Check for the mentioned
     Challenge.)
+    - Feel my Flame (Complete the Feel your Flame Challenge. Also disables the Check for the mentioned Challenge.)
     - Quick Thinker (Complete the Constant QTE Challenge. Also disables the Check for the mentioned Challenge.)
     - Unmasked (Have Old Barry, Old Bunny, and Old Chicken active at the same time, then have your mask break but
     still survive the night. Considered a Hard Achievement because it can be a pain to setup without dying in the
@@ -122,14 +113,14 @@ class HardAchievements(Toggle):
     - Disabled: Requires the Lucky Clover Starter Item and access to Night 8 or later.
     Overall, it's recommended to disable this Option if you don't feel confident in your skills (and maybe luck,
     too).
-    (17 Checks)
+    (20 Checks)
     """
     display_name: "Hard Achievements"
 
 class AchievementChallenges(Toggle):
     """
     Enable Checks for beating Challenges that are tied to Achievements.
-    (12 Checks)
+    (14 Checks)
     """
     display_name: "Achievement Challenges"
 
@@ -165,7 +156,7 @@ class Jumpscaresanity(DefaultOnToggle):
     """
     Enable Checks for being jumpscared by each of the game's Threats.
     This includes Myself on Night 20, Scorched Myself on BiD Night 21, and False Savior on FS Night 21.
-    (52 Checks)
+    (53 Checks)
     """
     display_name: "Jumpscaresanity"
 

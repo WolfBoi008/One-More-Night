@@ -49,14 +49,6 @@
   },
   {
     "count": 1,
-    "name": "Lost",
-    "category": [
-      "Difficulties"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Balloon Boy",
     "category": [
       "Threats"
@@ -66,6 +58,14 @@
   {
     "count": 1,
     "name": "Balloon Girl",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baby",
     "category": [
       "Threats"
     ],
@@ -171,6 +171,14 @@
   {
     "count": 1,
     "name": "Old Bunny",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cadence",
     "category": [
       "Threats"
     ],
@@ -323,6 +331,14 @@
   {
     "count": 1,
     "name": "Mango",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mart",
     "category": [
       "Threats"
     ],
@@ -690,7 +706,7 @@
   },
   {
     "count": 1,
-    "name": "Pocket Bell",
+    "name": "Pocket Bell (Item)",
     "description": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
     "category": [
       "Main Items"
@@ -907,6 +923,14 @@
   },
   {
     "count": 1,
+    "name": "Red Flag",
+    "category": [
+      "Starter Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Broken Deal",
     "category": [
       "Minor Unlocks"
@@ -940,6 +964,22 @@
   {
     "count": 1,
     "name": "Supply and Demand",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Last Robloxian Standing",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Belt",
     "category": [
       "Minor Unlocks"
     ],
@@ -1373,6 +1413,54 @@
   {
     "count": 1,
     "name": "Flashbang",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Subspace Tripmine",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Bell (Flashlight)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Swiftness Ring",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Springer",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Escape Beacon",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Colors",
     "category": [
       "Flashlight Skins"
     ],

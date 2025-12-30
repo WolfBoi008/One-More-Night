@@ -102,8 +102,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         starting_items = ["Soaked"]
     if world.options.startingdifficulty.value == 5:
         starting_items = ["Puppet (Difficulty)"]
-    if world.options.startingdifficulty.value == 6:
-        starting_items = ["Lost"]
     for itemName in starting_items:
         item = next(i for i in item_pool if i.name == itemName)
         multiworld.push_precollected(item)
@@ -135,8 +133,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     for item in item_pool:
-        if world.options.bell_logic.value == False and item.name == "Pocket Bell":
-            item.classification = ItemClassification.filler
+        if world.options.bell_logic.value == False:
+            if item.name == "Pocket Bell (Item)":
+                item.classification = ItemClassification.filler
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

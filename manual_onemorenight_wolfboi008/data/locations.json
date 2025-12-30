@@ -16,6 +16,14 @@
     "requires": "|Balloon Girl|"
   },
   {
+    "name": "Beat a Night with Baby Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Baby|"
+  },
+  {
     "name": "Beat a Night with Bad Active",
     "region": "Sandbox Mode",
     "category": [
@@ -77,7 +85,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Bomb|"
+    "requires": "|Bomb| OR |Red Flag|"
   },
   {
     "name": "Beat a Night with Broken Cat Active",
@@ -118,6 +126,14 @@
       "Enemy-Specific"
     ],
     "requires": "|Old Bunny|"
+  },
+  {
+    "name": "Beat a Night with Cadence Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Cadence|"
   },
   {
     "name": "Beat a Night with Chains Active",
@@ -270,6 +286,14 @@
       "Enemy-Specific"
     ],
     "requires": "|Mango|"
+  },
+  {
+    "name": "Beat a Night with Mart Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Mart|"
   },
   {
     "name": "Beat a Night with MikePike Active",
@@ -472,6 +496,14 @@
     "requires": "|Balloon Girl|"
   },
   {
+    "name": "View Baby Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Baby|"
+  },
+  {
     "name": "View Bad Memory",
     "region": "Lobby",
     "category": [
@@ -533,7 +565,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Bomb|"
+    "requires": "|Bomb| OR |Red Flag|"
   },
   {
     "name": "View Broken Cat Memory",
@@ -574,6 +606,14 @@
       "Memories"
     ],
     "requires": "|Old Bunny|"
+  },
+  {
+    "name": "View Cadence Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Cadence|"
   },
   {
     "name": "View Chains Memory",
@@ -726,6 +766,14 @@
       "Memories"
     ],
     "requires": "|Mango|"
+  },
+  {
+    "name": "View Mart Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Mart|"
   },
   {
     "name": "View MikePike Memory",
@@ -1166,6 +1214,14 @@
     "requires": "|Progressive Night:12|"
   },
   {
+    "name": "I'm Him",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Progressive Night:15| AND |Last Robloxian Standing|"
+  },
+  {
     "name": "Overcharged",
     "region": "Roguelike Mode",
     "category": [
@@ -1380,7 +1436,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Threats:51| AND |Heat|"
+    "requires": "|@Threats:ALL| AND |Heat|"
   },
   {
     "name": "The Nightmare Begins",
@@ -1492,6 +1548,16 @@
       "Hard Achievements"
     ],
     "requires": "{canReachLocation(Lost Music Box)}"
+  },
+  {
+    "name": "Feel my Flame",
+    "region": "Sandbox Mode",
+    "category": [
+      "Achievements",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "{canReachLocation(Feel your Flame)}"
   },
   {
     "name": "Not Today, girl!",
@@ -1628,6 +1694,16 @@
       "Non-Achievement Challenges"
     ],
     "requires": "|@Threats:51|"
+  },
+  {
+    "name": "Feel your Flame",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "|Baby| AND |Ball| AND |Cadence| AND |New Chicken| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet (Threat)| AND |Roxie| AND |Rush| AND |Ventilation Errors| AND |Zuffy|"
   },
   {
     "name": "Lights Out",
@@ -2109,6 +2185,14 @@
     "requires": "|Fishing Rod|"
   },
   {
+    "name": "Baby Jumpscare",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Baby|"
+  },
+  {
     "name": "Bad Jumpscare",
     "region": "Sandbox Mode",
     "category": [
@@ -2157,20 +2241,12 @@
     "requires": "|Old Barry|"
   },
   {
-    "name": "Yellow Barry Jumpscare",
-    "region": "Sandbox Mode",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|Yellow Barry|"
-  },
-  {
     "name": "Bomb Jumpscare",
     "region": "Sandbox Mode",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Bomb|"
+    "requires": "|Bomb| OR |Red Flag|"
   },
   {
     "name": "Broken Cat Jumpscare",
@@ -2347,6 +2423,14 @@
       "Jumpscaresanity"
     ],
     "requires": "|Mango|"
+  },
+  {
+    "name": "Mart 'Jumpscare'",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mart|"
   },
   {
     "name": "MikePike Jumpscare",
