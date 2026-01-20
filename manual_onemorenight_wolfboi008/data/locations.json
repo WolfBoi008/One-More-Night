@@ -2521,6 +2521,14 @@
     "requires": "|Toxicity|"
   },
   {
+    "name": "Ventilation Errors 'Jumpscare'",
+    "region": "Sandbox Mode",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ventilation Errors|"
+  },
+  {
     "name": "Void Jumpscare",
     "region": "Sandbox Mode",
     "category": [

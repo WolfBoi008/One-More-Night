@@ -156,7 +156,7 @@ class Jumpscaresanity(DefaultOnToggle):
     """
     Enable Checks for being jumpscared by each of the game's Threats.
     This includes Myself on Night 20, Scorched Myself on BiD Night 21, and False Savior on FS Night 21.
-    (53 Checks)
+    (54 Checks)
     """
     display_name: "Jumpscaresanity"
 
