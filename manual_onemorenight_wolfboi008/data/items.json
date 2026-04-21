@@ -3,7 +3,7 @@
     "count": 1,
     "name": "Calm",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -11,7 +11,7 @@
     "count": 1,
     "name": "Guilty",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -19,7 +19,7 @@
     "count": 1,
     "name": "Devastated",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -27,7 +27,7 @@
     "count": 1,
     "name": "Scorched",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -35,17 +35,41 @@
     "count": 1,
     "name": "Soaked",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Puppet (Difficulty)",
+    "name": "Puppeteered",
+    "category": [
+      "States of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Casual",
     "category": [
       "Difficulties"
     ],
-    "progression": true
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Normal",
+    "category": [
+      "Difficulties"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hard",
+    "category": [
+      "Difficulties"
+    ],
+    "useful": true
   },
   {
     "count": 1,
@@ -354,7 +378,7 @@
   },
   {
     "count": 1,
-    "name": "(???)/My Shadow",
+    "name": "My Shadow",
     "category": [
       "Threats"
     ],
@@ -386,7 +410,7 @@
   },
   {
     "count": 1,
-    "name": "Puppet (Threat)",
+    "name": "Puppet",
     "category": [
       "Threats"
     ],
@@ -610,7 +634,7 @@
   },
   {
     "count": 0,
-    "name": "Next Run, Fooled Difficulty",
+    "name": "Next Run, Fooled State of Mind",
     "category": [
       "Traps"
     ],
@@ -618,15 +642,7 @@
   },
   {
     "count": 1,
-    "name": "Tarot Cloth",
-    "category": [
-      "Pre-Run Shop"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Open Space",
+    "name": "A Second Chance",
     "category": [
       "Pre-Run Shop"
     ],
@@ -634,7 +650,15 @@
   },
   {
     "count": 1,
-    "name": "Rigged Dice",
+    "name": "Space For Everyone",
+    "category": [
+      "Pre-Run Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Deal with Destiny",
     "category": [
       "Pre-Run Shop"
     ],
@@ -666,7 +690,7 @@
   },
   {
     "count": 1,
-    "name": "Flash Beacon",
+    "name": "Flash Ring",
     "category": [
       "Main Items"
     ],
@@ -1404,7 +1428,7 @@
   },
   {
     "count": 1,
-    "name": "Graceful Flashlight",
+    "name": "Heartful Flashlight",
     "category": [
       "Flashlight Skins"
     ],
@@ -1525,6 +1549,22 @@
   {
     "count": 1,
     "name": "Snowflake",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jolly Soul Doll",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Spirit",
     "category": [
       "Flashlight Skins"
     ],

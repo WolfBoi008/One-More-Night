@@ -304,12 +304,12 @@
     "requires": "|MikePike|"
   },
   {
-    "name": "Beat a Night with (???)/My Shadow Active",
+    "name": "Beat a Night with My Shadow Active",
     "region": "Sandbox Mode",
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|(???)/My Shadow| OR |My own Shadow|"
+    "requires": "|My Shadow| OR |My own Shadow|"
   },
   {
     "name": "Beat a Night with Noob Active",
@@ -341,7 +341,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
+    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
   },
   {
     "name": "Beat a Night with Raptor Active",
@@ -784,12 +784,12 @@
     "requires": "|MikePike|"
   },
   {
-    "name": "View (???)/My Shadow Memory",
+    "name": "View My Shadow Memory",
     "region": "Lobby",
     "category": [
       "Memories"
     ],
-    "requires": "|(???)/My Shadow| OR |My own Shadow|"
+    "requires": "|My Shadow| OR |My own Shadow|"
   },
   {
     "name": "View Noob Memory",
@@ -821,7 +821,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
+    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
   },
   {
     "name": "View Raptor Memory",
@@ -1151,7 +1151,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Puppet (Difficulty)| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|",
+    "requires": "|Puppeteered| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|",
     "victory": true
   },
   {
@@ -1244,7 +1244,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "|Progressive Night:9|"
+    "requires": "|Progressive Night:14|"
   },
   {
     "name": "Burning with you",
@@ -1271,7 +1271,7 @@
       "Achievements",
       "Hard Achievements"
     ],
-    "requires": "|Puppet (Difficulty)| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+    "requires": "|Puppeteered| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
     "name": "I called for help.",
@@ -1485,7 +1485,7 @@
       "Achievements",
       "Hard Achievements"
     ],
-    "requires": "|Progressive Night:9| AND |Barry's Top Hat|"
+    "requires": "|Progressive Night:14| AND |Barry's Top Hat|"
   },
   {
     "name": "Self-Embodiment of Perfection",
@@ -1659,7 +1659,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "|Progressive Night:4|"
+    "requires": "|Progressive Night:14|"
   },
   {
     "name": "Stardust Crusaders",
@@ -1667,7 +1667,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "((|Four-Leaf Clover| OR |Telltale Heart|) AND |Progressive Night:16|) OR (|Tarot Cloth| AND |Progressive Night:12|) OR |Progressive Night:18|"
+    "requires": "((|Four-Leaf Clover| OR |Telltale Heart| OR |Under my Sleeve|) AND |Progressive Night:16|) OR |Progressive Night:18|"
   },
   {
     "name": "Welcome",
@@ -1678,22 +1678,22 @@
     "requires": []
   },
   {
-    "name": "Cloudy With a Chance of BALLs",
-    "region": "Sandbox Mode",
-    "category": [
-      "Challenges",
-      "Non-Achievement Challenges"
-    ],
-    "requires": "|Ball| AND |Fox| AND |Jan| AND |Jordi 'Jumpscare'| AND |Kono| AND |(???)/My Shadow| AND |Pillar| AND |Puppet (Threat)| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
-  },
-  {
     "name": "Everyone is Here",
     "region": "Sandbox Mode",
     "category": [
       "Challenges",
       "Non-Achievement Challenges"
     ],
-    "requires": "|@Threats:51|"
+    "requires": "|@Threats:ALL|"
+  },
+  {
+    "name": "Artificial Insanity (@_averagetryhard)",
+    "region": "Sandbox Mode",
+    "category": [
+      "Challenges",
+      "Non-Achievement Challenges"
+    ],
+    "requires": "|Old Bunny| AND |Dry| AND |Fran| AND |Jan| AND |Jordi 'Jumpscare'| AND |Mango| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Wormcave| AND |ZGuesto|"
   },
   {
     "name": "Feel your Flame",
@@ -1703,7 +1703,7 @@
       "Achievement Challenges",
       "Hard Achievements"
     ],
-    "requires": "|Baby| AND |Ball| AND |Cadence| AND |New Chicken| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet (Threat)| AND |Roxie| AND |Rush| AND |Ventilation Errors| AND |Zuffy|"
+    "requires": "|Baby| AND |Ball| AND |Bomb| AND |Cadence| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet| AND |Roxie| AND |Ventilation Errors| AND |Zuffy|"
   },
   {
     "name": "Lights Out",
@@ -1712,7 +1712,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Ball| AND |Old Barry| AND |Old Bunny| AND |Old Chicken| AND |Dry| AND |Jan| AND |Kono| AND |Mango| AND |Pot0s| AND |Ventilation Errors|"
+    "requires": "|Balloon Boy| AND |Balloon Girl| AND |Ball| AND |Bomb| AND |Chains| AND |Dry| AND |Hesitation| AND |Jan| AND |Jaws| AND |Kono| AND |Mango| AND |MikePike| AND |Pot0s| AND |Screech| AND |Toxicity| AND |Ventilation Errors| AND |Void|"
   },
   {
     "name": "Lost Music Box",
@@ -1722,7 +1722,7 @@
       "Achievement Challenges",
       "Hard Achievements"
     ],
-    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet (Threat)| AND |Rush|"
+    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet| AND |Rush|"
   },
   {
     "name": "Math Exam",
@@ -1731,7 +1731,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Dry| AND |Jordi 'Jumpscare'| AND |Kono| AND |Puppet (Threat)| AND |Roxie|"
+    "requires": "|Barry| AND |Dry| AND |Jan| AND |Kono| AND |Mango| AND |Rush| AND |Toxicity| AND |Ventilation Errors|"
   },
   {
     "name": "Minesweeper (Challenge)",
@@ -1740,7 +1740,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Ball| AND |Bomb| AND |Chains| AND |New Chicken| AND |Destroyman III| AND |Hesitation| AND |Ventilation Errors|"
+    "requires": "|Ball| AND |Barry| AND |Bomb| AND |Chains| AND |New Chicken| AND |Hesitation| AND |Ventilation Errors|"
   },
   {
     "name": "Constant QTE",
@@ -1759,7 +1759,7 @@
       "Challenges",
       "Achievement Challenges"
     ],
-    "requires": "|Barry| AND |Old Barry| AND |Bunny| AND |Old Bunny| AND |Chicken| AND |Old Chicken| AND |Fox| AND |Old Fox| AND |(???)/My Shadow| AND |Puppet (Threat)| AND |Ventilation Errors|"
+    "requires": "|Yellow Barry| AND |Bomb| AND |Chains| AND |Destroyman III| AND |Glitch| AND |Hesitation| AND |Jaws| AND |My Shadow| AND |Strings| AND |Ventilation Errors| AND |Void|"
   },
   {
     "name": "Black Fish",
@@ -2188,7 +2188,7 @@
     "name": "Baby Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Baby|"
   },
@@ -2196,7 +2196,7 @@
     "name": "Bad Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Bad|"
   },
@@ -2204,7 +2204,7 @@
     "name": "Ball 'Jumpscare'",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Ball|"
   },
@@ -2212,7 +2212,7 @@
     "name": "Barry Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Barry| OR |Barry's Top Hat|"
   },
@@ -2220,7 +2220,7 @@
     "name": "Funsy Barry Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Funsy Barry|"
   },
@@ -2228,7 +2228,7 @@
     "name": "New Barry Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|New Barry|"
   },
@@ -2236,7 +2236,7 @@
     "name": "Old Barry Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Old Barry|"
   },
@@ -2244,7 +2244,7 @@
     "name": "Bomb Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Bomb| OR |Red Flag|"
   },
@@ -2252,7 +2252,7 @@
     "name": "Broken Cat Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Broken Cat|"
   },
@@ -2260,7 +2260,7 @@
     "name": "Broken Chimp Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Broken Chimp|"
   },
@@ -2268,7 +2268,7 @@
     "name": "Bunny Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Bunny|"
   },
@@ -2276,7 +2276,7 @@
     "name": "Old Bunny Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Old Bunny|"
   },
@@ -2284,7 +2284,7 @@
     "name": "Chains Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Chains|"
   },
@@ -2292,7 +2292,7 @@
     "name": "Chicken Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Chicken|"
   },
@@ -2300,7 +2300,7 @@
     "name": "New Chicken Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|New Chicken|"
   },
@@ -2308,7 +2308,7 @@
     "name": "Old Chicken Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Old Chicken|"
   },
@@ -2316,7 +2316,7 @@
     "name": "Dry Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Dry| OR |Dry's Calculator|"
   },
@@ -2324,7 +2324,7 @@
     "name": "Figure Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Figure| OR |Figure's Glowstick|"
   },
@@ -2332,7 +2332,7 @@
     "name": "Fox Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Fox|"
   },
@@ -2340,7 +2340,7 @@
     "name": "Funsy Fox Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Funsy Fox|"
   },
@@ -2348,7 +2348,7 @@
     "name": "Old Fox Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Old Fox|"
   },
@@ -2356,7 +2356,7 @@
     "name": "Fran Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Fran|"
   },
@@ -2364,7 +2364,7 @@
     "name": "Glitch Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Glitch|"
   },
@@ -2372,7 +2372,7 @@
     "name": "Hesitation Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Hesitation|"
   },
@@ -2380,7 +2380,7 @@
     "name": "Isra Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Isra| OR |Isra's Chicken|"
   },
@@ -2388,7 +2388,7 @@
     "name": "Jan Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Jan|"
   },
@@ -2396,7 +2396,7 @@
     "name": "Jaws Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Jaws|"
   },
@@ -2404,7 +2404,7 @@
     "name": "Jordi 'Jumpscare' Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
   },
@@ -2412,7 +2412,7 @@
     "name": "Kono Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Kono|"
   },
@@ -2420,7 +2420,7 @@
     "name": "Mango Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Mango|"
   },
@@ -2428,7 +2428,7 @@
     "name": "Mart 'Jumpscare'",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Mart|"
   },
@@ -2436,23 +2436,23 @@
     "name": "MikePike Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|MikePike|"
   },
   {
-    "name": "(???)/My Shadow Jumpscare",
+    "name": "My Shadow Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
-    "requires": "|(???)/My Shadow| OR |My own Shadow|"
+    "requires": "|My Shadow| OR |My own Shadow|"
   },
   {
     "name": "Noob Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Noob|"
   },
@@ -2460,7 +2460,7 @@
     "name": "Pot0s Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Pot0s|"
   },
@@ -2468,15 +2468,15 @@
     "name": "Puppet Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
-    "requires": "|Puppet (Threat)| OR |Handheld Music Box| OR |Puppet (Difficulty)|"
+    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
   },
   {
     "name": "Raptor Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Raptor|"
   },
@@ -2484,7 +2484,7 @@
     "name": "Roxie Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Roxie| OR |Fumo Sticker|"
   },
@@ -2492,7 +2492,7 @@
     "name": "Rush Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Rush|"
   },
@@ -2500,7 +2500,7 @@
     "name": "Screech Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Screech|"
   },
@@ -2508,7 +2508,7 @@
     "name": "Strings Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Strings|"
   },
@@ -2516,7 +2516,7 @@
     "name": "Toxicity Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Toxicity|"
   },
@@ -2524,7 +2524,7 @@
     "name": "Ventilation Errors 'Jumpscare'",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Ventilation Errors|"
   },
@@ -2532,7 +2532,7 @@
     "name": "Void Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Void|"
   },
@@ -2540,7 +2540,7 @@
     "name": "Wormcave Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Wormcave|"
   },
@@ -2548,7 +2548,7 @@
     "name": "ZGuesto Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|ZGuesto|"
   },
@@ -2556,7 +2556,7 @@
     "name": "Zuffy Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Zuffy|"
   },
@@ -2564,7 +2564,7 @@
     "name": "Heat 'Jumpscare'",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Scorched| OR |Heat|"
   },
@@ -2572,7 +2572,7 @@
     "name": "Golden Gun Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
@@ -2580,7 +2580,7 @@
     "name": "Stratosfear Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
@@ -2588,7 +2588,7 @@
     "name": "White Jumpscare",
     "region": "Sandbox Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
@@ -2596,7 +2596,7 @@
     "name": "Myself Jumpscare",
     "region": "Roguelike Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Progressive Night:19|"
   },
@@ -2604,7 +2604,7 @@
     "name": "Scorched Myself Jumpscare",
     "region": "Roguelike Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
   },
@@ -2612,8 +2612,136 @@
     "name": "False Savior Jumpscare",
     "region": "Roguelike Mode",
     "category": [
-      "Jumpscaresanity"
+      "Deathsanity"
     ],
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+  },
+  {
+    "name": "Establish Connection",
+    "region": "Lobby",
+    "category": [
+      "Connection"
+    ],
+    "requires": "|Speed Coil|"
+  },
+  {
+    "name": "Connection Dialogue 1",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 2",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 3",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 4",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 5",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 6",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 7",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 8",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 9",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 10",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 11",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 12",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 13",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Connection Dialogue 14",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kicked from Connection",
+    "region": "Connection",
+    "category": [
+      "Connection"
+    ],
+    "requires": []
   }
 ]

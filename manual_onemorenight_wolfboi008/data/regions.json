@@ -5,10 +5,14 @@
   },
   "Roguelike Mode": {
     "connects_to": [],
-    "requires": "|@Difficulties:1|"
+    "requires": "|@States of Mind:1|"
   },
   "Sandbox Mode": {
     "connects_to": [],
     "requires": []
+  },
+  "Connection": {
+    "connects_to": [],
+    "requires": "|Speed Coil|"
   }
 }

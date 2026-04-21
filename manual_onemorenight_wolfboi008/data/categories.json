@@ -14,10 +14,10 @@
         "yaml_option": ["achievement_challenges"]
     },
     "Non-Achievement Challenges": {
-        "yaml_option": ["nonachievementchallenges"]
+        "yaml_option": ["non_achievement_challenges"]
     },
     "Hard Achievements": {
-        "yaml_option": ["hardachievements"]
+        "yaml_option": ["hard_achievements"]
     },
     "Fishsanity": {
         "yaml_option": ["fishsanity"]
@@ -38,11 +38,14 @@
         "yaml_option": ["rare_fish"],
         "hidden": true
     },
-    "Jumpscaresanity": {
-        "yaml_option": ["jumpscaresanity"]
+    "Deathsanity": {
+        "yaml_option": ["deathsanity"]
     },
     "Flashlight Skins": {
         "yaml_option": ["flashlight_skins"]
+    },
+    "Connection": {
+        "yaml_option": ["connection"]
     }
     
 }

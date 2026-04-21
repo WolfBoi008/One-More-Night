@@ -4,7 +4,5 @@
   "creator": "WolfBoi008",
   "filler_item_name": "Coins",
   "death_link": true,
-  "starting_items": [
-    {"items": ["Snowball"]}
-  ]
+  "starting_items": []
 }

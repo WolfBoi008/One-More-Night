@@ -10,11 +10,252 @@
             "description": "Choose your victory condition. You can currently choose from the following:\n- TiTN: Complete Trapped in the Nightmare, the base Night 20 with no items that alter the run or ending in any way.\n- BiD: Complete Burning it Down. This requires you to have the Gasoline and Lighter items and grab them from the Maintence room before Night 5. This will trigger a new route that works best for those who run the office.\n- Engulfed in Flames: Beat BiD on Scorched Difficulty.\n- PtWP: Complete Paint the World Purple. This requires you to obtain Jordi's Paint Brush and collect some Note Pieces from him (and the other Players, of course). This run leans more onto the Office, but still has some danger in the cameras. Balance well to succeed.\n- Bathed in Belief: Beat PtWP on Soaked Difficulty.\n- FS: Complete False Savior. This requires you to get Puppet to leave the Music Box 3 times before Night 5. This logically expects the Music Box Main Item since it makes it much easier to get her as a Threat choice. After starting this route, things will get hectic, especially for camera players. Good luck.\n- All Strung Up: Complete FS on Puppet Difficulty.\n- Collect Memory Fragments: Collect 20 Memory Fragments scattered across the Multiworld. Recommended for those playing in Syncs that don't mind an anticlimactic finish.\nNOTE: This number is subject to change; let me know if you have any suggestions for it.",
             "hidden": false
         },
+
         "death_link": {
             "default": false
         },
+
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    },
+
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "_Example_Toggle":{
+            "description": [
+                "This is a Toggle",
+                "A simple boolean, aka True or False set the initial value with \"default\""
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Example Options"
+        },
+        "_Example_Choice":{
+            "type": "Choice",
+            "description": [
+                "This is a Choice",
+                "Let the user pick from a list of values",
+                "allow_custom_value let a player define their own text value",
+                "Currently the only use for Choice in Manual outside of hooks is the goal"
+            ],
+            "values": {
+                "start":0,
+                "test":1
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Example Options"
+        },
+        "_Example_Range":{
+            "type": "Range",
+            "description": [
+                "This is a Range",
+                "Allow the player to specify a value between 'start' and 'end'",
+                "if you include a \"values\" you can define the label for certain values",
+                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 10,
+            "values": {"example": 2},
+            "group": "Example Options"
+        },
+
+        "_DLC_enabled":{
+            "display_name": "DLC Enabled",
+            "description": "Is the Dlc enabled?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        },
+
+        "starting_state_of_mind": {
+            "display_name": "Starting State of Mind",
+            "type": "Choice",
+            "description": [
+                "Choose which State of Mind (Difficulty) you want to start your game with.",
+                "The ones that aren't chosen will be added to the pool, so they can be found at a later point in the Multiworld.",
+                "It'd be a mouthful to write all of the changes to the various States of Mind here, so I'll give a brief explanation of each.",
+                "The further details for each of them can be seen in the States of Mind area.",
+                "\n",
+                "Calm: Less aggression and some more choices and health. However, you have less resources, so it's easier to get overwhelmed.",
+                "Guilty: The base Difficulty. What you normally play on if you have never beaten TiTN (Trapped in the Nightmare), so probably the most familiar to you out of all of them.",
+                "Devastated: Threats are more aggressive, but you get some extra resources to support you.",
+                "Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less aggressive and you start with some spare power and an extra Temporary Life (once it is lost, it's gone for good).",
+                "Soaked: Threats are less aggressive, one of your three hearts becomes Temporary, and you only have to pick one starting Threat. However, Jordi, Divine Punishment, and all of the J-Choices are added from the moment you begin. A rough challenge mostly focusing on the office. Good luck.",
+                "Puppet: Threats are less aggressive, one of your three hearts become Temporary, nights are a little shorter, and you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active from the beginning. This is sort of like Soaked, except more focused on the cameras. Best of luck.",
+                "\n",
+                "If you're wondering 'Where's Fooled'? It's a Trap. Sorry."
+            ],
+            "values": {
+                "calm": 0,
+                "guilty": 1,
+                "devastated": 2,
+                "scorched": 3,
+                "soaked": 4,
+                "puppeteered": 5
+             },
+            "default": 1,
+            "allow_custom_value": false
+        },
+        
+        "starting_difficulty": {
+            "display_name": "Starting Difficulty",
+            "type": "Choice",
+            "description": [
+                "Choose the Difficulty that you will start with.",
+                "This is separate from States of Mind and does NOT affect logic, so choose whichever you prefer.",
+                "Casual: Aggression and Max AI are decreased, you earn more money, shops have an extra item, you use less power, and every few nights, you skip needing to pick a new Threat. Good for newcomers or people who aren't as proficient in their FNaF-style skills.",
+                "Normal: The usual, the standard, the norm. If you've played the game before, you already know how this works and nothing's changed.",
+                "Hard: Aggression and Max AI are increased, you earn less money, you use more power, and evey penalty choice will require you to take two penalties instead. Recommended for those who really want a challenge or to test what they're truly capable of."
+            ],
+            "values": {
+                "casual": 0,
+                "normal": 1,
+                "hard": 2
+            },
+            "default": 1,
+            "allow_custom_value": false
+        },
+
+        "solo_mode": {
+            "display_name": "Solo Mode",
+            "type": "Toggle",
+            "description": [
+                "Enable Solo Mode, a setting that disables some Checks and makes some Items Useful instead of Progression.",
+                "Recommended to enable if you plan on playing on your own instead of with friends.",
+                "(1 Check)"
+            ],
+            "default": true
+        },
+
+        "hard_achievements": {
+            "display_name": "Hard Achievements",
+            "type": "Toggle",
+            "description": [
+                "Enable checks for completing harder Achievements. This includes the following Achievements:",
+                "- Empty-Handed (Beat the game itemless.)",
+                "- No time to think (Beat the game in under 35 minutes.)",
+                "- Bloodshed (Die 10 times in a run.)",
+                "- Hard Worker (Beat the game with no Quickly Outs and 3 Overtimes. Forces nights to be 15 seconds longer unless you happen to circumvent some of the time with The Moon Tarot Card or Pocket Watch Starter Item.)",
+                "- Burning with you (Beat the BiD Route on Scorched Difficulty.)",
+                "- Soaked with Guilt (Beat the PtWP Route on Soaked Difficulty.)",
+                "- Pulled by Strings (Beat the FS Route on Puppet Difficulty.)",
+                "- Seen the Fish (Catch all types of fish and complete the Fishing Book.)",
+                "- THEY HAVE TO DO SOMETHING: Hit all 37 buttons in the Lobby. There are two in particular that are annoying to do. Speed Coil is expected for one of them, but still unsure of a consistent way to get the second one. You should probably exclude this if you turn this Option on for other Achievements you don't mind doing.",
+                "- Strongest Hammer (Hit an almost Perfect score on the Hammer arcade game. Not easy to get consistently, so it's considered a Hard Achievement.)",
+                "- Are you ready for Barry? (On Night 15 or later, let Barry get to the door, but survive the night.)",
+                "- Music of the Past (Complete the Lost Music Box Challenge. Also disables the Check for the mentioned Challenge.)",
+                "- Feel my Flame (Complete the Feel your Flame Challenge. Also disables the Check for the mentioned Challenge.)",
+                "- Quick Thinker (Complete the Constant QTE Challenge. Also disables the Check for the mentioned Challenge.)",
+                "- Unmasked (Have Old Barry, Old Bunny, and Old Chicken active at the same time, then have your mask break but still survive the night. Considered a Hard Achievement because it can be a pain to setup without dying in the process.)",
+                "- Empty Victory (Beat the game while having 0 Max HP, aka Empty.)",
+                "- Green Runner (Beat the game on Guilty while using as little power as possible. The exact numbers are less than 225% + 50% extra per additional player. For example, 275% with 2 players, 325% with 3 players, etc.)",
+                "In addition, the Unfortunate (Make the Wheel of Fortune explode) Achievement wiil have its logic shifted, depending on if this Option is enabled or disabled.",
+                "- Enabled: Requires access to Night 13 or later (to account for if the player takes a bit to find the Wheel of Fortune, if at all. Ironically requires some luck to get.)",
+                "- Disabled: Requires the Lucky Clover Starter Item and access to Night 8 or later.",
+                "Overall, it's recommended to disable this Option if you don't feel confident in your skills (and maybe luck).",
+                "(20 Checks)"
+            ],
+            "default": false
+        },
+
+        "achievement_challenges": {
+            "display_name": "Achievement Challenges",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for beating Challenges that are tied to Achievements.",
+                "(14 Checks)"
+            ],
+            "default": false
+        },
+
+        "non_achievement_challenges": {
+            "display_name": "Non-Achievement Challenges",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for beating Challenges that are NOT tied to Achievements.",
+                "(2 Checks)"
+            ],
+            "default": false
+        },
+
+        "fishsanity": {
+            "display_name": "Fishsanity",
+            "type": "Choice",
+            "description": [
+                "Enable Checks for catching fish with the Fishing Rod. Please read the below information for details:",
+                "Colors Only: The 10 colored fish are the only ones with Checks on them. They all have an equal 2.6% chance to be fished up.",
+                "Colors and Characters: The 10 colored fish and 29 character fish are Checks, totaling to 39 Checks. Note that this also includes the Ticket and Fish Emoji...because yes.",
+                "True Fishsanity: EVERY fish is a Check. CAUTION: This includes the 8 rarest fish in the game, each of which having a <2% chance of appearing. Be aware that completing your Checks may take a while with this enabled.",
+                "(47 Checks)"
+            ],
+            "values": {
+                "disabled": 0,
+                "colors_only": 1,
+                "colors_and_characters": 2,
+                "true_fishsanity": 3
+            },
+            "default": 0,
+            "allow_custom_value": false
+        },
+
+        "deathsanity": {
+            "display_name": "Deathsanity",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for being killed by each of the game's Threats.",
+                "This includes Myself on Night 20, Scorched Myself on BiD Night 21, and False Savior on FS Night 21.",
+                "(54 Checks)"
+            ],
+            "default": false
+        },
+
+        "bell_logic": {
+            "display_name": "Bell Logic",
+            "type": "Toggle",
+            "description": [
+                "Enabling this Option will make it so the Pocket Bell Main Item to be considered for logic in places such as the 'I'm Prepared' Achievement.",
+                "If this is disabled, the Pocket Bell will be a Filler Item, meaning there's a chance it may not even show up in the Manual.",
+                "(which honestly might be for the better)"
+            ],
+            "default": true 
+        },
+
+        "flashlight_skins": {
+            "display_name": "Flashlight Skins",
+            "type": "Toggle",
+            "description": [
+                "Enable Flashlight Skins as items.",
+                "Note that these are all Filler, so enabling this is completely optional."
+            ],
+            "default": true 
+        },
+
+        "connection_status": {
+            "display_name": "Connection Status",
+            "type": "Choice",
+            "description": [
+                "Access...?",
+                "(16 Checks)",
+                "WARNING: This is new content that was added in Rearranged Void. As such, it will be a spoiler.",
+                "Turn this Option off if you have not yet found this for yourself.",
+                "This warning will be removed after this update has been out for a while."
+            ],
+            "values": {
+                "granted": 0,
+                "denied": 1
+            },
+            "default": 1,
+            "allow_custom_value": false
         }
     }
 }
