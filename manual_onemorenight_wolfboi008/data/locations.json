@@ -2185,7 +2185,7 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "Baby Jumpscare",
+    "name": "Baby Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2193,7 +2193,7 @@
     "requires": "|Baby|"
   },
   {
-    "name": "Bad Jumpscare",
+    "name": "Bad Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2201,7 +2201,7 @@
     "requires": "|Bad|"
   },
   {
-    "name": "Ball 'Jumpscare'",
+    "name": "Ball Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2209,7 +2209,7 @@
     "requires": "|Ball|"
   },
   {
-    "name": "Barry Jumpscare",
+    "name": "Barry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2217,7 +2217,7 @@
     "requires": "|Barry| OR |Barry's Top Hat|"
   },
   {
-    "name": "Funsy Barry Jumpscare",
+    "name": "Funsy Barry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2225,7 +2225,7 @@
     "requires": "|Funsy Barry|"
   },
   {
-    "name": "New Barry Jumpscare",
+    "name": "New Barry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2233,7 +2233,7 @@
     "requires": "|New Barry|"
   },
   {
-    "name": "Old Barry Jumpscare",
+    "name": "Old Barry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2241,7 +2241,7 @@
     "requires": "|Old Barry|"
   },
   {
-    "name": "Bomb Jumpscare",
+    "name": "Bomb Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2249,7 +2249,7 @@
     "requires": "|Bomb| OR |Red Flag|"
   },
   {
-    "name": "Broken Cat Jumpscare",
+    "name": "Broken Cat Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2257,7 +2257,7 @@
     "requires": "|Broken Cat|"
   },
   {
-    "name": "Broken Chimp Jumpscare",
+    "name": "Broken Chimp Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2265,7 +2265,7 @@
     "requires": "|Broken Chimp|"
   },
   {
-    "name": "Bunny Jumpscare",
+    "name": "Bunny Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2273,7 +2273,7 @@
     "requires": "|Bunny|"
   },
   {
-    "name": "Old Bunny Jumpscare",
+    "name": "Old Bunny Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2281,7 +2281,7 @@
     "requires": "|Old Bunny|"
   },
   {
-    "name": "Chains Jumpscare",
+    "name": "Chains Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2289,7 +2289,7 @@
     "requires": "|Chains|"
   },
   {
-    "name": "Chicken Jumpscare",
+    "name": "Chicken Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2297,7 +2297,7 @@
     "requires": "|Chicken|"
   },
   {
-    "name": "New Chicken Jumpscare",
+    "name": "New Chicken Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2305,7 +2305,7 @@
     "requires": "|New Chicken|"
   },
   {
-    "name": "Old Chicken Jumpscare",
+    "name": "Old Chicken Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2313,7 +2313,7 @@
     "requires": "|Old Chicken|"
   },
   {
-    "name": "Dry Jumpscare",
+    "name": "Dry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2321,7 +2321,7 @@
     "requires": "|Dry| OR |Dry's Calculator|"
   },
   {
-    "name": "Figure Jumpscare",
+    "name": "Figure Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2329,7 +2329,7 @@
     "requires": "|Figure| OR |Figure's Glowstick|"
   },
   {
-    "name": "Fox Jumpscare",
+    "name": "Fox Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2337,7 +2337,7 @@
     "requires": "|Fox|"
   },
   {
-    "name": "Funsy Fox Jumpscare",
+    "name": "Funsy Fox Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2345,7 +2345,7 @@
     "requires": "|Funsy Fox|"
   },
   {
-    "name": "Old Fox Jumpscare",
+    "name": "Old Fox Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2353,7 +2353,7 @@
     "requires": "|Old Fox|"
   },
   {
-    "name": "Fran Jumpscare",
+    "name": "Fran Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2361,7 +2361,7 @@
     "requires": "|Fran|"
   },
   {
-    "name": "Glitch Jumpscare",
+    "name": "Glitch Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2369,7 +2369,7 @@
     "requires": "|Glitch|"
   },
   {
-    "name": "Hesitation Jumpscare",
+    "name": "Hesitation Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2377,7 +2377,7 @@
     "requires": "|Hesitation|"
   },
   {
-    "name": "Isra Jumpscare",
+    "name": "Isra Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2385,7 +2385,7 @@
     "requires": "|Isra| OR |Isra's Chicken|"
   },
   {
-    "name": "Jan Jumpscare",
+    "name": "Jan Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2393,7 +2393,7 @@
     "requires": "|Jan|"
   },
   {
-    "name": "Jaws Jumpscare",
+    "name": "Jaws Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2401,7 +2401,7 @@
     "requires": "|Jaws|"
   },
   {
-    "name": "Jordi 'Jumpscare' Jumpscare",
+    "name": "Jordi 'Jumpscare' Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2409,7 +2409,7 @@
     "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
   },
   {
-    "name": "Kono Jumpscare",
+    "name": "Kono Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2417,7 +2417,7 @@
     "requires": "|Kono|"
   },
   {
-    "name": "Mango Jumpscare",
+    "name": "Mango Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2425,7 +2425,7 @@
     "requires": "|Mango|"
   },
   {
-    "name": "Mart 'Jumpscare'",
+    "name": "Mart Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2433,7 +2433,7 @@
     "requires": "|Mart|"
   },
   {
-    "name": "MikePike Jumpscare",
+    "name": "MikePike Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2441,7 +2441,7 @@
     "requires": "|MikePike|"
   },
   {
-    "name": "My Shadow Jumpscare",
+    "name": "My Shadow Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2449,7 +2449,7 @@
     "requires": "|My Shadow| OR |My own Shadow|"
   },
   {
-    "name": "Noob Jumpscare",
+    "name": "Noob Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2457,7 +2457,7 @@
     "requires": "|Noob|"
   },
   {
-    "name": "Pot0s Jumpscare",
+    "name": "Pot0s Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2465,7 +2465,7 @@
     "requires": "|Pot0s|"
   },
   {
-    "name": "Puppet Jumpscare",
+    "name": "Puppet Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2473,7 +2473,7 @@
     "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
   },
   {
-    "name": "Raptor Jumpscare",
+    "name": "Raptor Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2481,7 +2481,7 @@
     "requires": "|Raptor|"
   },
   {
-    "name": "Roxie Jumpscare",
+    "name": "Roxie Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2489,7 +2489,7 @@
     "requires": "|Roxie| OR |Fumo Sticker|"
   },
   {
-    "name": "Rush Jumpscare",
+    "name": "Rush Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2497,7 +2497,7 @@
     "requires": "|Rush|"
   },
   {
-    "name": "Screech Jumpscare",
+    "name": "Screech Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2505,7 +2505,7 @@
     "requires": "|Screech|"
   },
   {
-    "name": "Strings Jumpscare",
+    "name": "Strings Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2513,7 +2513,7 @@
     "requires": "|Strings|"
   },
   {
-    "name": "Toxicity Jumpscare",
+    "name": "Toxicity Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2521,7 +2521,7 @@
     "requires": "|Toxicity|"
   },
   {
-    "name": "Ventilation Errors 'Jumpscare'",
+    "name": "Ventilation Errors Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2529,7 +2529,7 @@
     "requires": "|Ventilation Errors|"
   },
   {
-    "name": "Void Jumpscare",
+    "name": "Void Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2537,7 +2537,7 @@
     "requires": "|Void|"
   },
   {
-    "name": "Wormcave Jumpscare",
+    "name": "Wormcave Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2545,7 +2545,7 @@
     "requires": "|Wormcave|"
   },
   {
-    "name": "ZGuesto Jumpscare",
+    "name": "ZGuesto Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2553,7 +2553,7 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Zuffy Jumpscare",
+    "name": "Zuffy Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2561,7 +2561,7 @@
     "requires": "|Zuffy|"
   },
   {
-    "name": "Heat 'Jumpscare'",
+    "name": "Heat Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2569,7 +2569,7 @@
     "requires": "|Scorched| OR |Heat|"
   },
   {
-    "name": "Golden Gun Jumpscare",
+    "name": "Golden Gun Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2577,7 +2577,7 @@
     "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
-    "name": "Stratosfear Jumpscare",
+    "name": "Stratosfear Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2585,7 +2585,7 @@
     "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
-    "name": "White Jumpscare",
+    "name": "White Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
@@ -2593,7 +2593,7 @@
     "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
-    "name": "Myself Jumpscare",
+    "name": "Myself Death",
     "region": "Roguelike Mode",
     "category": [
       "Deathsanity"
@@ -2601,7 +2601,7 @@
     "requires": "|Progressive Night:19|"
   },
   {
-    "name": "Scorched Myself Jumpscare",
+    "name": "Scorched Myself Death",
     "region": "Roguelike Mode",
     "category": [
       "Deathsanity"
@@ -2609,7 +2609,7 @@
     "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
   },
   {
-    "name": "False Savior Jumpscare",
+    "name": "False Savior Death",
     "region": "Roguelike Mode",
     "category": [
       "Deathsanity"
