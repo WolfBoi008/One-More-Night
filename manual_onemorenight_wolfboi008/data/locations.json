@@ -1600,7 +1600,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|Calm| AND (|My own Shadow| AND |Progressive Night:7|) OR (|Progressive Night:11|) OR ((|Guilty| OR |Devastated| OR |Scorched| OR |Soaked| OR |Puppeteered|) AND |Progressive Night:11|)"
+    "requires": "(|My own Shadow| AND |Progressive Night:7|) OR |Progressive Night:11|"
   },
   {
     "name": "Empty Victory",
