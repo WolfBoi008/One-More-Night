@@ -1600,7 +1600,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|Calm| AND (|My own Shadow| AND |Progressive Night:11|) OR |Progressive Night:15|) OR ((|Guilty| OR |Devastated| OR |Scorched| OR |Soaked| OR |Puppeteered|) AND |Progressive Night:11|)"
+    "requires": "(|Calm| AND (|My own Shadow| AND |Progressive Night:7|) OR (|Progressive Night:11|) OR ((|Guilty| OR |Devastated| OR |Scorched| OR |Soaked| OR |Puppeteered|) AND |Progressive Night:11|)"
   },
   {
     "name": "Empty Victory",
@@ -1678,20 +1678,10 @@
     "requires": []
   },
   {
-    "name": "Everyone is Here",
-    "region": "Sandbox Mode",
-    "category": [
-      "Challenges",
-      "Non-Achievement Challenges"
-    ],
-    "requires": "|@Threats:ALL|"
-  },
-  {
     "name": "Artificial Insanity (@_averagetryhard)",
     "region": "Sandbox Mode",
     "category": [
-      "Challenges",
-      "Non-Achievement Challenges"
+      "Placeholder"
     ],
     "requires": "|Old Bunny| AND |Dry| AND |Fran| AND |Jan| AND |Jordi 'Jumpscare'| AND |Mango| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Wormcave| AND |ZGuesto|"
   },

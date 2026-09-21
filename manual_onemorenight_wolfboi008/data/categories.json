@@ -13,9 +13,6 @@
     "Achievement Challenges": {
         "yaml_option": ["achievement_challenges"]
     },
-    "Non-Achievement Challenges": {
-        "yaml_option": ["non_achievement_challenges"]
-    },
     "Hard Achievements": {
         "yaml_option": ["hard_achievements"]
     },
