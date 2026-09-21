@@ -2585,7 +2585,8 @@
     "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
-    "name": "White Death",
+    "name": "White Jumpscare",
+    "_comment": "I'm sorry, this one was too funny to change, and the community agreed when I asked.",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
