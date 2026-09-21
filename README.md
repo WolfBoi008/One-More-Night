@@ -3,11 +3,15 @@
 ## Goals
 - Beat TitN Ending
 - Beat BiD Ending
+- Beat BiD on Scorched
 - Beat PtWP Ending
+- Beat PtWP on Soaked
 - Beat FS Ending
+- Beat FS on Puppeteered
 - Collect Memory Fragments
 
 ## Items
+- States of Mind
 - Difficulties
 - Threats
 - Gasoline and Lighter (for BiD Ending)
@@ -26,13 +30,16 @@
 - Beating Enemies for the first time
 - Beating Nights
 - Achievements
-- Memories
+- Viewing Memories
 
 ## Options
+- Starting State of Mind
+- Starting Difficulty
+- Solo Mode
 - Hard Achievements
 - Achievement Challenges
-- Non-Achievement Challenges
-- Jumpscaresanity
+- Deathsanity
 - Fishsanity
 - Flashlight Skins
 - Bell Logic
+- Connection
