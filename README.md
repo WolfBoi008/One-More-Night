@@ -24,7 +24,6 @@
 - Minor Unlocks
 - Ally in Purgatory
   - You can bring an extra player on your runs for each of these you have. Teamwork makes the dream work!
-- Flashlight Skins
 - Traps
 
 ## Checks
