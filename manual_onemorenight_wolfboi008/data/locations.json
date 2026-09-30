@@ -2777,7 +2777,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Entrance Button 2",
@@ -2785,7 +2785,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Entrance Button 3",
@@ -2793,7 +2793,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Elevators Button 1",
@@ -2801,7 +2801,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Elevators Button 2",
@@ -2809,7 +2809,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Elevators Button 3",
@@ -2817,7 +2817,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Elevators Button 4",
@@ -2825,7 +2825,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Elevators Button 5",
@@ -2833,7 +2833,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Lobby Center Button 1",
@@ -2841,7 +2841,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Lobby Center Button 2",
@@ -2849,7 +2849,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Lobby Center Button 3",
@@ -2857,7 +2857,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Lobby Center Button 4",
@@ -2865,7 +2865,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 1",
@@ -2873,7 +2873,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 2",
@@ -2881,7 +2881,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 3",
@@ -2889,7 +2889,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 4",
@@ -2897,7 +2897,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 5",
@@ -2905,7 +2905,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 6",
@@ -2913,7 +2913,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 7",
@@ -2921,7 +2921,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 8",
@@ -2929,7 +2929,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 9",
@@ -2937,7 +2937,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 10",
@@ -2945,7 +2945,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Arcade Button 11",
@@ -2953,7 +2953,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Gallery Button 1",
@@ -2961,7 +2961,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Gallery Button 2",
@@ -2969,7 +2969,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 1",
@@ -2977,7 +2977,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 2",
@@ -2985,7 +2985,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 3",
@@ -2993,7 +2993,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 4",
@@ -3001,7 +3001,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 5",
@@ -3009,7 +3009,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 6",
@@ -3017,7 +3017,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "El Bar Button 7",
@@ -3025,7 +3025,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 1",
@@ -3033,7 +3033,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 2",
@@ -3041,7 +3041,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 3",
@@ -3049,7 +3049,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 4",
@@ -3057,7 +3057,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 5",
@@ -3065,7 +3065,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 6",
@@ -3073,7 +3073,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 7",
@@ -3081,7 +3081,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 8",
@@ -3089,7 +3089,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Outside Button 9",
@@ -3097,7 +3097,7 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": []
+    "requires": "|Button Radar|"
   },
   {
     "name": "Lone Island Button",
@@ -3105,6 +3105,6 @@
     "category": [
       "Buttonsanity"
     ],
-    "requires": "|Speed Coil|"
+    "requires": "|Button Radar| AND |Speed Coil|"
   }
 ]
