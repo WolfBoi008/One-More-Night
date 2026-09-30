@@ -3,6 +3,10 @@
     "connects_to": [],
     "requires": []
   },
+  "Grid's Shop": {
+    "connects_to": [],
+    "requires": "|Greedy Key|"
+  },
   "Roguelike Mode": {
     "connects_to": [],
     "requires": "|@States of Mind:1|"

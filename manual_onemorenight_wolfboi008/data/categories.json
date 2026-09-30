@@ -43,6 +43,10 @@
     },
     "Connection": {
         "yaml_option": ["connection"]
+    },
+    "Buttonsanity": {
+        "yaml_option": ["buttonsanity"],
+        "requires": "|Button Radar|"
     }
     
 }

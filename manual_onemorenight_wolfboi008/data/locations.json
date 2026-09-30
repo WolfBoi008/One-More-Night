@@ -2734,5 +2734,377 @@
       "Connection"
     ],
     "requires": []
+  },
+  {
+    "name": "Purchase Ocarina",
+    "region": "Grid's Shop",
+    "category": [
+      "Grid's Shop"
+    ],
+    "requires": [],
+    "prehint": true
+  },
+  {
+    "name": "Purchase Fishing Rod",
+    "region": "Grid's Shop",
+    "category": [
+      "Grid's Shop"
+    ],
+    "requires": [],
+    "prehint": true
+  },
+  {
+    "name": "Purchase Snowball",
+    "region": "Grid's Shop",
+    "category": [
+      "Grid's Shop"
+    ],
+    "requires": [],
+    "prehint": true
+  },
+  {
+    "name": "Purchase Speed Coil",
+    "region": "Grid's Shop",
+    "category": [
+      "Grid's Shop"
+    ],
+    "requires": [],
+    "prehint": true
+  },
+  {
+    "name": "Entrance Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Entrance Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Entrance Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elevators Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elevators Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elevators Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elevators Button 4",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elevators Button 5",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lobby Center Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lobby Center Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lobby Center Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lobby Center Button 4",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 4",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 5",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 6",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 7",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 8",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 9",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 10",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arcade Button 11",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gallery Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gallery Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 4",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 5",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 6",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "El Bar Button 7",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 3",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 4",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 5",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 6",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 7",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 8",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Outside Button 9",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lone Island Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Speed Coil|"
   }
 ]

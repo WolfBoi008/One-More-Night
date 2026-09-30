@@ -771,6 +771,14 @@
   },
   {
     "count": 1,
+    "name": "Realistic Gun",
+    "category": [
+      "Main Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Spare Batteries",
     "category": [
       "Starter Items"
@@ -1031,6 +1039,22 @@
     "name": "Bloxy Cola",
     "category": [
       "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Greedy Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Button Radar",
+    "category": [
+      "Buttonsanity"
     ],
     "progression": true
   },
@@ -1604,16 +1628,112 @@
     "filler": true
   },
   {
-    "count": 1,
-    "name": "Cracked Mask",
+    "count": 0,
+    "name": "TIX",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Fire Extinguisher",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Cardboard Box",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Feeling of Disappointment",
     "category": [
       "Misc. Filler Items"
     ],
     "filler": true
   },
   {
-    "count": 1,
-    "name": "TIX",
+    "count": 0,
+    "name": "Shattered Flashlight",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Blank Post-Its",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Train Ticket",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Dry Plushie with Removable Wig",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Symbol of Celesteal",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Broken Arcade Machine",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Black",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bootleg Konoling",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "His Blue Shackles",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Chicken Nugget",
     "category": [
       "Misc. Filler Items"
     ],

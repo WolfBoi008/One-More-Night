@@ -209,12 +209,23 @@
             "default": false
         },
 
+        "buttonsanity": {
+            "display_name": "Buttonsanity",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for clicking the buttons scattered around the Hub.",
+                "If you need help locating some of the buttons, I recommend checking the Lobby page on the Official Wiki.",
+                "(42 Checks)"
+            ],
+            "default": false
+        },
+
         "bell_logic": {
             "display_name": "Bell Logic",
             "type": "Toggle",
             "description": [
-                "Enabling this Option will make it so the Pocket Bell Main Item to be considered for logic in places such as the 'I'm Prepared' Achievement.",
-                "If this is disabled, the Pocket Bell will be a Filler Item, meaning there's a chance it may not even show up in the Manual.",
+                "Enabling this Option will make it so the Pocket Bell and Realistic Gun Main Items to be considered for logic in places such as the 'I'm Prepared' Achievement.",
+                "If this is disabled, they will instead be Filler Items, meaning there's a chance they may be removed from the item pool depending on other Options.",
                 "(which honestly might be for the better)"
             ],
             "default": true 

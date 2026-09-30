@@ -36,7 +36,7 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    filler_items = ["Coins", "Cracked Mask", "TIX"]
+    filler_items = ["Coins", "TIX", "Fire Extinguisher", "Cardboard Box", "Feeling of Disappointment", "Shattered Flashlight", "Blank Post-Its", "Train Ticket", "Dry Plushie with Removable Wig", "Symbol of Celesteal", "Broken Arcade Machine", "Black", "Bootleg Konoling", "His Blue Shackles", "Chicken Nugget"]
     return world.random.choice(filler_items)
 
 def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> None:
@@ -153,6 +153,8 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
     for item in item_pool:
         if world.options.bell_logic.value == False:
             if item.name == "Pocket Bell (Item)":
+                item.classification = ItemClassification.filler
+            if item.name == "Realistic Gun":
                 item.classification = ItemClassification.filler
     return item_pool
 
