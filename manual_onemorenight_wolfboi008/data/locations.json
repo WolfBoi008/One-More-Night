@@ -2415,14 +2415,6 @@
     "requires": "|Mango|"
   },
   {
-    "name": "Mart Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity"
-    ],
-    "requires": "|Mart|"
-  },
-  {
     "name": "MikePike Death",
     "region": "Sandbox Mode",
     "category": [
