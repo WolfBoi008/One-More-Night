@@ -2,6 +2,7 @@
 
 ## Notes
 - I have been asked about this many times, so I'll reiterate it here. **You do not have to pick exclusively from the Threats you have been given on your runs.** The Threats are logically intended to do their Checks in Sandbox Mode.
+- You also are not expected to play on a fresh account to play this, since you should have access to various Minor Unlocks, Items, etc.
 
 ## Goals
 - Beat TitN Ending
