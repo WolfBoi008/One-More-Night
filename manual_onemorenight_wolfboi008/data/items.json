@@ -3,7 +3,7 @@
     "count": 1,
     "name": "Calm",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -11,7 +11,7 @@
     "count": 1,
     "name": "Guilty",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -19,7 +19,7 @@
     "count": 1,
     "name": "Devastated",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -27,7 +27,7 @@
     "count": 1,
     "name": "Scorched",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
@@ -35,25 +35,41 @@
     "count": 1,
     "name": "Soaked",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Puppet (Difficulty)",
+    "name": "Puppeteered",
     "category": [
-      "Difficulties"
+      "States of Mind"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Lost",
+    "name": "Casual",
     "category": [
       "Difficulties"
     ],
-    "progression": true
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Normal",
+    "category": [
+      "Difficulties"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hard",
+    "category": [
+      "Difficulties"
+    ],
+    "useful": true
   },
   {
     "count": 1,
@@ -66,6 +82,14 @@
   {
     "count": 1,
     "name": "Balloon Girl",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baby",
     "category": [
       "Threats"
     ],
@@ -171,6 +195,14 @@
   {
     "count": 1,
     "name": "Old Bunny",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cadence",
     "category": [
       "Threats"
     ],
@@ -330,6 +362,14 @@
   },
   {
     "count": 1,
+    "name": "Mart",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "MikePike",
     "category": [
       "Threats"
@@ -338,7 +378,7 @@
   },
   {
     "count": 1,
-    "name": "(???)/My Shadow",
+    "name": "My Shadow",
     "category": [
       "Threats"
     ],
@@ -370,7 +410,7 @@
   },
   {
     "count": 1,
-    "name": "Puppet (Threat)",
+    "name": "Puppet",
     "category": [
       "Threats"
     ],
@@ -594,7 +634,7 @@
   },
   {
     "count": 0,
-    "name": "Next Run, Fooled Difficulty",
+    "name": "Next Run, Fooled State of Mind",
     "category": [
       "Traps"
     ],
@@ -602,15 +642,7 @@
   },
   {
     "count": 1,
-    "name": "Tarot Cloth",
-    "category": [
-      "Pre-Run Shop"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Open Space",
+    "name": "A Second Chance",
     "category": [
       "Pre-Run Shop"
     ],
@@ -618,7 +650,15 @@
   },
   {
     "count": 1,
-    "name": "Rigged Dice",
+    "name": "Space For Everyone",
+    "category": [
+      "Pre-Run Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Deal with Destiny",
     "category": [
       "Pre-Run Shop"
     ],
@@ -634,7 +674,7 @@
   },
   {
     "count": 1,
-    "name": "Healthy",
+    "name": "Iron Lungs",
     "category": [
       "Main Items"
     ],
@@ -650,7 +690,7 @@
   },
   {
     "count": 1,
-    "name": "Flash Beacon",
+    "name": "Flash Ring",
     "category": [
       "Main Items"
     ],
@@ -690,7 +730,7 @@
   },
   {
     "count": 1,
-    "name": "Pocket Bell",
+    "name": "Pocket Bell (Item)",
     "description": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
     "category": [
       "Main Items"
@@ -724,6 +764,14 @@
   {
     "count": 1,
     "name": "Empowered Paint Brush",
+    "category": [
+      "Main Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Realistic Gun",
     "category": [
       "Main Items"
     ],
@@ -907,6 +955,14 @@
   },
   {
     "count": 1,
+    "name": "Red Flag",
+    "category": [
+      "Starter Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Broken Deal",
     "category": [
       "Minor Unlocks"
@@ -946,10 +1002,27 @@
     "useful": true
   },
   {
+    "count": 1,
+    "name": "Last Robloxian Standing",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Belt",
+    "category": [
+      "Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
     "count": 3,
     "name": "Ally in Purgatory",
     "category": [
-      "Assistance"
+      "Assistance",
+      "Co-Op"
     ],
     "progression": true
   },
@@ -966,6 +1039,22 @@
     "name": "Bloxy Cola",
     "category": [
       "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Greedy Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Button Radar",
+    "category": [
+      "Buttonsanity"
     ],
     "progression": true
   },
@@ -1363,7 +1452,7 @@
   },
   {
     "count": 1,
-    "name": "Graceful Flashlight",
+    "name": "Heartful Flashlight",
     "category": [
       "Flashlight Skins"
     ],
@@ -1372,6 +1461,134 @@
   {
     "count": 1,
     "name": "Flashbang",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Subspace Tripmine",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Bell (Flashlight)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Swiftness Ring",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Springer",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Escape Beacon",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Colors (White and Green)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Colors (Green and Red)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Colors (Red and White)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Gift (Blue and Yellow)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Gift (Green and Red)",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Candy Cane",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Icicle",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Tree",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Snowflake",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jolly Soul Doll",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Christmas Spirit",
     "category": [
       "Flashlight Skins"
     ],
@@ -1411,16 +1628,112 @@
     "filler": true
   },
   {
-    "count": 1,
-    "name": "Cracked Mask",
+    "count": 0,
+    "name": "TIX",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Fire Extinguisher",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Cardboard Box",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Feeling of Disappointment",
     "category": [
       "Misc. Filler Items"
     ],
     "filler": true
   },
   {
-    "count": 1,
-    "name": "TIX",
+    "count": 0,
+    "name": "Shattered Flashlight",
+    "category": [
+     "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Blank Post-Its",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Train Ticket",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Dry Plushie with Removable Wig",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Symbol of Celesteal",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Broken Arcade Machine",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Black",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bootleg Konoling",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "His Blue Shackles",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Chicken Nugget",
     "category": [
       "Misc. Filler Items"
     ],

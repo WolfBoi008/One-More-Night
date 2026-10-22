@@ -3,12 +3,20 @@
     "connects_to": [],
     "requires": []
   },
+  "Grid's Shop": {
+    "connects_to": [],
+    "requires": "|Greedy Key|"
+  },
   "Roguelike Mode": {
     "connects_to": [],
-    "requires": "|@Difficulties:1|"
+    "requires": "|@States of Mind:1|"
   },
   "Sandbox Mode": {
     "connects_to": [],
     "requires": []
+  },
+  "Connection": {
+    "connects_to": [],
+    "requires": "|Speed Coil|"
   }
 }
