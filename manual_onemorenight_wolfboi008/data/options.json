@@ -220,6 +220,17 @@
             "default": false
         },
 
+        "ostsanity": {
+            "display_name": "OSTsanity",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for hearing each of the songs in the game's soundtrack.",
+                "Note that you're expected to die on Night 1 so you can hear The End.",
+                "(27 Checks)"
+            ],
+            "default": false
+        },
+
         "bell_logic": {
             "display_name": "Bell Logic",
             "type": "Toggle",

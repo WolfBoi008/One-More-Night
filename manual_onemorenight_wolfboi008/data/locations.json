@@ -224,6 +224,14 @@
     "requires": "|Fran|"
   },
   {
+    "name": "Beat a Night with Gisela Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Gisela|"
+  },
+  {
     "name": "Beat a Night with Glitch Active",
     "region": "Sandbox Mode",
     "category": [
@@ -424,12 +432,67 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Beat a Night with Zuffy Active",
+    "name": "Beat a Night with Placeholder Office Threat 1 Active",
     "region": "Sandbox Mode",
     "category": [
-      "Enemy-Specific"
+      "Enemy-Specific",
+      "Placeholder"
     ],
-    "requires": "|Zuffy|"
+    "requires": "|Placeholder Office Threat 1|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Office Threat 2 Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 2|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Office Threat 3 Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 3|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Office Threat 4 Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 4|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Camera Threat 1 Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 1|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Camera Threat 2 Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 2|"
+  },
+  {
+    "name": "Beat a Night with Placeholder Door Threat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Door Threat|"
   },
   {
     "name": "Beat a Night with Heat Active",
@@ -470,6 +533,33 @@
       "Enemy-Specific"
     ],
     "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "Beat a Night with FS Specific Threat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|FS Specific Threat|"
+  },
+  {
+    "name": "Beat a Night with Fran Route Specific Threat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Fran Route Specific Threat|"
+  },
+  {
+    "name": "Beat a Night with Crowbar Route Specific Threat Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific",
+      "Placeholder"
+    ],
+    "requires": "|Crowbar Route Specific Threat|"
   },
   {
     "name": "View Heat Memory",
@@ -704,6 +794,14 @@
     "requires": "|Fran|"
   },
   {
+    "name": "View Gisela Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Gisela|"
+  },
+  {
     "name": "View Glitch Memory",
     "region": "Lobby",
     "category": [
@@ -904,12 +1002,75 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "View Zuffy Memory",
+    "name": "View Placeholder Office Threat 1 Memory",
     "region": "Lobby",
     "category": [
-      "Memories"
+      "Memories",
+      "Placeholder"
     ],
-    "requires": "|Zuffy|"
+    "requires": "|Placeholder Office Threat 1|"
+  },
+  {
+    "name": "View Placeholder Office Threat 2 Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 2|"
+  },
+  {
+    "name": "View Placeholder Office Threat 3 Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 3|"
+  },
+  {
+    "name": "View Placeholder Office Threat 4 Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 4|"
+  },
+  {
+    "name": "View Placeholder Camera Threat 1 Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 1|"
+  },
+  {
+    "name": "View Placeholder Camera Threat 2 Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 2|"
+  },
+  {
+    "name": "View Placeholder Door Threat Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Door Threat|"
+  },
+  {
+    "name": "'Complete' the Tutorial",
+    "region": "Lobby",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
   },
   {
     "name": "Night 1",
@@ -1096,6 +1257,24 @@
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
+    "name": "Placeholder Ending 1",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights",
+      "Placeholder"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran Route Key Item|"
+  },
+  {
+    "name": "Placeholder Ending 2",
+    "region": "Roguelike Mode",
+    "category": [
+      "Nights",
+      "Placeholder"
+    ],
+    "requires": "|Progressive Night:20| AND |Crowbar Route Key Item|"
+  },
+  {
     "name": "[TitN] Trapped in the Nightmare",
     "category": [
       "Goal"
@@ -1274,6 +1453,46 @@
     "requires": "|Puppeteered| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
+    "name": "Placeholder Ending + State of Mind Achievement 1",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder State of Mind 1| AND |Progressive Night:20|"
+  },
+  {
+    "name": "Placeholder Ending + State of Mind Achievement 2",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder State of Mind 2| AND |Progressive Night:20|"
+  },
+  {
+    "name": "Placeholder Ending + State of Mind Achievement 3",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder State of Mind 1| AND |Progressive Night:20| AND |Fran Route Key Item|"
+  },
+  {
+    "name": "Placeholder Ending + State of Mind Achievement 4",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder State of Mind 2| AND |Progressive Night:20| AND |Crowbar Route Key Item|"
+  },
+  {
     "name": "I called for help.",
     "region": "Roguelike Mode",
     "category": [
@@ -1347,9 +1566,10 @@
     "region": "Lobby",
     "category": [
       "Achievements",
-      "Hard Achievements"
+      "Hard Achievements",
+      "Buttonsanity"
     ],
-    "requires": "|Speed Coil|"
+    "requires": "|Speed Coil| AND |Button Radar| AND |Greedy Key|"
   },
   {
     "name": "The Paint Brush",
@@ -1374,7 +1594,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": []
+    "requires": "|Greedy Key|"
   },
   {
     "name": "Not a Charity",
@@ -1557,7 +1777,7 @@
       "Achievement Challenges",
       "Hard Achievements"
     ],
-    "requires": "|Baby| AND |Ball| AND |Bomb| AND |Cadence| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet| AND |Roxie| AND |Ventilation Errors| AND |Zuffy|"
+    "requires": "|Baby| AND |Ball| AND |Bomb| AND |Cadence| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet| AND |Roxie| AND |Ventilation Errors| AND |Gisela|"
   },
   {
     "name": "Not Today, girl!",
@@ -1685,7 +1905,7 @@
       "Achievement Challenges",
       "Hard Achievements"
     ],
-    "requires": "|Baby| AND |Ball| AND |Bomb| AND |Cadence| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet| AND |Roxie| AND |Ventilation Errors| AND |Zuffy|"
+    "requires": "|Baby| AND |Ball| AND |Bomb| AND |Cadence| AND |Jordi 'Jumpscare'| AND |Mart| AND |Pillar| AND |Puppet| AND |Roxie| AND |Ventilation Errors| AND |Gisela|"
   },
   {
     "name": "Lights Out",
@@ -2174,7 +2394,7 @@
     "requires": "|Fishing Rod|"
   },
   {
-    "name": "Zuffy Fish",
+    "name": "Gisela Fish",
     "region": "Lobby",
     "category": [
       "Fishsanity",
@@ -2431,6 +2651,14 @@
     "requires": "|Fran|"
   },
   {
+    "name": "Gisela Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Gisela|"
+  },
+  {
     "name": "Glitch Death",
     "region": "Sandbox Mode",
     "category": [
@@ -2615,12 +2843,67 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Zuffy Death",
+    "name": "Placeholder Office Threat 1 Death",
     "region": "Sandbox Mode",
     "category": [
-      "Deathsanity"
+      "Deathsanity",
+      "Placeholder"
     ],
-    "requires": "|Zuffy|"
+    "requires": "|Placeholder Office Threat 1|"
+  },
+  {
+    "name": "Placeholder Office Threat 2 Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 2|"
+  },
+  {
+    "name": "Placeholder Office Threat 3 Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 3|"
+  },
+  {
+    "name": "Placeholder Office Threat 4 Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Office Threat 4|"
+  },
+  {
+    "name": "Placeholder Camera Threat 1 Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 1|"
+  },
+  {
+    "name": "Placeholder Camera Threat 2 Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Camera Threat 2|"
+  },
+  {
+    "name": "Placeholder Door Threat Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Placeholder Door Threat|"
   },
   {
     "name": "Heat Death",
@@ -2648,12 +2931,39 @@
   },
   {
     "name": "White Jumpscare",
-    "_comment": "I'm sorry, this one was too funny to change, and the community agreed when I asked.",
+    "comment": "I'm sorry, this one was too funny to change, and the community agreed when I asked.",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
     ],
     "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+  },
+  {
+    "name": "FS Specific Threat Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|FS Specific Threat|"
+  },
+  {
+    "name": "Fran Route Specific Threat Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Fran Route Specific Threat|"
+  },
+  {
+    "name": "Crowbar Route Specific Threat Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity",
+      "Placeholder"
+    ],
+    "requires": "|Crowbar Route Specific Threat|"
   },
   {
     "name": "Myself Death",
@@ -2844,7 +3154,7 @@
     "prehint": true
   },
   {
-    "name": "Entrance Button 1",
+    "name": "Entrance Left Pillar Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2852,7 +3162,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Entrance Button 2",
+    "name": "Entrance Right Pillar Button 1",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2860,7 +3170,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Entrance Button 3",
+    "name": "Entrance Right Pillar Button 2",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2868,7 +3178,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Elevators Button 1",
+    "name": "Elevators Arcade Machine Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2876,7 +3186,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Elevators Button 2",
+    "name": "Elevators Between 3s and 4s Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2884,7 +3194,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Elevators Button 3",
+    "name": "Elevators Next to 50 Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2892,7 +3202,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Elevators Button 4",
+    "name": "Elevators Rules Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2900,7 +3210,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Elevators Button 5",
+    "name": "Elevators Emote Area Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2908,7 +3218,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Lobby Center Button 1",
+    "name": "Lobby Center ZGuesto Poster Button 1",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2916,7 +3226,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Lobby Center Button 2",
+    "name": "Lobby Center ZGuesto Poster Button 2",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2924,7 +3234,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Lobby Center Button 3",
+    "name": "Lobby Center Trash Can Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2932,7 +3242,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Lobby Center Button 4",
+    "name": "Lobby Center Inside Trash Can Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2940,7 +3250,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 1",
+    "name": "Arcade Next to Exit Button 1",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2948,7 +3258,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 2",
+    "name": "Arcade Next to Exit Button 2",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2956,7 +3266,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 3",
+    "name": "Arcade Pull Up Bar Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2964,7 +3274,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 4",
+    "name": "Arcade Above Strongest Hammer Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2972,7 +3282,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 5",
+    "name": "Arcade Near Flower Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2980,7 +3290,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 6",
+    "name": "Arcade Ceiling Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2988,7 +3298,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 7",
+    "name": "Arcade Limbo Game Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -2996,7 +3306,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 8",
+    "name": "Arcade Pillar Button 1",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3004,7 +3314,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 9",
+    "name": "Arcade Pillar Button 2",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3012,7 +3322,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 10",
+    "name": "Arcade Pillar Button 3",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3020,7 +3330,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Arcade Button 11",
+    "name": "Arcade Pillar Button 4",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3028,7 +3338,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Gallery Button 1",
+    "name": "Gallery Above Exit Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3036,7 +3346,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Gallery Button 2",
+    "name": "Gallery Bottom Right of Last Wall Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3044,7 +3354,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 1",
+    "name": "El Bar Near Breakable Door Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3052,7 +3362,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 2",
+    "name": "El Bar Side of Vending Machine Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3060,7 +3370,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 3",
+    "name": "El Bar Above Vending Machine Button 1",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3068,7 +3378,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 4",
+    "name": "El Bar Above Vending Machine Button 2",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3076,7 +3386,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 5",
+    "name": "El Bar Above Vending Machine Button 3",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3084,7 +3394,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 6",
+    "name": "El Bar Above Vending Machine Button 4",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3092,7 +3402,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "El Bar Button 7",
+    "name": "El Bar Jordi's Room Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3100,7 +3410,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 1",
+    "name": "Outside Top of Lamp Post Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3108,7 +3418,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 2",
+    "name": "Outside Corner Between Walls Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3116,7 +3426,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 3",
+    "name": "Outside Side of Steps to Nullscape Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3124,7 +3434,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 4",
+    "name": "Outside Behind Nullscape Statue Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3132,7 +3442,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 5",
+    "name": "Outside Railing Near Jordi's Statue Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3140,7 +3450,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 6",
+    "name": "Outside Corner of Dock Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3148,7 +3458,7 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 7",
+    "name": "Outside Invisible Ladder to Tree Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3156,20 +3466,20 @@
     "requires": "|Button Radar|"
   },
   {
-    "name": "Outside Button 8",
+    "name": "Outside Back of Donation Machine Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
     ],
-    "requires": "|Button Radar|"
+    "requires": "|Button Radar| AND |Greedy Key|"
   },
   {
-    "name": "Outside Button 9",
+    "name": "Outside Snow Room Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
     ],
-    "requires": "|Button Radar|"
+    "requires": "|Button Radar| AND |Greedy Key|"
   },
   {
     "name": "Lone Island Button",
@@ -3178,5 +3488,224 @@
       "Buttonsanity"
     ],
     "requires": "|Button Radar| AND |Speed Coil|"
+  },
+  {
+    "name": "I Don't Know",
+    "region": "Lobby",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Off The Grid",
+    "region": "Lobby",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Greedy Key|"
+  },
+  {
+    "name": "Golden Rules",
+    "region": "Lobby",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Act I",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Act II",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Act III",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "The End",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "In The Beginning",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spelunking",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Resentment",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:7|"
+  },
+  {
+    "name": "No Return",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:9|"
+  },
+  {
+    "name": "Eternal Flame",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:13|"
+  },
+  {
+    "name": "Behind The Walls",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:16|"
+  },
+  {
+    "name": "Soul Bound",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Unlocked",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Cold Heart",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  },
+  {
+    "name": "Undying Perdition",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+  },
+  {
+    "name": "Prelude",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:19| AND |Jordi's Paint Brush| AND |Note Piece:4|"
+  },
+  {
+    "name": "Paint The World Purple",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|"
+  },
+  {
+    "name": "Respect",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Jordi's Paint Brush| AND |Note Piece:4|"
+  },
+  {
+    "name": "Struggling Strings",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+  },
+  {
+    "name": "Resilience",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+  },
+  {
+    "name": "Panic",
+    "region": "Sandbox Mode",
+    "category": [
+      "OSTsanity",
+      "Achievement Challenges",
+      "Hard Achievements"
+    ],
+    "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet| AND |Rush|"
+  },
+  {
+    "name": "Mortis",
+    "region": "Sandbox Mode",
+    "category": [
+      "OSTsanity",
+      "Achievement Challenges"
+    ],
+    "requires": "|Balloon Boy| AND |Balloon Girl| AND |Ball| AND |Bomb| AND |Chains| AND |Dry| AND |Hesitation| AND |Jan| AND |Jaws| AND |Kono| AND |Mango| AND |MikePike| AND |Pot0s| AND |Screech| AND |Toxicity| AND |Ventilation Errors| AND |Void|"
+  },
+  {
+    "name": "Sixty to Six",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:14| AND |Last Robloxian Standing|"
+  },
+  {
+    "name": "At Death's Door",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:14| AND |Last Robloxian Standing|"
+  },
+  {
+    "name": "Unknown",
+    "region": "Connection",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Speed Coil|"
   }
 ]

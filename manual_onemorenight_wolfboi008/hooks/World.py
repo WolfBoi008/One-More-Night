@@ -55,6 +55,7 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     if world.options.solo_mode.value == True:
         world.options.coop.value = False
     if world.options.fishsanity.value == 0:
+        world.options.fishsanity_items.value = False
         world.options.fishsanity_achievements.value = False
         world.options.colored_fish.value = False
         world.options.character_fish.value = False

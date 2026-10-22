@@ -49,6 +49,42 @@
   },
   {
     "count": 1,
+    "name": "Placeholder State of Mind 1",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder State of Mind 2",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder State of Mind 3",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder State of Mind 4",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Casual",
     "category": [
       "Difficulties"
@@ -154,7 +190,7 @@
   {
     "count": 1,
     "name": "Bomb",
-    "description": "Insert pipe bomb in your mailbox joke here",
+    "comment": "Insert pipe bomb in your mailbox joke here",
     "category": [
       "Threats"
     ],
@@ -298,6 +334,14 @@
   },
   {
     "count": 1,
+    "name": "Gisela",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Glitch",
     "category": [
       "Threats"
@@ -339,6 +383,7 @@
   {
     "count": 1,
     "name": "Jordi 'Jumpscare'",
+    "comment": "So, we're retconning BiD.",
     "category": [
       "Threats"
     ],
@@ -498,9 +543,64 @@
   },
   {
     "count": 1,
-    "name": "Zuffy",
+    "name": "Placeholder Office Threat 1",
     "category": [
-      "Threats"
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Office Threat 2",
+    "category": [
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Office Threat 3",
+    "category": [
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Office Threat 4",
+    "category": [
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Camera Threat 1",
+    "category": [
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Camera Threat 2",
+    "category": [
+      "Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Door Threat",
+    "category": [
+      "Threats",
+      "Placeholder"
     ],
     "progression": true
   },
@@ -546,6 +646,33 @@
   },
   {
     "count": 1,
+    "name": "FS Specific Threat",
+    "category": [
+      "Route-Specific Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fran Route Specific Threat",
+    "category": [
+      "Route-Specific Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar Route Specific Threat",
+    "category": [
+      "Route-Specific Threats",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Gasoline",
     "category": [
       "Key Items"
@@ -573,6 +700,24 @@
     "name": "Mask Fragment",
     "category": [
       "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fran Route Key Item",
+    "category": [
+      "Key Items",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar Route Key Item",
+    "category": [
+      "Key Items",
+      "Placeholder"
     ],
     "progression": true
   },
@@ -731,7 +876,7 @@
   {
     "count": 1,
     "name": "Pocket Bell (Item)",
-    "description": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
+    "comment": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
     "category": [
       "Main Items"
     ],
@@ -766,6 +911,15 @@
     "name": "Empowered Paint Brush",
     "category": [
       "Main Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder Main Item",
+    "category": [
+      "Main Items",
+      "Placeholder"
     ],
     "progression": true
   },
@@ -963,6 +1117,15 @@
   },
   {
     "count": 1,
+    "name": "Placeholder Starter Item",
+    "category": [
+      "Starter Items",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Broken Deal",
     "category": [
       "Minor Unlocks"
@@ -1030,7 +1193,8 @@
     "count": 1,
     "name": "Fishing Rod",
     "category": [
-      "Key Items"
+      "Key Items",
+      "Fishsanity Items"
     ],
     "progression": true
   },
@@ -1054,6 +1218,7 @@
     "count": 1,
     "name": "Button Radar",
     "category": [
+      "Key Items",
       "Buttonsanity"
     ],
     "progression": true
@@ -1508,6 +1673,78 @@
   },
   {
     "count": 1,
+    "name": "Luminous Block",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Coil",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Orb",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Magic",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Magic Bullet",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Magic Bullet",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bird Lamp",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shockwave",
+    "category": [
+      "Flashlight Skins",
+      "Placeholder"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Christmas Colors (White and Green)",
     "category": [
       "Flashlight Skins"
@@ -1613,7 +1850,7 @@
   {
     "count": 1,
     "name": "Golden Barry",
-    "description": "Wait, I thought you were removed???",
+    "comment": "Wait, I thought you were removed???",
     "category": [
       "Misc. Filler Items"
     ],
