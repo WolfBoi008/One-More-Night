@@ -1,5 +1,5 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, Visibility
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, Visibility, OptionSet
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
@@ -32,8 +32,18 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class CustomPresets(OptionSet):
+    """
+    If you'd like to have Custom Presets enabled, choose the difficulties of Custom Presets that you'd like to do.
+    Valid difficulties are Easy, Intermediate, Hard, and Lunatic. Be careful since these are case sensitive!
+    Also be aware that some Custom Presets might get slight difficulty changes in the future depending on feedback!
+    """
+    valid_keys = frozenset(["Easy", "Intermediate", "Hard", "Lunatic"])
+    default = frozenset(["Easy", "Intermediate", "Hard", "Lunatic"])
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["custom_presets"] = CustomPresets
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

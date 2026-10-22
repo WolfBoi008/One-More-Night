@@ -5,6 +5,14 @@ from BaseClasses import MultiWorld
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
+    if category_name == "Custom Presets - Easy":
+        return ("Easy" in multiworld.worlds[player].options.custom_presets.value)
+    if category_name == "Custom Presets - Intermediate":
+        return ("Intermediate" in multiworld.worlds[player].options.custom_presets.value)
+    if category_name == "Custom Presets - Hard":
+        return ("Hard" in multiworld.worlds[player].options.custom_presets.value)
+    if category_name == "Custom Presets - Lunatic":
+        return ("Lunatic" in multiworld.worlds[player].options.custom_presets.value)
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
