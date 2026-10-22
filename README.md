@@ -26,6 +26,7 @@
 - Main Items
 - Starter Items
 - Minor Unlocks
+- Greedy Key (for Grid's Shop)
 - Ally in Purgatory
   - You can bring an extra player on your runs for each of these you have. Teamwork makes the dream work!
 - Traps
@@ -35,6 +36,7 @@
 - Beating Nights
 - Achievements
 - Viewing Memories
+- Buying Items at Grid's Shop
 
 ## Options
 - Starting State of Mind
@@ -44,6 +46,7 @@
 - Achievement Challenges
 - Deathsanity
 - Fishsanity
+- Buttonsanity
 - Flashlight Skins
 - Bell Logic
 - Connection
