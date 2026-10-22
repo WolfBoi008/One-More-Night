@@ -1,5 +1,8 @@
 # Archipelago Manual - One More Night
 
+## Notes
+- I have been asked about this many times, so I'll reiterate it here. **You do not have to pick exclusively from the Threats you have been given on your runs.** The Threats are logically intended to do their Checks in Sandbox Mode.
+
 ## Goals
 - Beat TitN Ending
 - Beat BiD Ending
