@@ -49,6 +49,22 @@
   },
   {
     "count": 1,
+    "name": "Fast",
+    "category": [
+      "States of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Resourceful",
+    "category": [
+      "States of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Placeholder State of Mind 1",
     "category": [
       "States of Mind",
@@ -59,24 +75,6 @@
   {
     "count": 1,
     "name": "Placeholder State of Mind 2",
-    "category": [
-      "States of Mind",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder State of Mind 3",
-    "category": [
-      "States of Mind",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder State of Mind 4",
     "category": [
       "States of Mind",
       "Placeholder"
@@ -105,7 +103,7 @@
     "category": [
       "Difficulties"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -238,6 +236,14 @@
   },
   {
     "count": 1,
+    "name": "Burnt Trap",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Cadence",
     "category": [
       "Threats"
@@ -262,6 +268,14 @@
   },
   {
     "count": 1,
+    "name": "Funsy Chicken",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "New Chicken",
     "category": [
       "Threats"
@@ -278,6 +292,14 @@
   },
   {
     "count": 1,
+    "name": "Customer",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Destroyman III",
     "category": [
       "Threats"
@@ -287,6 +309,22 @@
   {
     "count": 1,
     "name": "Dry",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Exhaustion",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Empty Suit",
     "category": [
       "Threats"
     ],
@@ -343,6 +381,14 @@
   {
     "count": 1,
     "name": "Glitch",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hand",
     "category": [
       "Threats"
     ],
@@ -495,6 +541,14 @@
   },
   {
     "count": 1,
+    "name": "Sprayed Arrows",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Strings",
     "category": [
       "Threats"
@@ -543,69 +597,6 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Office Threat 1",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Office Threat 2",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Office Threat 3",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Office Threat 4",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Camera Threat 1",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Camera Threat 2",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Placeholder Door Threat",
-    "category": [
-      "Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Heat",
     "category": [
       "Route-Specific Threats"
@@ -646,28 +637,9 @@
   },
   {
     "count": 1,
-    "name": "FS Specific Threat",
+    "name": "Music Tape",
     "category": [
-      "Route-Specific Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fran Route Specific Threat",
-    "category": [
-      "Route-Specific Threats",
-      "Placeholder"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Crowbar Route Specific Threat",
-    "category": [
-      "Route-Specific Threats",
-      "Placeholder"
+      "Route-Specific Threats"
     ],
     "progression": true
   },
@@ -705,19 +677,17 @@
   },
   {
     "count": 1,
-    "name": "Fran Route Key Item",
+    "name": "Fran's Energy",
     "category": [
-      "Key Items",
-      "Placeholder"
+      "Key Items"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Crowbar Route Key Item",
+    "name": "Crowbar",
     "category": [
-      "Key Items",
-      "Placeholder"
+      "Key Items"
     ],
     "progression": true
   },
@@ -916,10 +886,9 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Main Item",
+    "name": "Parrying Dagger",
     "category": [
-      "Main Items",
-      "Placeholder"
+      "Main Items"
     ],
     "progression": true
   },
@@ -954,22 +923,6 @@
       "Starter Items"
     ],
     "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sugary Drink",
-    "category": [
-      "Starter Items"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Coffee Cup",
-    "category": [
-      "Starter Items"
-    ],
-    "useful": true
   },
   {
     "count": 1,
@@ -1117,18 +1070,65 @@
   },
   {
     "count": 1,
-    "name": "Placeholder Starter Item",
+    "name": "Broken Glass",
     "category": [
-      "Starter Items",
-      "Placeholder"
+      "Starter Items"
     ],
     "progression": true
   },
   {
     "count": 1,
+    "name": "Sugary Drink",
+    "category": [
+      "Starter Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Coffee Cup",
+    "category": [
+      "Starter Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Stopwatch",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Turbo Mode",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Shards",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Photo Album",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Broken Deal",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1136,7 +1136,7 @@
     "count": 1,
     "name": "Tough as Nails",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1144,7 +1144,7 @@
     "count": 1,
     "name": "Glitched Card",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1152,7 +1152,7 @@
     "count": 1,
     "name": "Flower Pot",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1160,7 +1160,7 @@
     "count": 1,
     "name": "Supply and Demand",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1168,7 +1168,7 @@
     "count": 1,
     "name": "Last Robloxian Standing",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "progression": true
   },
@@ -1176,7 +1176,7 @@
     "count": 1,
     "name": "Ninja Belt",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1675,8 +1675,7 @@
     "count": 1,
     "name": "Luminous Block",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1684,8 +1683,7 @@
     "count": 1,
     "name": "Gravity Coil",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1693,8 +1691,7 @@
     "count": 1,
     "name": "Magic Orb",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1702,8 +1699,7 @@
     "count": 1,
     "name": "Ice Magic",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1711,8 +1707,7 @@
     "count": 1,
     "name": "Blue Magic Bullet",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1720,8 +1715,7 @@
     "count": 1,
     "name": "Red Magic Bullet",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1729,8 +1723,7 @@
     "count": 1,
     "name": "Bird Lamp",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },
@@ -1738,8 +1731,7 @@
     "count": 1,
     "name": "Shockwave",
     "category": [
-      "Flashlight Skins",
-      "Placeholder"
+      "Flashlight Skins"
     ],
     "filler": true
   },

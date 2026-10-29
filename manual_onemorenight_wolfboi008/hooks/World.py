@@ -113,6 +113,10 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         starting_items.append("Soaked")
     elif world.options.starting_state_of_mind.value == 5:
         starting_items.append("Puppeteered")
+    elif world.options.starting_state_of_mind.value == 6:
+        starting_items.append("Fast")
+    elif world.options.starting_state_of_mind.value == 7:
+        starting_items.append("Resourceful")
     
     if world.options.starting_difficulty.value == 0:
         starting_items.append("Casual")
@@ -157,6 +161,10 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
                 item.classification = ItemClassification.filler
             if item.name == "Realistic Gun":
                 item.classification = ItemClassification.filler
+        # Make the Hard Difficulty Item a Useful Item if OSTsanity is disabled.
+        if world.options.ostsanity.value == False:
+            if item.name == "Hard":
+                item.classification = ItemClassification.useful
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

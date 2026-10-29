@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "Choose your victory condition. You can currently choose from the following:\n- TiTN: Complete Trapped in the Nightmare, the base Night 20 with no items that alter the run or ending in any way.\n- BiD: Complete Burning it Down. This requires you to have the Gasoline and Lighter items and grab them from the Maintence room before Night 5. This will trigger a new route that works best for those who run the office.\n- Engulfed in Flames: Beat BiD on Scorched Difficulty.\n- PtWP: Complete Paint the World Purple. This requires you to obtain Jordi's Paint Brush and collect some Note Pieces from him (and the other Players, of course). This run leans more onto the Office, but still has some danger in the cameras. Balance well to succeed.\n- Bathed in Belief: Beat PtWP on Soaked Difficulty.\n- FS: Complete False Savior. This requires you to get Puppet to leave the Music Box 3 times before Night 5. This logically expects the Music Box Main Item since it makes it much easier to get her as a Threat choice. After starting this route, things will get hectic, especially for camera players. Good luck.\n- All Strung Up: Complete FS on Puppet Difficulty.\n- Collect Memory Fragments: Collect 20 Memory Fragments scattered across the Multiworld. Recommended for those playing in Syncs that don't mind an anticlimactic finish.\nNOTE: This number is subject to change; let me know if you have any suggestions for it.",
+            "description": "Choose your victory condition. You can currently choose from the following:\n- TiTN: Complete Trapped in the Nightmare, the base Night 20 with no items that alter the run or ending in any way.\n- BiD: Complete Burning it Down. This requires you to have the Gasoline and Lighter Items and grab them from the Maintence room.\n- Engulfed in Flames: Beat BiD on Scorched Difficulty.\n- PtWP: Complete Paint the World Purple. This requires you to obtain Jordi's Paint Brush and collect some Note Pieces from him (and the other Players, of course).\n- Bathed in Belief: Beat PtWP on Soaked Difficulty.\n- FS: Complete False Savior. This requires you to get Puppet to leave the Music Box 3 times before Night 5 and then obtain 3 Mask Fragments to put together the mask that appears in the office. This logically expects the Music Box Main Item since it makes it much easier to get her as a Threat choice.\n- All Strung Up: Complete FS on Puppet Difficulty.\n- FFA: Complete Forward Facing Arrow. This requires you to obtain the Fran's Energy Item and then shine your flashlight on Fran enough to make him stronger.\n- Directional Speedrunning: Complete FFA on Fast Difficulty.\n- EtN: Complete Escaping the Nightmare. This requires you to obtain the Crowbar Item and then collect it from the Storage room.\n- Shattering the Illusion: Complete EtN on Resourceful.\n- Collect Memory Fragments: Collect 20 Memory Fragments scattered across the Multiworld. Recommended for those playing in Syncs that don't mind an anticlimactic finish.\nNOTE: This number is subject to change; let me know if you have any suggestions for it.",
             "hidden": false
         },
 
@@ -86,12 +86,14 @@
                 "It'd be a mouthful to write all of the changes to the various States of Mind here, so I'll give a brief explanation of each.",
                 "The further details for each of them can be seen in the States of Mind area.",
                 "\n",
-                "Calm: Less aggression and some more choices and health. However, you have less resources, so it's easier to get overwhelmed.",
+                "Calm: Less aggression and some more choices and health. However, you have more starting Threats and Threats take longer to leave, so it's easier to get overwhelmed.",
                 "Guilty: The base Difficulty. What you normally play on if you have never beaten TiTN (Trapped in the Nightmare), so probably the most familiar to you out of all of them.",
-                "Devastated: Threats are more aggressive, but you get some extra resources to support you.",
-                "Scorched: You have a brand new Threat to deal with, Heat. However, other Threats are slightly less aggressive and you start with some spare power and an extra Temporary Life (once it is lost, it's gone for good).",
-                "Soaked: Threats are less aggressive, one of your three hearts becomes Temporary, and you only have to pick one starting Threat. However, Jordi, Divine Punishment, and all of the J-Choices are added from the moment you begin. A rough challenge mostly focusing on the office. Good luck.",
-                "Puppet: Threats are less aggressive, one of your three hearts become Temporary, nights are a little shorter, and you only have to pick two starting Threats. However, Puppet and all of her special Penalties will be active from the beginning. This is sort of like Soaked, except more focused on the cameras. Best of luck.",
+                "Devastated: Threats are more aggressive, but you get some extra resources via Shops to support you.",
+                "Scorched: You have a brand new Threat to deal with, Heat, and both the doors and laptop take more power. However, other Threats are slightly less aggressive and you start with some spare power, movement stats, and an extra Armor Life.",
+                "Soaked: One of your three hearts becomes an Armor Life, you have slightly more power, and you only have to pick two starting Threats. However, Divine Punishment is added, and you have to take an extra Penalty every night, with Penalties also being more likely to be Threat-specific.",
+                "Puppeteered: One of your three hearts become an Armor Life, you have slightly less Walk Speed (but slightly more Run Speed), and you only have to pick two starting Threats. However, you have to start with a new Threat: Music Tape, which can influence the night and everyone within it.",
+                "Fast: Office Threats are more likely to appear, choices are increased, your Stamina and ESPECIALLY your Run Speed are increased, and you can see your current movement speed during the night. However, Aggression is higher and running consumes your Stamina to increase your speed.",
+                "Resourceful: You have a LOT of base power, but you struggle to regain it as easily as you used to. Greenrunning will be the key to success.",
                 "\n",
                 "If you're wondering 'Where's Fooled'? It's a Trap. Sorry."
             ],
@@ -101,7 +103,9 @@
                 "devastated": 2,
                 "scorched": 3,
                 "soaked": 4,
-                "puppeteered": 5
+                "puppeteered": 5,
+                "fast": 6,
+                "resourceful": 7
              },
             "default": 1,
             "allow_custom_value": false
@@ -144,16 +148,16 @@
                 "Enable checks for completing harder Achievements. This includes the following Achievements:",
                 "- Empty-Handed (Beat the game itemless.)",
                 "- No time to think (Beat the game in under 35 minutes.)",
+                "- Unscathed Heart (Beat an ending without dying.)",
                 "- Bloodshed (Die 10 times in a run.)",
                 "- Hard Worker (Beat the game with no Quickly Outs and 3 Overtimes. Forces nights to be 15 seconds longer unless you happen to circumvent some of the time with The Moon Tarot Card or Pocket Watch Starter Item.)",
-                "- Burning with you (Beat the BiD Route on Scorched Difficulty.)",
-                "- Soaked with Guilt (Beat the PtWP Route on Soaked Difficulty.)",
-                "- Pulled by Strings (Beat the FS Route on Puppet Difficulty.)",
+                "- All of the 'Do X Ending on Y State of Mind' Achievements.",
                 "- Seen the Fish (Catch all types of fish and complete the Fishing Book.)",
                 "- THEY HAVE TO DO SOMETHING: Hit all 37 buttons in the Lobby. There are two in particular that are annoying to do. Speed Coil is expected for one of them, but still unsure of a consistent way to get the second one. You should probably exclude this if you turn this Option on for other Achievements you don't mind doing.",
                 "- Strongest Hammer (Hit an almost Perfect score on the Hammer arcade game. Not easy to get consistently, so it's considered a Hard Achievement.)",
                 "- Are you ready for Barry? (On Night 15 or later, let Barry get to the door, but survive the night.)",
                 "- Music of the Past (Complete the Lost Music Box Challenge. Also disables the Check for the mentioned Challenge.)",
+                "- When life gives you Cadence (On Night 15 or later, survive the night without collecting any of Cadence's instruments.)",
                 "- Feel my Flame (Complete the Feel your Flame Challenge. Also disables the Check for the mentioned Challenge.)",
                 "- Quick Thinker (Complete the Constant QTE Challenge. Also disables the Check for the mentioned Challenge.)",
                 "- Unmasked (Have Old Barry, Old Bunny, and Old Chicken active at the same time, then have your mask break but still survive the night. Considered a Hard Achievement because it can be a pain to setup without dying in the process.)",
@@ -163,7 +167,7 @@
                 "- Enabled: Requires access to Night 13 or later (to account for if the player takes a bit to find the Wheel of Fortune, if at all. Ironically requires some luck to get.)",
                 "- Disabled: Requires the Lucky Clover Starter Item and access to Night 8 or later.",
                 "Overall, it's recommended to disable this Option if you don't feel confident in your skills (and maybe luck).",
-                "(20 Checks)"
+                "(27 Checks)"
             ],
             "default": false
         },
@@ -203,8 +207,8 @@
             "type": "Toggle",
             "description": [
                 "Enable Checks for being killed by each of the game's Threats.",
-                "This includes Myself on Night 20, Scorched Myself on BiD Night 21, and False Savior on FS Night 21.",
-                "(54 Checks)"
+                "This includes Myself on Night 20, Scorched Myself on BiD Night 21, False Savior on FS Night 21, and Observer Myself on EtN Night 21.",
+                "(61 Checks)"
             ],
             "default": false
         },
@@ -215,7 +219,7 @@
             "description": [
                 "Enable Checks for clicking the buttons scattered around the Hub.",
                 "If you need help locating some of the buttons, I recommend checking the Lobby page on the Official Wiki.",
-                "(42 Checks)"
+                "(45 Checks)"
             ],
             "default": false
         },
@@ -226,7 +230,8 @@
             "description": [
                 "Enable Checks for hearing each of the songs in the game's soundtrack.",
                 "Note that you're expected to die on Night 1 so you can hear The End.",
-                "(27 Checks)"
+                "NOTE: Some of the OST tracks added in the update do not have their proper names due to their files not being shared in the Discord yet. Apologies.",
+                "(33 Checks)"
             ],
             "default": false
         },
@@ -257,10 +262,7 @@
             "type": "Choice",
             "description": [
                 "Access...?",
-                "(16 Checks)",
-                "WARNING: This is new content that was added in Rearranged Void. As such, it will be a spoiler.",
-                "Turn this Option off if you have not yet found this for yourself.",
-                "This warning will be removed after this update has been out for a while."
+                "(16 Checks)"
             ],
             "values": {
                 "granted": 0,

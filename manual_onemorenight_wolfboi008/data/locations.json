@@ -128,6 +128,14 @@
     "requires": "|Old Bunny|"
   },
   {
+    "name": "Beat a Night with Burnt Trap Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Burnt Trap|"
+  },
+  {
     "name": "Beat a Night with Cadence Active",
     "region": "Sandbox Mode",
     "category": [
@@ -152,6 +160,14 @@
     "requires": "|Chicken|"
   },
   {
+    "name": "Beat a Night with Funsy Chicken Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Funsy Chicken|"
+  },
+  {
     "name": "Beat a Night with New Chicken Active",
     "region": "Sandbox Mode",
     "category": [
@@ -168,6 +184,14 @@
     "requires": "|Old Chicken|"
   },
   {
+    "name": "Beat a Night with Customer Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Customer|"
+  },
+  {
     "name": "Beat a Night with Destroyman III Active",
     "region": "Sandbox Mode",
     "category": [
@@ -182,6 +206,22 @@
       "Enemy-Specific"
     ],
     "requires": "|Dry| OR |Dry's Calculator|"
+  },
+  {
+    "name": "Beat a Night with Exhaustion Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Exhaustion|"
+  },
+  {
+    "name": "Beat a Night with Empty Suit Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Empty Suit|"
   },
   {
     "name": "Beat a Night with Figure Active",
@@ -240,6 +280,14 @@
     "requires": "|Glitch|"
   },
   {
+    "name": "Beat a Night with Hand Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Hand|"
+  },
+  {
     "name": "Beat a Night with Hesitation Active",
     "region": "Sandbox Mode",
     "category": [
@@ -277,7 +325,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
   },
   {
     "name": "Beat a Night with Kono Active",
@@ -349,7 +397,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
+    "requires": "|Puppet| OR |Handheld Music Box|"
   },
   {
     "name": "Beat a Night with Raptor Active",
@@ -382,6 +430,14 @@
       "Enemy-Specific"
     ],
     "requires": "|Screech|"
+  },
+  {
+    "name": "Beat a Night with Sprayed Arrows Active",
+    "region": "Sandbox Mode",
+    "category": [
+      "Enemy-Specific"
+    ],
+    "requires": "|Sprayed Arrows|"
   },
   {
     "name": "Beat a Night with Strings Active",
@@ -432,69 +488,6 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Beat a Night with Placeholder Office Threat 1 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 1|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Office Threat 2 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 2|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Office Threat 3 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 3|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Office Threat 4 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 4|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Camera Threat 1 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 1|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Camera Threat 2 Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 2|"
-  },
-  {
-    "name": "Beat a Night with Placeholder Door Threat Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Door Threat|"
-  },
-  {
     "name": "Beat a Night with Heat Active",
     "region": "Sandbox Mode",
     "category": [
@@ -516,7 +509,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+    "requires": "|Golden Gun| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "Beat a Night with Stratosfear Active",
@@ -524,7 +517,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+    "requires": "|Stratosfear| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "Beat a Night with White Active",
@@ -532,34 +525,15 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+    "requires": "|White| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
-    "name": "Beat a Night with FS Specific Threat Active",
+    "name": "Beat a Night with Music Tape Active",
     "region": "Sandbox Mode",
     "category": [
-      "Enemy-Specific",
-      "Placeholder"
+      "Enemy-Specific"
     ],
-    "requires": "|FS Specific Threat|"
-  },
-  {
-    "name": "Beat a Night with Fran Route Specific Threat Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Fran Route Specific Threat|"
-  },
-  {
-    "name": "Beat a Night with Crowbar Route Specific Threat Active",
-    "region": "Sandbox Mode",
-    "category": [
-      "Enemy-Specific",
-      "Placeholder"
-    ],
-    "requires": "|Crowbar Route Specific Threat|"
+    "requires": "|Music Tape|"
   },
   {
     "name": "View Heat Memory",
@@ -568,6 +542,14 @@
       "Memories"
     ],
     "requires": "|Scorched| OR |Heat|"
+  },
+  {
+    "name": "View Music Tape Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Puppeteered| OR |Music Tape|"
   },
   {
     "name": "View Balloon Boy Memory",
@@ -698,6 +680,14 @@
     "requires": "|Old Bunny|"
   },
   {
+    "name": "View Burnt Trap Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Burnt Trap|"
+  },
+  {
     "name": "View Cadence Memory",
     "region": "Lobby",
     "category": [
@@ -722,6 +712,14 @@
     "requires": "|Chicken|"
   },
   {
+    "name": "View Funsy Chicken Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Funsy Chicken|"
+  },
+  {
     "name": "View New Chicken Memory",
     "region": "Lobby",
     "category": [
@@ -738,6 +736,14 @@
     "requires": "|Old Chicken|"
   },
   {
+    "name": "View Customer Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Customer|"
+  },
+  {
     "name": "View Destroyman III Memory",
     "region": "Lobby",
     "category": [
@@ -752,6 +758,22 @@
       "Memories"
     ],
     "requires": "|Dry| OR |Dry's Calculator|"
+  },
+  {
+    "name": "View Exhaustion Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Exhaustion|"
+  },
+  {
+    "name": "View Empty Suit Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Empty Suit|"
   },
   {
     "name": "View Figure Memory",
@@ -810,6 +832,14 @@
     "requires": "|Glitch|"
   },
   {
+    "name": "View Hand Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Hand|"
+  },
+  {
     "name": "View Hesitation Memory",
     "region": "Lobby",
     "category": [
@@ -847,7 +877,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
   },
   {
     "name": "View Kono Memory",
@@ -919,7 +949,7 @@
     "category": [
       "Memories"
     ],
-    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
+    "requires": "|Puppet| OR |Handheld Music Box|"
   },
   {
     "name": "View Raptor Memory",
@@ -952,6 +982,14 @@
       "Memories"
     ],
     "requires": "|Screech|"
+  },
+  {
+    "name": "View Sprayed Arrows Memory",
+    "region": "Lobby",
+    "category": [
+      "Memories"
+    ],
+    "requires": "|Sprayed Arrows|"
   },
   {
     "name": "View Strings Memory",
@@ -1000,69 +1038,6 @@
       "Memories"
     ],
     "requires": "|ZGuesto|"
-  },
-  {
-    "name": "View Placeholder Office Threat 1 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 1|"
-  },
-  {
-    "name": "View Placeholder Office Threat 2 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 2|"
-  },
-  {
-    "name": "View Placeholder Office Threat 3 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 3|"
-  },
-  {
-    "name": "View Placeholder Office Threat 4 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 4|"
-  },
-  {
-    "name": "View Placeholder Camera Threat 1 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 1|"
-  },
-  {
-    "name": "View Placeholder Camera Threat 2 Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 2|"
-  },
-  {
-    "name": "View Placeholder Door Threat Memory",
-    "region": "Lobby",
-    "category": [
-      "Memories",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Door Threat|"
   },
   {
     "name": "'Complete' the Tutorial",
@@ -1257,22 +1232,20 @@
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
-    "name": "Placeholder Ending 1",
+    "name": "FFA Ending",
     "region": "Roguelike Mode",
     "category": [
-      "Nights",
-      "Placeholder"
+      "Nights"
     ],
-    "requires": "|Progressive Night:20| AND |Fran Route Key Item|"
+    "requires": "|Progressive Night:20| AND |Fran's Energy|"
   },
   {
-    "name": "Placeholder Ending 2",
+    "name": "EtN Ending",
     "region": "Roguelike Mode",
     "category": [
-      "Nights",
-      "Placeholder"
+      "Nights"
     ],
-    "requires": "|Progressive Night:20| AND |Crowbar Route Key Item|"
+    "requires": "|Progressive Night:20| AND |Crowbar|"
   },
   {
     "name": "[TitN] Trapped in the Nightmare",
@@ -1334,6 +1307,42 @@
     "victory": true
   },
   {
+    "name": "[FFA] Forward Facing Arrow",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran's Energy|",
+    "victory": true
+  },
+  {
+    "name": "Directional Speedrunning",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Fast| AND |Progressive Night:20| AND |Fran's Energy|",
+    "victory": true
+  },
+  {
+    "name": "[EtN] Escaping the Nightmare...?",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran's Energy|",
+    "victory": true
+  },
+  {
+    "name": "Shattering the Illusion",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Resourceful| AND |Progressive Night:20| AND |Fran's Energy|",
+    "victory": true
+  },
+  {
     "name": "Collect Memory Fragments",
     "category": [
       "Goal"
@@ -1360,7 +1369,16 @@
     "requires": "|Progressive Night:19| OR (|Progressive Night:20| AND |Gasoline| AND |Lighter|)"
   },
   {
-    "name": "That's my blood",
+    "name": "Unscathed Heart",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:19|"
+  },
+  {
+    "name": "Broken Body",
     "region": "Roguelike Mode",
     "category": [
       "Achievements"
@@ -1368,7 +1386,7 @@
     "requires": "(|Calm| AND ((|Four-Leaf Clover| AND |Progressive Night:12|) OR |My Heart Locket|)) OR ((|Guilty| OR |Devastated| OR |Scorched|) AND (|Four-Leaf Clover| OR |My Heart Locket|) AND |Progressive Night:9|)"
   },
   {
-    "name": "Bloodshed",
+    "name": "Broken Soul",
     "region": "Roguelike Mode",
     "category": [
       "Achievements",
@@ -1453,6 +1471,24 @@
     "requires": "|Puppeteered| AND |Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
+    "name": "Faster than light",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Fast| AND |Progressive Night:20| AND |Fran's Energy|"
+  },
+  {
+    "name": "Careful Management",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Resourceful| AND |Progressive Night:20| AND |Crowbar|"
+  },
+  {
     "name": "Placeholder Ending + State of Mind Achievement 1",
     "region": "Roguelike Mode",
     "category": [
@@ -1460,7 +1496,7 @@
       "Hard Achievements",
       "Placeholder"
     ],
-    "requires": "|Placeholder State of Mind 1| AND |Progressive Night:20|"
+    "requires": "|Placeholder State of Mind 1| AND |Progressive Night:20| AND |Fran's Energy|"
   },
   {
     "name": "Placeholder Ending + State of Mind Achievement 2",
@@ -1470,27 +1506,7 @@
       "Hard Achievements",
       "Placeholder"
     ],
-    "requires": "|Placeholder State of Mind 2| AND |Progressive Night:20|"
-  },
-  {
-    "name": "Placeholder Ending + State of Mind Achievement 3",
-    "region": "Roguelike Mode",
-    "category": [
-      "Achievements",
-      "Hard Achievements",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder State of Mind 1| AND |Progressive Night:20| AND |Fran Route Key Item|"
-  },
-  {
-    "name": "Placeholder Ending + State of Mind Achievement 4",
-    "region": "Roguelike Mode",
-    "category": [
-      "Achievements",
-      "Hard Achievements",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder State of Mind 2| AND |Progressive Night:20| AND |Crowbar Route Key Item|"
+    "requires": "|Placeholder State of Mind 2| AND |Progressive Night:20| AND |Crowbar|"
   },
   {
     "name": "I called for help.",
@@ -1602,7 +1618,15 @@
     "category": [
       "Achievements"
     ],
-    "requires": []
+    "requires": "|Greedy Key|"
+  },
+  {
+    "name": "Greedy Generosity",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Greedy Key|"
   },
   {
     "name": "Brings back Memories",
@@ -1656,7 +1680,7 @@
       "Achievements",
       "Memories"
     ],
-    "requires": "|@Threats:ALL| AND |Heat|"
+    "requires": "|@Threats:ALL| AND |Heat| AND |Music Tape|"
   },
   {
     "name": "The Nightmare Begins",
@@ -1770,6 +1794,15 @@
     "requires": "|Destroyman III| AND |Kono| AND |Mango| AND |Puppet| AND |Rush|"
   },
   {
+    "name": "When life gives you Cadence",
+    "region": "Roguelike Mode",
+    "category": [
+      "Achievements",
+      "Hard Achievements"
+    ],
+    "requires": "|Progressive Night:14|"
+  },
+  {
     "name": "Feel my Flame",
     "region": "Sandbox Mode",
     "category": [
@@ -1820,7 +1853,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|My own Shadow| AND |Progressive Night:7|) OR (|Calm| AND |Progressive Night:15|) OR ((|Guilty| OR |Devastated| OR |Scorched| OR |Soaked| OR |Puppeteered|) AND |Progressive Night:11|)"
+    "requires": "(|My own Shadow| AND |Progressive Night:7|) OR (|Calm| AND |Progressive Night:15|) OR ((|Guilty| OR |Devastated| OR |Scorched| OR |Soaked| OR |Puppeteered| OR |Fast| OR |Resourceful|) AND |Progressive Night:11|)"
   },
   {
     "name": "Empty Victory",
@@ -2571,6 +2604,14 @@
     "requires": "|Old Bunny|"
   },
   {
+    "name": "Burnt Trap Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Burnt Trap|"
+  },
+  {
     "name": "Chains Death",
     "region": "Sandbox Mode",
     "category": [
@@ -2585,6 +2626,14 @@
       "Deathsanity"
     ],
     "requires": "|Chicken|"
+  },
+  {
+    "name": "Funsy Chicken Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Funsy Chicken|"
   },
   {
     "name": "New Chicken Death",
@@ -2603,12 +2652,36 @@
     "requires": "|Old Chicken|"
   },
   {
+    "name": "Customer Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Customer|"
+  },
+  {
     "name": "Dry Death",
     "region": "Sandbox Mode",
     "category": [
       "Deathsanity"
     ],
     "requires": "|Dry| OR |Dry's Calculator|"
+  },
+  {
+    "name": "Exhaustion Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Exhaustion|"
+  },
+  {
+    "name": "Empty Suit Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Empty Suit|"
   },
   {
     "name": "Figure Death",
@@ -2667,6 +2740,14 @@
     "requires": "|Glitch|"
   },
   {
+    "name": "Hand Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Hand|"
+  },
+  {
     "name": "Hesitation Death",
     "region": "Sandbox Mode",
     "category": [
@@ -2704,7 +2785,7 @@
     "category": [
       "Deathsanity"
     ],
-    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush| OR |Soaked|"
+    "requires": "|Jordi 'Jumpscare'| OR |Jordi's Paint Brush|"
   },
   {
     "name": "Kono Death",
@@ -2760,7 +2841,7 @@
     "category": [
       "Deathsanity"
     ],
-    "requires": "|Puppet| OR |Handheld Music Box| OR |Puppeteered|"
+    "requires": "|Puppet| OR |Handheld Music Box|"
   },
   {
     "name": "Raptor Death",
@@ -2793,6 +2874,14 @@
       "Deathsanity"
     ],
     "requires": "|Screech|"
+  },
+  {
+    "name": "Sprayed Arrows Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Sprayed Arrows|"
   },
   {
     "name": "Strings Death",
@@ -2843,69 +2932,6 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Placeholder Office Threat 1 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 1|"
-  },
-  {
-    "name": "Placeholder Office Threat 2 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 2|"
-  },
-  {
-    "name": "Placeholder Office Threat 3 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 3|"
-  },
-  {
-    "name": "Placeholder Office Threat 4 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Office Threat 4|"
-  },
-  {
-    "name": "Placeholder Camera Threat 1 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 1|"
-  },
-  {
-    "name": "Placeholder Camera Threat 2 Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Camera Threat 2|"
-  },
-  {
-    "name": "Placeholder Door Threat Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Placeholder Door Threat|"
-  },
-  {
     "name": "Heat Death",
     "region": "Sandbox Mode",
     "category": [
@@ -2919,7 +2945,7 @@
     "category": [
       "Deathsanity"
     ],
-    "requires": "|Golden Gun| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+    "requires": "|Golden Gun| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "Stratosfear Death",
@@ -2927,7 +2953,7 @@
     "category": [
       "Deathsanity"
     ],
-    "requires": "|Stratosfear| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
+    "requires": "|Stratosfear| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "White Jumpscare",
@@ -2936,34 +2962,7 @@
     "category": [
       "Deathsanity"
     ],
-    "requires": "|White| OR |Soaked| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
-  },
-  {
-    "name": "FS Specific Threat Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|FS Specific Threat|"
-  },
-  {
-    "name": "Fran Route Specific Threat Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Fran Route Specific Threat|"
-  },
-  {
-    "name": "Crowbar Route Specific Threat Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity",
-      "Placeholder"
-    ],
-    "requires": "|Crowbar Route Specific Threat|"
+    "requires": "|White| OR (|Jordi's Paint Brush| AND |Progressive Night:17| AND |Note Piece:4|)"
   },
   {
     "name": "Myself Death",
@@ -2988,6 +2987,14 @@
       "Deathsanity"
     ],
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
+  },
+  {
+    "name": "Observer Myself Death",
+    "region": "Sandbox Mode",
+    "category": [
+      "Deathsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Crowbar|"
   },
   {
     "name": "Establish Connection",
@@ -3152,6 +3159,14 @@
     ],
     "requires": [],
     "prehint": true
+  },
+  {
+    "name": "Entrance Rail Track Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar|"
   },
   {
     "name": "Entrance Left Pillar Button",
@@ -3466,6 +3481,22 @@
     "requires": "|Button Radar|"
   },
   {
+    "name": "Outside Near Connection Button 1",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar| AND |Speed Coil|"
+  },
+  {
+    "name": "Outside Near Connection Button 2",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar| AND |Speed Coil|"
+  },
+  {
     "name": "Outside Back of Donation Machine Button",
     "region": "Lobby",
     "category": [
@@ -3491,6 +3522,14 @@
   },
   {
     "name": "I Don't Know",
+    "region": "Lobby",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "[arcade]",
     "region": "Lobby",
     "category": [
       "OSTsanity"
@@ -3594,7 +3633,7 @@
     "requires": "|Progressive Night:16|"
   },
   {
-    "name": "Soul Bound",
+    "name": "Nothing But Myself",
     "region": "Roguelike Mode",
     "category": [
       "OSTsanity"
@@ -3623,7 +3662,7 @@
     "category": [
       "OSTsanity"
     ],
-    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter|"
+    "requires": "(|Progressive Night:20| AND |Gasoline| AND |Lighter|) OR (|Progressive Night:20| AND |Crowbar|)"
   },
   {
     "name": "Prelude",
@@ -3666,6 +3705,38 @@
     "requires": "|Progressive Night:20| AND |Handheld Music Box| AND |Mask Fragment:3|"
   },
   {
+    "name": "Eager to die",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+  },
+  {
+    "name": "Forward Facing Arrow",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+  },
+  {
+    "name": "Resolve",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+  },
+  {
+    "name": "Grotto of Redemption",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Progressive Night:20| AND |Crowbar|"
+  },
+  {
     "name": "Panic",
     "region": "Sandbox Mode",
     "category": [
@@ -3699,6 +3770,14 @@
       "OSTsanity"
     ],
     "requires": "|Progressive Night:14| AND |Last Robloxian Standing|"
+  },
+  {
+    "name": "At Emotion's Peak",
+    "region": "Roguelike Mode",
+    "category": [
+      "OSTsanity"
+    ],
+    "requires": "|Hard| AND |Progressive Night:14| AND |Last Robloxian Standing|"
   },
   {
     "name": "Unknown",
