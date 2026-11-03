@@ -49,6 +49,40 @@
   },
   {
     "count": 1,
+    "name": "Fast",
+    "category": [
+      "States of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Resourceful",
+    "category": [
+      "States of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder State of Mind 1",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Placeholder State of Mind 2",
+    "category": [
+      "States of Mind",
+      "Placeholder"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Casual",
     "category": [
       "Difficulties"
@@ -69,7 +103,7 @@
     "category": [
       "Difficulties"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -154,7 +188,7 @@
   {
     "count": 1,
     "name": "Bomb",
-    "description": "Insert pipe bomb in your mailbox joke here",
+    "comment": "Insert pipe bomb in your mailbox joke here",
     "category": [
       "Threats"
     ],
@@ -202,6 +236,14 @@
   },
   {
     "count": 1,
+    "name": "Burnt Trap",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Cadence",
     "category": [
       "Threats"
@@ -226,6 +268,14 @@
   },
   {
     "count": 1,
+    "name": "Funsy Chicken",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "New Chicken",
     "category": [
       "Threats"
@@ -242,6 +292,14 @@
   },
   {
     "count": 1,
+    "name": "Customer",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Destroyman III",
     "category": [
       "Threats"
@@ -251,6 +309,22 @@
   {
     "count": 1,
     "name": "Dry",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Exhaustion",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Empty Suit",
     "category": [
       "Threats"
     ],
@@ -298,7 +372,23 @@
   },
   {
     "count": 1,
+    "name": "Gisela",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Glitch",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hand",
     "category": [
       "Threats"
     ],
@@ -339,6 +429,7 @@
   {
     "count": 1,
     "name": "Jordi 'Jumpscare'",
+    "comment": "So, we're retconning BiD.",
     "category": [
       "Threats"
     ],
@@ -450,6 +541,14 @@
   },
   {
     "count": 1,
+    "name": "Sprayed Arrows",
+    "category": [
+      "Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Strings",
     "category": [
       "Threats"
@@ -498,14 +597,6 @@
   },
   {
     "count": 1,
-    "name": "Zuffy",
-    "category": [
-      "Threats"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Heat",
     "category": [
       "Route-Specific Threats"
@@ -546,6 +637,14 @@
   },
   {
     "count": 1,
+    "name": "Music Tape",
+    "category": [
+      "Route-Specific Threats"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Gasoline",
     "category": [
       "Key Items"
@@ -571,6 +670,22 @@
   {
     "count": 3,
     "name": "Mask Fragment",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fran's Energy",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar",
     "category": [
       "Key Items"
     ],
@@ -731,7 +846,7 @@
   {
     "count": 1,
     "name": "Pocket Bell (Item)",
-    "description": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
+    "comment": "Literally is only a Progression item because of the I'm Prepared Achievement. It would be Filler if not for that.",
     "category": [
       "Main Items"
     ],
@@ -771,6 +886,14 @@
   },
   {
     "count": 1,
+    "name": "Parrying Dagger",
+    "category": [
+      "Main Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Realistic Gun",
     "category": [
       "Main Items"
@@ -800,22 +923,6 @@
       "Starter Items"
     ],
     "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sugary Drink",
-    "category": [
-      "Starter Items"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Coffee Cup",
-    "category": [
-      "Starter Items"
-    ],
-    "useful": true
   },
   {
     "count": 1,
@@ -963,9 +1070,65 @@
   },
   {
     "count": 1,
+    "name": "Broken Glass",
+    "category": [
+      "Starter Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sugary Drink",
+    "category": [
+      "Starter Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Coffee Cup",
+    "category": [
+      "Starter Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Stopwatch",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Turbo Mode",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Shards",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Photo Album",
+    "category": [
+      "Run & Minor Unlocks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Broken Deal",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -973,7 +1136,7 @@
     "count": 1,
     "name": "Tough as Nails",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -981,7 +1144,7 @@
     "count": 1,
     "name": "Glitched Card",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -989,7 +1152,7 @@
     "count": 1,
     "name": "Flower Pot",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -997,7 +1160,7 @@
     "count": 1,
     "name": "Supply and Demand",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1005,7 +1168,7 @@
     "count": 1,
     "name": "Last Robloxian Standing",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "progression": true
   },
@@ -1013,7 +1176,7 @@
     "count": 1,
     "name": "Ninja Belt",
     "category": [
-      "Minor Unlocks"
+      "Run & Minor Unlocks"
     ],
     "useful": true
   },
@@ -1030,7 +1193,8 @@
     "count": 1,
     "name": "Fishing Rod",
     "category": [
-      "Key Items"
+      "Key Items",
+      "Fishsanity Items"
     ],
     "progression": true
   },
@@ -1054,6 +1218,7 @@
     "count": 1,
     "name": "Button Radar",
     "category": [
+      "Key Items",
       "Buttonsanity"
     ],
     "progression": true
@@ -1508,6 +1673,70 @@
   },
   {
     "count": 1,
+    "name": "Luminous Block",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Coil",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Orb",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Magic",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Magic Bullet",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Magic Bullet",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bird Lamp",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shockwave",
+    "category": [
+      "Flashlight Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Christmas Colors (White and Green)",
     "category": [
       "Flashlight Skins"
@@ -1613,7 +1842,7 @@
   {
     "count": 1,
     "name": "Golden Barry",
-    "description": "Wait, I thought you were removed???",
+    "comment": "Wait, I thought you were removed???",
     "category": [
       "Misc. Filler Items"
     ],

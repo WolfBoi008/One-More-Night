@@ -19,6 +19,10 @@
     "Fishsanity": {
         "yaml_option": ["fishsanity"]
     },
+    "Fishsanity Items": {
+        "yaml_option": ["fishsanity_items"],
+        "hidden": true
+    },
     "Fishsanity Achievements": {
         "yaml_option": ["fishsanity_achievements"],
         "hidden": true
@@ -46,6 +50,9 @@
     },
     "Buttonsanity": {
         "yaml_option": ["buttonsanity"]
+    },
+    "OSTsanity": {
+        "yaml_option": ["ostsanity"]
     }
     
 }
