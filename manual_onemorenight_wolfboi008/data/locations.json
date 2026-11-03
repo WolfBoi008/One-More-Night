@@ -1237,7 +1237,7 @@
     "category": [
       "Nights"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+    "requires": "|Progressive Night:20| AND |Fran| AND |Fran's Energy|"
   },
   {
     "name": "EtN Ending",
@@ -1312,7 +1312,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|",
+    "requires": "|Progressive Night:20| AND |Fran| AND |Fran's Energy|",
     "victory": true
   },
   {
@@ -1321,7 +1321,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Fast| AND |Progressive Night:20| AND |Fran's Energy|",
+    "requires": "|Fast| AND |Progressive Night:20| AND |Fran| AND |Fran's Energy|",
     "victory": true
   },
   {
@@ -1330,7 +1330,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|",
+    "requires": "|Progressive Night:20| AND |Crowbar|",
     "victory": true
   },
   {
@@ -1339,7 +1339,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Resourceful| AND |Progressive Night:20| AND |Fran's Energy|",
+    "requires": "|Resourceful| AND |Progressive Night:20| AND |Crowbar|",
     "victory": true
   },
   {
@@ -1477,7 +1477,7 @@
       "Achievements",
       "Hard Achievements"
     ],
-    "requires": "|Fast| AND |Progressive Night:20| AND |Fran's Energy|"
+    "requires": "|Fast| AND |Progressive Night:20| AND |Fran| AND |Fran's Energy|"
   },
   {
     "name": "Careful Management",
@@ -3710,7 +3710,7 @@
     "category": [
       "OSTsanity"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+    "requires": "|Progressive Night:20| AND |Fran| AND |Fran's Energy|"
   },
   {
     "name": "Forward Facing Arrow",
@@ -3718,7 +3718,7 @@
     "category": [
       "OSTsanity"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+    "requires": "|Progressive Night:20| AND |Fran| AND |Fran's Energy|"
   },
   {
     "name": "Resolve",
@@ -3726,7 +3726,7 @@
     "category": [
       "OSTsanity"
     ],
-    "requires": "|Progressive Night:20| AND |Fran's Energy|"
+    "requires": "|Progressive Night:20| AND |Fran| AND |Fran's Energy|"
   },
   {
     "name": "Grotto of Redemption",
