@@ -208,7 +208,7 @@
             "description": [
                 "Enable Checks for being killed by each of the game's Threats.",
                 "This includes Myself on Night 20, Scorched Myself on BiD Night 21, False Savior on FS Night 21, and Observer Myself on EtN Night 21.",
-                "(61 Checks)"
+                "(60 Checks)"
             ],
             "default": false
         },
