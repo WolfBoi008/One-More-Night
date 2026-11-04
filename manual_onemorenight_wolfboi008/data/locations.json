@@ -2932,14 +2932,6 @@
     "requires": "|ZGuesto|"
   },
   {
-    "name": "Heat Death",
-    "region": "Sandbox Mode",
-    "category": [
-      "Deathsanity"
-    ],
-    "requires": "|Scorched| OR |Heat|"
-  },
-  {
     "name": "Golden Gun Death",
     "region": "Sandbox Mode",
     "category": [
@@ -3353,7 +3345,23 @@
     "requires": "|Button Radar|"
   },
   {
+    "name": "Arcade Corner of Tug of War Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar|"
+  },
+  {
     "name": "Gallery Above Exit Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar|"
+  },
+  {
+    "name": "Gallery Bottom Left of First Wall Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
@@ -3425,6 +3433,14 @@
     "requires": "|Button Radar|"
   },
   {
+    "name": "El Bar Back of Jordi's Computer Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar|"
+  },
+  {
     "name": "Outside Top of Lamp Post Button",
     "region": "Lobby",
     "category": [
@@ -3450,6 +3466,14 @@
   },
   {
     "name": "Outside Behind Nullscape Statue Button",
+    "region": "Lobby",
+    "category": [
+      "Buttonsanity"
+    ],
+    "requires": "|Button Radar|"
+  },
+  {
+    "name": "Outside Railing Near Dav's Statue Button",
     "region": "Lobby",
     "category": [
       "Buttonsanity"
