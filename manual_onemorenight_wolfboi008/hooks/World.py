@@ -54,6 +54,8 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
         world.options.fragments.value = False
     if world.options.solo_mode.value == True:
         world.options.coop.value = False
+    if world.options.one_nighter.value == False:
+        world.options.one_nighter_items.value = False
     if world.options.fishsanity.value == 0:
         world.options.fishsanity_items.value = False
         world.options.fishsanity_achievements.value = False
@@ -65,6 +67,8 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
         world.options.rare_fish.value = False
     if world.options.fishsanity.value == 2:
         world.options.rare_fish.value = False
+    if world.options.buttonsanity.value == False:
+        world.options.buttonsanity_items.value = False
     if world.options.connection_status.value == 1:
         world.options.connection.value = False
     pass

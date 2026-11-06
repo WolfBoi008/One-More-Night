@@ -202,6 +202,28 @@
             "allow_custom_value": false
         },
 
+        "endless_nights": {
+            "display_name": "Endless Nights",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for surviving sets of Nights past 20/21.",
+                "These are organized by sets of Nights, with each set for each Achievement past beating Night 20.",
+                "(8 Checks)"
+            ],
+            "default": false
+        },
+
+        "one_nighter": {
+            "display_name": "One Nighter",
+            "type": "Toggle",
+            "description": [
+                "Enable Checks for surviving a length of time within One Nighter.",
+                "These are currently for every minute, up to 5 minutes. This amount is subject to change depending on player feedback.",
+                "(5 Checks)"
+            ],
+            "default": true
+        },
+
         "deathsanity": {
             "display_name": "Deathsanity",
             "type": "Toggle",

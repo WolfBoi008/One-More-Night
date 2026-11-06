@@ -1351,6 +1351,110 @@
     "victory": true
   },
   {
+    "name": "Nights 22 - 30",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:1|"
+  },
+  {
+    "name": "Nights 31 - 40",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:2|"
+  },
+  {
+    "name": "Nights 41 - 50",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:3|"
+  },
+  {
+    "name": "Nights 51 - 60",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:4|"
+  },
+  {
+    "name": "Nights 61 - 70",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:5|"
+  },
+  {
+    "name": "Nights 71 - 80",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:6|"
+  },
+  {
+    "name": "Nights 81 - 90",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:7|"
+  },
+  {
+    "name": "Nights 91 - 99",
+    "region": "Roguelike Mode",
+    "category": [
+      "Endless Nights"
+    ],
+    "requires": "|Progressive Night:20| AND |Progressive Endless Shift:8|"
+  },
+  {
+    "name": "Survive 1 Minute in One Nighter",
+    "region": "Sandbox Mode",
+    "category": [
+      "One Nighter"
+    ],
+    "requires": "|Shattered Clock|"
+  },
+  {
+    "name": "Survive 2 Minutes in One Nighter",
+    "region": "Sandbox Mode",
+    "category": [
+      "One Nighter"
+    ],
+    "requires": "|Shattered Clock|"
+  },
+  {
+    "name": "Survive 3 Minutes in One Nighter",
+    "region": "Sandbox Mode",
+    "category": [
+      "One Nighter"
+    ],
+    "requires": "|Shattered Clock|"
+  },
+  {
+    "name": "Survive 4 Minutes in One Nighter",
+    "region": "Sandbox Mode",
+    "category": [
+      "One Nighter"
+    ],
+    "requires": "|Shattered Clock|"
+  },
+  {
+    "name": "Survive 5 Minutes in One Nighter",
+    "region": "Sandbox Mode",
+    "category": [
+      "One Nighter"
+    ],
+    "requires": "|Shattered Clock|"
+  },
+  {
     "name": "Empty-Handed",
     "region": "Roguelike Mode",
     "category": [
@@ -1531,6 +1635,14 @@
       "Achievements"
     ],
     "requires": "(|Calm| AND |Four-Leaf Clover| AND |Progressive Night:12|) OR (|Four-Leaf Clover| AND |Progressive Night:7|) OR ({YamlEnabled(hardachievements)} AND |Progressive Night:12|)"
+  },
+  {
+    "name": "Egg",
+    "region": "Lobby",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
   },
   {
     "name": "Beginner Fisher",

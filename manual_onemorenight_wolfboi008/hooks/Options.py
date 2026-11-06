@@ -58,11 +58,13 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     options.type_hints["placeholder"].visibility = Visibility.none
     options.type_hints["fragments"].visibility = Visibility.none
     options.type_hints["coop"].visibility = Visibility.none
+    options.type_hints["one_nighter_items"].visibility = Visibility.none
     options.type_hints["fishsanity_items"].visibility = Visibility.none
     options.type_hints["fishsanity_achievements"].visibility = Visibility.none
     options.type_hints["colored_fish"].visibility = Visibility.none
     options.type_hints["character_fish"].visibility = Visibility.none
     options.type_hints["rare_fish"].visibility = Visibility.none
+    options.type_hints["buttonsanity_items"].visibility = Visibility.none
     options.type_hints["connection"].visibility = Visibility.none
     pass
 

@@ -16,6 +16,16 @@
     "Hard Achievements": {
         "yaml_option": ["hard_achievements"]
     },
+    "Endless Nights": {
+        "yaml_option": ["endless_nights"]
+    },
+    "One Nighter": {
+        "yaml_option": ["one_nighter"]
+    },
+    "One Nighter Items": {
+        "yaml_option": ["one_nighter_items"],
+        "hidden": true
+    },
     "Fishsanity": {
         "yaml_option": ["fishsanity"]
     },
@@ -50,6 +60,10 @@
     },
     "Buttonsanity": {
         "yaml_option": ["buttonsanity"]
+    },
+    "Buttonsanity Items": {
+        "yaml_option": ["buttonsanity_items"],
+        "hidden": true
     },
     "OSTsanity": {
         "yaml_option": ["ostsanity"]

@@ -700,6 +700,14 @@
     "progression": true
   },
   {
+    "count": 8,
+    "name": "Progressive Endless Shift",
+    "category": [
+      "Endless Nights"
+    ],
+    "progression": true
+  },
+  {
     "count": "0",
     "name": "Force Doors for 10 Seconds",
     "category": [
@@ -1219,7 +1227,16 @@
     "name": "Button Radar",
     "category": [
       "Key Items",
-      "Buttonsanity"
+      "Buttonsanity Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shattered Clock",
+    "category": [
+      "Key Items",
+      "One Nighter Items"
     ],
     "progression": true
   },
