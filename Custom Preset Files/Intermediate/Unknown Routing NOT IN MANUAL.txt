@@ -1,0 +1,3 @@
+Preset String: Name=Unknown Route,P_SolDis=1,C_Pwr=65,T_Bad=55,C_MvR=24,C_Sng=132685032816831,T_Cha=25,I_Dum=3,C_Agr=2.48,C_Lap=0.7,C_Dor=0.9,T_VenErr=30,P_BomSub=1,T_Bal=5,P_BalICBM=1,C_MvS=5,C_MvW=12,P_ClaDooOve=1,C_NDur=75,C_AIMax=300,C_PGen=0.1,T_BarFun=100,T_Scr=10,P_EquDis=1,T_JorGolGun=20,T_Jor=30,P_BadChaSig=1,P_ChaSlo=1,C_Msk=1,P_JorRep=2,T_Bom=20,T_Fra=125,P_FraRep=3,
+
+Music ID: N/A

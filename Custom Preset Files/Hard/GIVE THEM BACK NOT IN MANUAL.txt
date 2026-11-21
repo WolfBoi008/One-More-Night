@@ -1,0 +1,3 @@
+Preset String: Name=GIVE THEM BACK,T_Jor=300,P_GenHidInf=1,C_AIMax=300,T_JorWhi=300,T_JorStr=300,C_PGen=0,C_Pwr=270,T_JorGolGun=300,P_JorSha=1,C_NDur=180,P_ClaDooOve=1,P_EquDis=1,P_JorRep=2,T_JorDivPun=300,P_JorLonTim=5,P_DooSwa=1,
+
+Music ID: N/A

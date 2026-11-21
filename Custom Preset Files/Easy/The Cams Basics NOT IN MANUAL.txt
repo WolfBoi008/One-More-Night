@@ -1,0 +1,3 @@
+Preset String: Name=The Cams Basics,T_Isr=80,C_MvR=24,I_Dum=7,T_Bar=50,P_BalBou=1,P_BunNewAnyCam=1,T_Bal=300,C_MvS=10,C_Agr=1.2,C_Lap=0.1,P_DesIIIBur=10,C_AIMax=300,C_MvW=24,T_BroChi=50,T_Fig=75,C_Lght=2,T_FoxOld=60,T_MikPik=70,I_EquIsrChi=1,P_EquDis=1,T_DesIII=80,T_BunNew=80,T_Cha=75,T_BarYel=50,T_Man=50,
+
+Music ID: N/A

@@ -1,0 +1,3 @@
+Preset String: Name=Flickering Frenzy,C_Pwr=0,P_ManRepLas=5,T_Jaw=250,T_Bal=80,P_BalRep=4,P_GenHidInf=1,C_AIMax=300,C_MvW=16,C_Sng=98719867425764,P_KonDouSpa=1,P_ScrFlyPes=1,T_Bom=55,T_Man=65,P_JawAlwSta=1,T_Kon=35,C_MvR=31,P_HesDouDam=1,I_Dum=1,P_VenErrLonFix=1,T_VenErr=35,T_Hes=150,P_BomMin=1,T_BarOld=45,T_JorWhi=25,T_Scr=60,T_Tox=85,T_JorGolGun=100,C_Agr=1.2,C_MvS=0,P_BarOldWinExp=1,P_ChaSlo=1,T_Cha=45,C_Msk=6,C_Lght=1.2
+
+Music ID: N/A

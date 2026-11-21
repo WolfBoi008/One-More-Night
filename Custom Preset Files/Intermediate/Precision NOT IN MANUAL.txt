@@ -1,0 +1,3 @@
+Preset String: Name=Precision,C_Pwr=20,T_Bad=220,T_Rox=40,I_Dum=1,T_VenErr=80,T_Jaw=80,C_NDur=135,C_AIMax=300,T_Scr=100,P_EquDis=1,T_Bab=100,I_LasRobSta=1,P_PowGenDis=1,T_Jan=75,T_Cha=60,T_Bom=75,T_Dry=40,
+
+Music ID: N/A

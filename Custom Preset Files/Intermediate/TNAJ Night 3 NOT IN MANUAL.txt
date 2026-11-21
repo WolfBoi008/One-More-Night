@@ -1,0 +1,3 @@
+Preset String: Name=Name=TNAJ night 3,T_Jor=160,T_Kon=50,T_JorDivPun=100,T_Wor=35,P_PotRepLas=5,P_BalBal=1,T_Pot=170,T_VenErr=100,C_NDur=120,C_AIMax=200,C_Sng=107957924952865,C_Rid=1.99,T_Scr=200,T_Rox=35,P_EquDis=1,P_KonDouSpa=1,T_Bab=50,P_JorSha=1,T_BunOld=75,P_JorRep=2,T_Bom=50,T_BG=65,T_Man=50,
+
+Music ID: N/A
