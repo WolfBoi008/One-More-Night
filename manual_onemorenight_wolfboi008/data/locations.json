@@ -1343,6 +1343,24 @@
     "victory": true
   },
   {
+    "name": "All Endings",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Gasoline| AND |Lighter| AND |Jordi's Paint Brush| AND |Note Piece:4| AND |Handheld Music Box| AND |Mask Fragment:3| AND |Fran| AND |Fran's Energy| AND |Crowbar|",
+    "victory": true
+  },
+  {
+    "name": "All Themed Endings",
+    "region": "Roguelike Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:20| AND |Scorched| AND |Gasoline| AND |Lighter| AND |Soaked| AND |Jordi's Paint Brush| AND |Note Piece:4| AND |Puppeteered| AND |Handheld Music Box| AND |Mask Fragment:3| AND |Fast| AND |Fran| AND |Fran's Energy| AND |Resourceful| AND |Crowbar|",
+    "victory": true
+  },
+  {
     "name": "Collect Memory Fragments",
     "category": [
       "Goal"
@@ -1990,7 +2008,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "|@Main Items:1|"
+    "requires": "({YamlEnabled(bell_logic)} AND |@Main Items:1|) OR ({YamlDisabled(bell_logic)} AND (|New Shoes| OR |Iron Lungs| OR |Handheld Music Box| OR |Flash Ring| OR |Adrenaline| OR |Camera Panel| OR |Quick Step| OR |Speed Coil| OR |Witches Brew| OR |Guilty Memory| OR |Spare Mask| OR |Empowered Paint Brush| OR |Parrying Dagger|))"
   },
   {
     "name": "Another Memory",
@@ -2109,20 +2127,20 @@
     "requires": "|Yellow Barry| AND |Bomb| AND |Chains| AND |Destroyman III| AND |Glitch| AND |Hesitation| AND |Jaws| AND |My Shadow| AND |Strings| AND |Ventilation Errors| AND |Void|"
   },
   {
-    "name": "Artificial Insanity - _averagetryhard",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Lunatic"
-    ],
-    "requires": "|Old Bunny| AND |Dry| AND |Fran| AND |Jan| AND |Jordi 'Jumpscare'| AND |Mango| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Wormcave| AND |ZGuesto|"
-  },
-  {
     "name": "Pressured Breathing - Kayo",
     "region": "Sandbox Mode",
     "category": [
       "Custom Presets - Intermediate"
     ],
     "requires": "|White| AND |Balloon Boy| AND |Broken Cat| AND |Old Bunny| AND |Dry| AND |Funsy Fox| AND |Isra| AND |Jan| AND |Noob| AND |Puppet| AND |Roxie| AND |Rush| AND |Screech| AND |Ventilation Errors|"
+  },
+  {
+    "name": "Attention Seeking - Kayo",
+    "region": "Sandbox Mode",
+    "category": [
+      "Custom Presets - Intermediate"
+    ],
+    "requires": "|Burnt Trap| AND |Chains| AND |Funsy Chicken| AND |New Chicken| AND |Old Chicken| AND |Exhaustion| AND |Funsy Fox| AND |Hand| AND |Hesitation| AND |Pillar| AND |Rush| AND |Strings| AND |Void|"
   },
   {
     "name": "Run-down Office - king_robix",
@@ -2133,68 +2151,20 @@
     "requires": "|Broken Cat| AND |Broken Chimp| AND |Old Chicken| AND |Figure| AND |Jan| AND |Kono| AND |MikePike| AND |Ventilation Errors| AND |Void|"
   },
   {
-    "name": "Unknown Routing - Kayo",
+    "name": "Artificial Insanity - _averagetryhard",
     "region": "Sandbox Mode",
     "category": [
-      "Custom Presets - Intermediate"
+      "Custom Presets - Lunatic"
     ],
-    "requires": "|Golden Gun| AND |Bad| AND |Ball| AND |Funsy Barry| AND |Bomb| AND |Chains| AND |Fran| AND |Jordi 'Jumpscare'| AND |Screech| AND |Ventilation Errors|"
+    "requires": "|Old Bunny| AND |Dry| AND |Fran| AND |Jan| AND |Jordi 'Jumpscare'| AND |Mango| AND |Pillar| AND |Puppet| AND |Roxie| AND |Rush| AND |Wormcave| AND |ZGuesto|"
   },
   {
-    "name": "Hello Everybody and welcome - Dry",
+    "name": "Long Way Around - mortadelo (aka ImDumbLolAAAA)",
     "region": "Sandbox Mode",
     "category": [
-      "Custom Presets - Easy"
+      "Custom Presets - Lunatic"
     ],
-    "requires": "|Barry| AND |Bunny| AND |Chicken| AND |Fox|"
-  },
-  {
-    "name": "Flickering Frenzy - PixDev",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Intermediate"
-    ],
-    "requires": "|Golden Gun| AND |White| AND |Ball| AND |Old Barry| AND |Bomb| AND |Chains| AND |Hesitation| AND |Jaws| AND |Kono| AND |Mango| AND |Screech| AND |Toxicity| AND |Ventilation Errors|"
-  },
-  {
-    "name": "TNAJ night 3 - uleczal",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Intermediate"
-    ],
-    "requires": "|Divine Punishment| AND |Balloon Girl| AND |Baby| AND |Bomb| AND |Old Bunny| AND |Jordi 'Jumpscare'| AND |Kono| AND |Mango| AND |Pot0s| AND |Roxie| AND |Screech| AND |Ventilation Errors| AND |Wormcave|"
-  },
-  {
-    "name": "GIVE THEM BACK - uleczal",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Hard"
-    ],
-    "requires": "|Divine Punishment| AND |Golden Gun| AND |Stratosfear| AND |White| AND |Jordi 'Jumpscare'|"
-  },
-  {
-    "name": "The Trio (Kinda Hard) - uleczal & One More hi",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Easy"
-    ],
-    "requires": "|Jordi 'Jumpscare'| AND |Mango| AND |Noob|"
-  },
-  {
-    "name": "Percision - uleczal",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Intermediate"
-    ],
-    "requires": "|Baby| AND |Bad| AND |Bomb| AND |Chains| AND |Dry| AND |Jan| AND |Jaws| AND |Roxie| AND |Screech| AND |Ventilation Errors|"
-  },
-  {
-    "name": "The Cams Basics - Korvenn",
-    "region": "Sandbox Mode",
-    "category": [
-      "Custom Presets - Easy"
-    ],
-    "requires": "|Ball| AND |Barry| AND |Yellow Barry| AND |Broken Chimp| AND |New Bunny| AND |Chains| AND |Destroyman III| AND |Figure| AND |Old Fox| AND |Isra| AND |Mango| AND |MikePike|"
+    "requires": "|Heat| AND |Balloon Boy| AND |Balloon Girl| AND |Funsy Chicken| AND |Dry| AND |Empty Suit| AND |Fran| AND |Jan| AND |Jordi 'Jumpscare'| AND |Pillar| AND |Roxie| AND |Rush| AND |Strings| AND |Ventilation Errors| AND |ZGuesto|"
   },
   {
     "name": "Black Fish",

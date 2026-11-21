@@ -1874,6 +1874,14 @@
     "filler": true
   },
   {
+    "count": 1,
+    "name": "Egg",
+    "category": [
+      "Misc. Filler Items"
+    ],
+    "filler": true
+  },
+  {
     "count": 0,
     "name": "TIX",
     "category": [

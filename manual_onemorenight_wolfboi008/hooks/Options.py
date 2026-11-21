@@ -37,6 +37,12 @@ class CustomPresets(OptionSet):
     If you'd like to have Custom Presets enabled, choose the difficulties of Custom Presets that you'd like to do.
     Valid difficulties are Easy, Intermediate, Hard, and Lunatic. Be careful since these are case sensitive!
     Also be aware that some Custom Presets might get slight difficulty changes in the future depending on feedback!
+
+    Easy: 0 Presets (for now)
+    Intermediate: 2 Presets
+    Hard: 1 Preset
+    Lunatic: 2 Presets
+    WARNING: One of the Custom Presets in the Lunatic section is Artificial Insanity, which is considered one of if not the hardest Custom Preset currently made. ONLY ENABLE THIS TIER IF YOU ARE CONFIDENT IN YOUR SKILL.
     """
     valid_keys = frozenset(["Easy", "Intermediate", "Hard", "Lunatic"])
     default = frozenset(["Easy", "Intermediate", "Hard", "Lunatic"])
