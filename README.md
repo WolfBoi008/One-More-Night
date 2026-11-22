@@ -12,6 +12,8 @@
 - Beat PtWP on Soaked
 - Beat FS Ending
 - Beat FS on Puppeteered
+- Beat All Endings
+- Beat All Endings on Their Specific States of Mind
 - Collect Memory Fragments
 
 ## Items
