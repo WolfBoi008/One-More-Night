@@ -36,7 +36,7 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    filler_items = ["Coins", "TIX", "Fire Extinguisher", "Cardboard Box", "Feeling of Disappointment", "Shattered Flashlight", "Blank Post-Its", "Train Ticket", "Dry Plushie with Removable Wig", "Symbol of Celesteal", "Broken Arcade Machine", "Black", "Bootleg Konoling", "His Blue Shackles", "Chicken Nugget"]
+    filler_items = ["Coins", "TIX", "Fire Extinguisher", "Cardboard Box", "Feeling of Disappointment", "Shattered Flashlight", "Blank Post-Its", "Train Ticket", "Dry Plushie with Removable Wig", "Symbol of Celesteal", "Broken Arcade Machine", "Black", "Bootleg Konoling", "His Blue Shackles", "Chicken Nugget", "Hubert the Wet Floor Sign", "Foot", "Jorbee"]
     return world.random.choice(filler_items)
 
 def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> None:
