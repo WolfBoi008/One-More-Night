@@ -34,13 +34,13 @@ class TotalCharactersToWinWith(Range):
 
 class CustomPresets(OptionSet):
     """
-    If you'd like to have Custom Presets enabled, choose the difficulties of Custom Presets that you'd like to do.
+    If you'd like to have Custom Presets enabled, choose the difficulties of Custom Presets that you'd like to do. The strings to copy paste all of the Custom Presets can be found in the zipped folder where you downloaded the apworld. Some Custom Presets have additional notes/requirements, so keep them in mind before choosing which ones you do/don't want to do!
     Valid difficulties are Easy, Intermediate, Hard, and Lunatic. Be careful since these are case sensitive!
     Also be aware that some Custom Presets might get slight difficulty changes in the future depending on feedback!
 
     Easy: 0 Presets (for now)
-    Intermediate: 2 Presets
-    Hard: 1 Preset
+    Intermediate: 3 Presets
+    Hard: 2 Presets
     Lunatic: 2 Presets
     WARNING: One of the Custom Presets in the Lunatic section is Artificial Insanity, which is considered one of if not the hardest Custom Preset currently made. ONLY ENABLE THIS TIER IF YOU ARE CONFIDENT IN YOUR SKILL.
     """

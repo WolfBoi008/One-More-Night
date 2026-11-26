@@ -533,7 +533,7 @@
     "category": [
       "Enemy-Specific"
     ],
-    "requires": "|Music Tape|"
+    "requires": "|Puppeteered| OR |Music Tape|"
   },
   {
     "name": "View Heat Memory",
@@ -2143,12 +2143,28 @@
     "requires": "|Burnt Trap| AND |Chains| AND |Funsy Chicken| AND |New Chicken| AND |Old Chicken| AND |Exhaustion| AND |Funsy Fox| AND |Hand| AND |Hesitation| AND |Pillar| AND |Rush| AND |Strings| AND |Void|"
   },
   {
+    "name": "Walking Simulator - iskranadziei",
+    "region": "Sandbox Mode",
+    "category": [
+      "Custom Presets - Intermediate"
+    ],
+    "requires": "|Sprayed Arrows| AND |Cadence| AND |Pillar| AND |Ventilation Errors|"
+  },
+  {
     "name": "Run-down Office - king_robix",
     "region": "Sandbox Mode",
     "category": [
       "Custom Presets - Hard"
     ],
     "requires": "|Broken Cat| AND |Broken Chimp| AND |Old Chicken| AND |Figure| AND |Jan| AND |Kono| AND |MikePike| AND |Ventilation Errors| AND |Void|"
+  },
+  {
+    "name": "Twisted Garden - xbox 360 console",
+    "region": "Sandbox Mode",
+    "category": [
+      "Custom Presets - Hard"
+    ],
+    "requires": "|Divine Punishment| AND |Stratosfear| AND |White| AND |Sprayed Arrows| AND |Ball| AND |Chains| AND |Exhaustion| AND |Hand| AND |Hesitation| AND |Jaws| AND |Mango| AND |My Shadow| AND |Pillar| AND |Rush| AND |Screech| AND |Strings| AND |Toxicity| AND |Void| AND |Wormcave|"
   },
   {
     "name": "Artificial Insanity - _averagetryhard",
